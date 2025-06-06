@@ -384,3 +384,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [06Jun2025 21:22:08.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
 [06Jun2025 21:22:08.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
 [06Jun2025 21:22:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 21:22:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ahorita me uno al vc
+[06Jun2025 21:22:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tengo que esperar si no se me muere la pc
+[06Jun2025 21:22:50.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:57931] logged in with entity id 1451 at (44.989931146455135, 63.0, 1334.3292223714661)
+[06Jun2025 21:22:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[06Jun2025 21:22:50.384] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[06Jun2025 21:22:51.852] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[06Jun2025 21:22:51.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[06Jun2025 21:22:59.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[06Jun2025 21:23:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[06Jun2025 21:23:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 21:23:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
+[06Jun2025 21:23:15.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[06Jun2025 21:23:15.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[06Jun2025 21:23:15.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[06Jun2025 21:23:32.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:37603] logged in with entity id 1532 at (62.94256596499291, 81.0, 1328.7921060925582)
+[06Jun2025 21:23:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[06Jun2025 21:23:32.355] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[06Jun2025 21:23:32.477] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[06Jun2025 21:23:32.478] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[06Jun2025 21:23:37.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[06Jun2025 21:23:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que le sale o que
+[06Jun2025 21:24:04.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que le sale o que
+[06Jun2025 21:24:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que le sale o que
+[06Jun2025 21:24:32.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que le sale o que
+[06Jun2025 21:25:00.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LÑASLÑSAÑL
+[06Jun2025 21:26:01.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no
+[06Jun2025 21:26:17.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[06Jun2025 21:27:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ese holocausto
+[06Jun2025 21:27:28.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Hiroshima y nigasaki...
+[06Jun2025 21:29:26.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[06Jun2025 21:29:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Yo escuche perro
+[06Jun2025 21:31:07.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Celular y cartera

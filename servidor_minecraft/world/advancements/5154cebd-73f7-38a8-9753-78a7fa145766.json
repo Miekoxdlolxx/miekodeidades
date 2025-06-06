@@ -1146,5 +1146,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-06-06 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-06 21:26:15 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
