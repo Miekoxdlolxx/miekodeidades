@@ -4173,23 +4173,11 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:cultural_attribute": {
-    "criteria": {
-      "cultural_attribute_0": "2025-06-06 02:02:58 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-06 02:02:12 +0000"
     },
     "done": true
-  },
-  "born_in_chaos_v1:hatman": {
-    "criteria": {
-      "hatman_2": "2025-06-06 02:02:58 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
@@ -4286,6 +4274,18 @@
       "has_sign": "2025-06-06 02:02:12 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2025-06-06 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_2": "2025-06-06 02:02:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
