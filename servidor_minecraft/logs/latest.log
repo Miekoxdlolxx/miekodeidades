@@ -387,3 +387,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [06Jun2025 08:22:48.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a) successfully connected to voice chat
 [06Jun2025 08:27:25.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=82, z=1321}
 [06Jun2025 08:27:25.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=82, z=1321}
+[06Jun2025 08:38:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 is incapacitated!
+[06Jun2025 08:38:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has been revived!
+[06Jun2025 08:38:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Alex's Mobs]
+[06Jun2025 08:38:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Mariachi?]
+[06Jun2025 08:39:18.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has completed the challenge [Mariachi!]
+[06Jun2025 08:39:30.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=81, z=1318}
+[06Jun2025 08:39:34.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1326}
+[06Jun2025 08:39:34.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1326}
+[06Jun2025 08:39:34.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1325}
+[06Jun2025 08:39:34.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=80, z=1325}
+[06Jun2025 08:39:36.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=81, z=1318}
