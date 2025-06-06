@@ -411,3 +411,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [06Jun2025 08:49:44.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=82, z=1327}
 [06Jun2025 08:51:06.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=80, z=1324}
 [06Jun2025 08:51:07.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=80, z=1324}
+[06Jun2025 08:51:23.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=67, y=80, z=1323}
+[06Jun2025 08:51:23.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=80, z=1323}
+[06Jun2025 08:51:24.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=80, z=1323}
+[06Jun2025 08:54:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 is incapacitated!
+[06Jun2025 08:56:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 was slain by Mieko_ and bled out
+[06Jun2025 08:56:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
+[06Jun2025 08:56:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported KyleXD4764 to Mieko_]
+[06Jun2025 08:57:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set KyleXD4764's game mode to Creative Mode]
+[06Jun2025 09:03:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Stone Age]
