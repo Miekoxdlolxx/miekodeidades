@@ -4311,12 +4311,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/la_cucaracha": {
-    "criteria": {
-      "tame": "2025-06-06 08:39:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-06 08:38:06 +0000"
@@ -4353,12 +4347,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-06-06 08:38:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-06 08:38:06 +0000"
@@ -4368,6 +4356,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-06 08:38:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-06 08:38:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-06-06 08:39:18 +0000"
     },
     "done": true
   },
