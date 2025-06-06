@@ -997,9 +997,243 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_head": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_body": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-06-06 21:26:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_head": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-06 21:31:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_body": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_sword": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_neck": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 21:31:59 +0000"
     },
     "done": true
   },

@@ -4389,6 +4389,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "tunic": "2025-06-06 21:30:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 21:19:52 +0000"
