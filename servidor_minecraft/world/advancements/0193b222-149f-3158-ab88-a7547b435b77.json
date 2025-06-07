@@ -33,6 +33,7 @@
     "criteria": {
       "shrubland": "2025-06-06 22:59:36 +0000",
       "rocky_shrubland": "2025-06-06 22:58:55 +0000",
+      "erupting_inferno": "2025-06-07 01:16:25 +0000",
       "clover_patch": "2025-06-06 22:55:20 +0000",
       "maple_woods": "2025-06-06 22:33:30 +0000",
       "crystalline_chasm": "2025-06-07 00:59:15 +0000",
@@ -5274,6 +5275,7 @@
       "minecraft:skeleton": "2025-06-07 00:15:08 +0000",
       "minecraft:creeper": "2025-06-07 00:23:04 +0000",
       "minecraft:wither_skeleton": "2025-06-07 01:13:08 +0000",
+      "minecraft:enderman": "2025-06-07 01:14:51 +0000",
       "minecraft:zombie": "2025-06-06 23:50:23 +0000",
       "minecraft:zombie_villager": "2025-06-07 00:30:45 +0000"
     },
@@ -5754,6 +5756,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-06-07 01:06:09 +0000"
@@ -5783,6 +5791,12 @@
       "has_netherite_scrap": "2025-06-07 01:01:02 +0000"
     },
     "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:burned": "2025-06-07 01:15:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
@@ -5841,6 +5855,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-07 00:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-07 01:19:45 +0000"
     },
     "done": true
   },
@@ -5916,6 +5936,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-07 01:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-06-07 01:03:07 +0000"
@@ -5964,6 +5990,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-07 00:59:21 +0000"
@@ -5997,6 +6029,18 @@
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2025-06-07 01:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-07 01:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-07 01:14:33 +0000"
     },
     "done": true
   },
@@ -6090,6 +6134,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-07 00:45:44 +0000"
@@ -6105,6 +6155,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-07 00:43:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
     },
     "done": true
   },
@@ -6222,6 +6278,12 @@
     },
     "done": true
   },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:burned": "2025-06-07 01:15:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-06-07 00:44:04 +0000"
@@ -6288,6 +6350,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-07 00:59:21 +0000"
@@ -6315,6 +6383,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-07 01:03:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-06-07 01:16:29 +0000"
     },
     "done": true
   },

@@ -462,6 +462,7 @@
     "criteria": {
       "shrubland": "2025-06-05 02:01:29 +0000",
       "rocky_shrubland": "2025-06-05 02:01:41 +0000",
+      "erupting_inferno": "2025-06-07 01:23:48 +0000",
       "clover_patch": "2025-06-06 23:07:17 +0000",
       "maple_woods": "2025-06-06 22:48:26 +0000",
       "crystalline_chasm": "2025-06-07 01:05:29 +0000",
@@ -4546,6 +4547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-07 01:15:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-06-07 01:06:34 +0000"
@@ -4570,9 +4577,33 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-07 01:24:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-07 01:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-07 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-07 01:15:22 +0000"
     },
     "done": true
   },
@@ -4591,6 +4622,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-07 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 01:14:03 +0000"
     },
     "done": true
   },

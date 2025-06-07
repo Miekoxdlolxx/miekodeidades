@@ -49,10 +49,13 @@
       "clover_patch": "2025-06-06 22:47:44 +0000",
       "mystic_grove": "2025-06-06 22:47:05 +0000",
       "maple_woods": "2025-06-06 23:50:39 +0000",
+      "lavender_forest": "2025-06-07 01:24:21 +0000",
       "coniferous_forest": "2025-06-06 22:02:21 +0000",
       "spider_nest": "2025-06-06 22:17:03 +0000",
       "seasonal_orchard": "2025-06-06 23:22:07 +0000",
+      "dune_beach": "2025-06-07 01:23:32 +0000",
       "seasonal_forest": "2025-06-05 05:51:04 +0000",
+      "lavender_field": "2025-06-07 01:23:54 +0000",
       "pumpkin_patch": "2025-06-05 06:03:55 +0000",
       "grassland": "2025-06-06 22:42:57 +0000"
     },
@@ -5276,6 +5279,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
     "criteria": {
       "has_item": "2025-06-07 00:56:54 +0000"
@@ -5330,15 +5339,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
     "criteria": {
       "has_item": "2025-06-07 00:56:54 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-06-07 01:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 01:14:03 +0000"
     },
     "done": true
   },
