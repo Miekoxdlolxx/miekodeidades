@@ -31,6 +31,7 @@
       "minecraft:dark_forest": "2025-06-06 22:54:34 +0000",
       "minecraft:river": "2025-06-05 06:00:26 +0000",
       "minecraft:forest": "2025-06-06 22:02:15 +0000",
+      "minecraft:ocean": "2025-06-07 01:35:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:55:08 +0000",
       "minecraft:plains": "2025-06-06 23:40:11 +0000"
     },
@@ -52,6 +53,7 @@
       "lavender_forest": "2025-06-07 01:24:21 +0000",
       "coniferous_forest": "2025-06-06 22:02:21 +0000",
       "spider_nest": "2025-06-06 22:17:03 +0000",
+      "redwood_forest": "2025-06-07 01:32:44 +0000",
       "seasonal_orchard": "2025-06-06 23:22:07 +0000",
       "dune_beach": "2025-06-07 01:23:32 +0000",
       "seasonal_forest": "2025-06-05 05:51:04 +0000",
@@ -5255,15 +5257,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-07 01:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-07 00:56:13 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 01:27:46 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-06-07 01:10:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-07 01:33:05 +0000"
     },
     "done": true
   },
@@ -5315,6 +5335,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 01:27:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
     "criteria": {
       "has_item": "2025-06-07 00:56:54 +0000"
@@ -5354,6 +5380,36 @@
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-06-07 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-06-07 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-07 01:33:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 01:33:05 +0000"
     },
     "done": true
   },
