@@ -3829,6 +3829,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-07 01:50:23 +0000",
       "baked_potato": "2025-06-06 22:45:02 +0000",
       "bread": "2025-06-06 23:56:04 +0000",
       "golden_apple": "2025-06-06 23:25:21 +0000",
@@ -5703,6 +5704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 02:02:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-07 01:11:48 +0000",
@@ -5737,6 +5744,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-07 00:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-07 02:02:49 +0000"
     },
     "done": true
   },
@@ -5811,6 +5824,12 @@
       "rottencreatures:burned": "2025-06-07 01:15:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 02:02:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
@@ -5968,6 +5987,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-07 02:02:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-07 01:06:11 +0000"
@@ -5995,6 +6020,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-07 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 02:02:46 +0000"
     },
     "done": true
   },
@@ -6037,6 +6068,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-06-07 00:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-07 02:02:49 +0000"
     },
     "done": true
   },
@@ -6124,6 +6161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-06-07 00:59:47 +0000"
@@ -6202,6 +6245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-07 01:51:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-06-07 00:43:14 +0000"
@@ -6241,6 +6290,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-07 00:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-07 01:51:32 +0000"
     },
     "done": true
   },
@@ -6319,6 +6374,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-07 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/brewing/corrupted_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-06-07 01:51:32 +0000"
     },
     "done": true
   },
