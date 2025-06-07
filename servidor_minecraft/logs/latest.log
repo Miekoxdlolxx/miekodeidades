@@ -394,3 +394,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 08:19:27.073] [Server thread/WARN] [net.minecraft.world.entity.boss.enderdragon.phases.DragonStrafePlayerPhase/]: Skipping player strafe phase because no player was found
 [07Jun2025 08:19:27.956] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
 [07Jun2025 08:19:27.957] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 08:19:46.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 08:19:47.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 08:19:47.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 08:20:40.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Getting an Upgrade]
+[07Jun2025 08:26:26.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.18.21.209:38973] logged in with entity id 3083 at (-1311.952990573623, 82.04833172039635, 1432.6457199479128)
+[07Jun2025 08:26:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[07Jun2025 08:26:26.213] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[07Jun2025 08:26:28.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[07Jun2025 08:26:28.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 08:26:52.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 08:26:53.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 08:26:53.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 08:27:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Free the End]
+[07Jun2025 08:27:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 08:27:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [The End?]
+[07Jun2025 08:27:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 08:27:36.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> DDD
+[07Jun2025 08:27:38.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> xddd
+[07Jun2025 08:28:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has reached the goal [The Next Generation]
+[07Jun2025 08:28:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 08:29:15.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8 timed out
+[07Jun2025 08:29:15.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Terroris8910
+[07Jun2025 08:29:15.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
+[07Jun2025 08:29:15.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8
+[07Jun2025 08:29:16.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8
+[07Jun2025 08:29:16.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) successfully connected to voice chat
+[07Jun2025 08:29:23.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[07Jun2025 08:29:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 08:29:33.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> jugemos leftsito sapo
+[07Jun2025 08:29:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
