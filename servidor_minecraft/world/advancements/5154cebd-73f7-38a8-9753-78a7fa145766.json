@@ -2319,7 +2319,8 @@
       "minecraft:cave_spider": "2025-06-06 22:24:08 +0000",
       "minecraft:silverfish": "2025-06-06 22:29:26 +0000",
       "minecraft:stray": "2025-06-06 22:11:27 +0000",
-      "minecraft:zombie": "2025-06-06 22:04:45 +0000"
+      "minecraft:zombie": "2025-06-06 22:04:45 +0000",
+      "minecraft:drowned": "2025-06-07 03:42:30 +0000"
     },
     "done": false
   },
@@ -6079,36 +6080,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-07 00:57:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-06-07 01:02:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-07 01:01:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
-    "criteria": {
-      "has_item": "2025-06-07 00:53:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-07 00:57:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-07 00:50:40 +0000"
@@ -6121,9 +6092,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_raw_gold": "2025-06-07 00:57:46 +0000"
+      "has_raw_copper": "2025-06-07 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/ironwood_block_ingot": {
+    "criteria": {
+      "has_item": "2025-06-07 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-06-07 00:53:20 +0000"
     },
     "done": true
   },
@@ -6139,15 +6122,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-06-07 00:53:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-06-07 00:57:10 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/compressed_blocks/reversed/ironwood_block_ingot": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_item": "2025-06-07 00:51:43 +0000"
+      "has_raw_gold": "2025-06-07 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 01:01:51 +0000"
     },
     "done": true
   },
@@ -6157,21 +6164,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-07 01:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-06-07 01:02:54 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+  "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
-      "has_item": "2025-06-07 00:53:20 +0000"
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
-      "has_raw_copper": "2025-06-07 00:50:40 +0000"
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 03:42:27 +0000"
     },
     "done": true
   },
