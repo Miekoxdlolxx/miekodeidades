@@ -54,7 +54,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-06-06 22:00:40 +0000",
-      "bread": "2025-06-06 22:19:22 +0000"
+      "bread": "2025-06-06 22:19:22 +0000",
+      "golden_apple": "2025-06-07 04:51:17 +0000"
     },
     "done": false
   },
@@ -2011,7 +2012,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-06 23:13:30 +0000",
-      "minecraft:river": "2025-06-06 22:06:59 +0000"
+      "minecraft:river": "2025-06-06 22:06:59 +0000",
+      "minecraft:plains": "2025-06-07 04:50:16 +0000"
     },
     "done": false
   },
@@ -4009,9 +4011,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
@@ -4033,9 +4053,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-07 04:54:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
@@ -4084,6 +4116,18 @@
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
@@ -4177,6 +4221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4198,6 +4248,12 @@
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
@@ -4225,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4240,6 +4302,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
@@ -4369,6 +4437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4390,6 +4464,12 @@
   "cfm:recipes/decorations/light_gray_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-07 04:44:32 +0000"
     },
     "done": true
   },
@@ -4432,6 +4512,12 @@
   "cfm:recipes/decorations/red_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-07 04:49:52 +0000"
     },
     "done": true
   },
