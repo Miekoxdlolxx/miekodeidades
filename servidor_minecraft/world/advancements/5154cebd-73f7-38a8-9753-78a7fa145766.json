@@ -71,8 +71,10 @@
       "minecraft:beach": "2025-06-06 23:07:11 +0000",
       "minecraft:dark_forest": "2025-06-06 22:49:11 +0000",
       "minecraft:river": "2025-06-06 01:58:59 +0000",
+      "minecraft:grove": "2025-06-07 05:47:28 +0000",
       "minecraft:forest": "2025-06-06 21:56:31 +0000",
       "minecraft:ocean": "2025-06-06 23:08:18 +0000",
+      "minecraft:frozen_peaks": "2025-06-07 05:31:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:48:13 +0000",
       "minecraft:meadow": "2025-06-07 03:49:27 +0000",
       "minecraft:plains": "2025-06-07 01:04:29 +0000"
@@ -6189,9 +6191,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 05:45:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
     "criteria": {
       "has_planks": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-07 05:39:25 +0000"
     },
     "done": true
   },
@@ -6228,6 +6242,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-07 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-06-07 05:40:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:34:15 +0000"
     },
     "done": true
   },
@@ -6369,9 +6395,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 05:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-06-07 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-06-07 05:33:26 +0000"
     },
     "done": true
   },
@@ -6396,6 +6434,12 @@
   "cfm:recipes/decorations/stripped_mangrove_park_bench": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-06-07 05:33:26 +0000"
     },
     "done": true
   },
@@ -6429,9 +6473,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-06-07 05:40:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_chair": {
     "criteria": {
       "has_planks": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-06-07 05:40:13 +0000"
     },
     "done": true
   },
@@ -6477,6 +6533,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-06-07 05:40:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_desk_cabinet": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
@@ -6486,6 +6548,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-06-07 05:33:26 +0000"
     },
     "done": true
   },
@@ -6540,6 +6608,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-06-07 05:33:11 +0000"
     },
     "done": true
   },
@@ -6603,6 +6677,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-07 05:34:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_table": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
@@ -6618,6 +6698,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-07 04:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:34:15 +0000"
     },
     "done": true
   },
@@ -6645,6 +6731,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-06-07 05:32:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:34:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
@@ -6666,6 +6764,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_counter": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-06-07 05:40:13 +0000"
     },
     "done": true
   },
@@ -6741,6 +6845,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-06-07 05:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-07 05:04:49 +0000"
@@ -6768,6 +6878,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 05:45:38 +0000"
     },
     "done": true
   },

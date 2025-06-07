@@ -31,8 +31,10 @@
       "minecraft:dark_forest": "2025-06-06 22:54:34 +0000",
       "minecraft:river": "2025-06-05 06:00:26 +0000",
       "minecraft:lukewarm_ocean": "2025-06-07 04:35:16 +0000",
+      "minecraft:grove": "2025-06-07 05:27:45 +0000",
       "minecraft:forest": "2025-06-06 22:02:15 +0000",
       "minecraft:ocean": "2025-06-07 01:35:37 +0000",
+      "minecraft:frozen_peaks": "2025-06-07 05:28:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:55:08 +0000",
       "minecraft:meadow": "2025-06-07 05:20:19 +0000",
       "minecraft:savanna": "2025-06-07 04:34:31 +0000",
@@ -5513,6 +5515,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-06-07 05:44:33 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/large_graveyard": {
     "criteria": {
       "large_graveyard": "2025-06-07 04:15:38 +0000"
@@ -5609,9 +5617,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-06-07 05:39:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-07 05:33:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-06-07 05:39:32 +0000"
     },
     "done": true
   },
@@ -5651,15 +5677,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-06-07 05:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-06-07 05:44:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-07 03:59:55 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-06-07 05:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-06-07 05:45:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-06-07 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-06-07 05:39:32 +0000"
     },
     "done": true
   },
@@ -5797,9 +5853,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-06-07 05:32:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-06-07 05:44:33 +0000"
     },
     "done": true
   },
@@ -5866,6 +5934,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-06-07 05:32:44 +0000"
     },
     "done": true
   },

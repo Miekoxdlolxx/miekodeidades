@@ -35,6 +35,7 @@
       "rocky_shrubland": "2025-06-06 22:07:19 +0000",
       "coniferous_forest": "2025-06-07 00:18:06 +0000",
       "seasonal_forest": "2025-06-06 21:50:35 +0000",
+      "pumpkin_patch": "2025-06-07 05:29:59 +0000",
       "grassland": "2025-06-06 22:59:45 +0000"
     },
     "done": false
@@ -53,6 +54,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-06-07 05:35:41 +0000",
       "apple": "2025-06-06 22:00:40 +0000",
       "bread": "2025-06-06 22:19:22 +0000",
       "golden_apple": "2025-06-07 04:51:17 +0000"
@@ -2013,6 +2015,7 @@
     "criteria": {
       "minecraft:beach": "2025-06-06 23:13:30 +0000",
       "minecraft:river": "2025-06-06 22:06:59 +0000",
+      "minecraft:forest": "2025-06-07 05:38:20 +0000",
       "minecraft:plains": "2025-06-07 04:50:16 +0000"
     },
     "done": false
@@ -3613,6 +3616,7 @@
       "minecraft:spider": "2025-06-06 22:14:40 +0000",
       "minecraft:wither_skeleton": "2025-06-07 05:14:09 +0000",
       "minecraft:enderman": "2025-06-07 05:14:28 +0000",
+      "minecraft:stray": "2025-06-07 05:31:02 +0000",
       "minecraft:zombie": "2025-06-06 22:15:18 +0000"
     },
     "done": false
@@ -4067,6 +4071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 05:36:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
@@ -4088,6 +4098,12 @@
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-07 05:40:39 +0000"
     },
     "done": true
   },
@@ -4144,6 +4160,12 @@
       "has_concrete": "2025-06-07 04:07:19 +0000"
     },
     "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-07 05:36:44 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
@@ -4259,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 05:36:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
@@ -4274,6 +4302,12 @@
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 05:36:50 +0000"
     },
     "done": true
   },
@@ -4628,6 +4662,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-07 05:36:44 +0000"
     },
     "done": true
   },

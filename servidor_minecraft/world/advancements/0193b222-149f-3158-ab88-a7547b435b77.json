@@ -33,12 +33,15 @@
     "criteria": {
       "shrubland": "2025-06-06 22:59:36 +0000",
       "rocky_shrubland": "2025-06-06 22:58:55 +0000",
+      "bayou": "2025-06-07 05:44:06 +0000",
       "erupting_inferno": "2025-06-07 01:16:25 +0000",
+      "highland": "2025-06-07 05:50:46 +0000",
       "clover_patch": "2025-06-06 22:55:20 +0000",
       "maple_woods": "2025-06-06 22:33:30 +0000",
       "crystalline_chasm": "2025-06-07 00:59:15 +0000",
       "withered_abyss": "2025-06-07 01:11:54 +0000",
       "orchard": "2025-06-06 22:58:50 +0000",
+      "mediterranean_forest": "2025-06-07 05:50:19 +0000",
       "coniferous_forest": "2025-06-06 22:32:44 +0000",
       "dune_beach": "2025-06-06 23:02:19 +0000",
       "seasonal_forest": "2025-06-06 22:27:23 +0000",
@@ -55,9 +58,11 @@
       "minecraft:taiga": "2025-06-06 22:38:34 +0000",
       "minecraft:sunflower_plains": "2025-06-07 04:36:19 +0000",
       "minecraft:beach": "2025-06-06 22:33:21 +0000",
+      "minecraft:mangrove_swamp": "2025-06-07 05:46:42 +0000",
       "minecraft:river": "2025-06-06 22:29:06 +0000",
       "minecraft:forest": "2025-06-06 22:38:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:38:50 +0000",
+      "minecraft:savanna": "2025-06-07 05:43:36 +0000",
       "minecraft:plains": "2025-06-06 23:02:45 +0000"
     },
     "done": false
@@ -6580,6 +6585,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-07 04:15:23 +0000"
@@ -6589,6 +6600,18 @@
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-06-07 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-07 05:29:00 +0000"
     },
     "done": true
   },
@@ -6604,9 +6627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-07 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
     },
     "done": true
   },
@@ -6616,9 +6651,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:38:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 05:38:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-06-07 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-07 05:29:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-06-07 05:47:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 05:38:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 05:38:24 +0000"
     },
     "done": true
   },
@@ -6631,6 +6714,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-06-07 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-07 05:48:38 +0000"
     },
     "done": true
   },
@@ -6682,15 +6771,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2025-06-07 04:54:54 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-06-07 05:38:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-06-07 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
     },
     "done": true
   },
@@ -6736,9 +6843,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 05:47:54 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-06-07 04:54:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-06-07 05:47:54 +0000"
     },
     "done": true
   },
