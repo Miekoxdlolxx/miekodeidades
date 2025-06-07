@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-06 23:54:13 +0000",
+      "minecraft:sunflower_plains": "2025-06-07 06:46:15 +0000",
       "minecraft:birch_forest": "2025-06-05 05:48:28 +0000",
       "minecraft:beach": "2025-06-06 22:47:57 +0000",
       "minecraft:dark_forest": "2025-06-06 22:54:34 +0000",
@@ -2775,6 +2776,7 @@
       "minecraft:cave_spider": "2025-06-06 22:10:33 +0000",
       "minecraft:enderman": "2025-06-06 22:11:07 +0000",
       "minecraft:stray": "2025-06-06 22:09:06 +0000",
+      "minecraft:endermite": "2025-06-07 06:42:01 +0000",
       "minecraft:zombie": "2025-06-06 22:04:24 +0000",
       "minecraft:zombie_villager": "2025-06-06 22:05:03 +0000"
     },
@@ -5986,9 +5988,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-06-07 06:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
     },
     "done": true
   },
@@ -5998,9 +6030,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-07 06:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 06:49:46 +0000"
     },
     "done": true
   },

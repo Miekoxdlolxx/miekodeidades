@@ -47,6 +47,7 @@
       "seasonal_orchard": "2025-06-06 23:19:37 +0000",
       "seasonal_forest": "2025-06-06 01:45:57 +0000",
       "pasture": "2025-06-07 06:32:27 +0000",
+      "lavender_field": "2025-06-07 06:45:41 +0000",
       "pumpkin_patch": "2025-06-06 01:59:06 +0000",
       "grassland": "2025-06-06 22:44:34 +0000",
       "prairie": "2025-06-07 06:36:26 +0000"
@@ -74,6 +75,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-06 22:48:15 +0000",
+      "minecraft:sunflower_plains": "2025-06-07 06:46:18 +0000",
       "minecraft:birch_forest": "2025-06-07 04:27:07 +0000",
       "minecraft:beach": "2025-06-06 23:07:11 +0000",
       "minecraft:dark_forest": "2025-06-06 22:49:11 +0000",
@@ -6931,6 +6933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-07 06:39:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-06-07 06:30:05 +0000"
@@ -6946,6 +6954,12 @@
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-06-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-07 06:39:23 +0000"
     },
     "done": true
   },
@@ -6985,6 +6999,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 06:42:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-06-07 06:33:31 +0000"
@@ -6994,6 +7014,12 @@
   "chococraft:recipes/misc/chocobo_saddle_pack": {
     "criteria": {
       "has_chocobo_saddle_bags": "2025-06-07 06:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-07 06:39:23 +0000"
     },
     "done": true
   },
