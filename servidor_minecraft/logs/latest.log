@@ -463,3 +463,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 22:30:21.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cali_Chase2 lost connection: Disconnected
 [07Jun2025 22:30:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cali_Chase2 left the game
 [07Jun2025 22:30:21.115] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cali_Chase2
+[07Jun2025 22:32:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the weather to clear]
+[07Jun2025 22:33:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 22:33:44.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=65, z=1745} BlockPos{x=124, y=66, z=1744}
+[07Jun2025 22:34:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> sapo este
+[07Jun2025 22:34:03.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDD
+[07Jun2025 22:34:13.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Arthur_055]
+[07Jun2025 22:34:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nose xdd
+[07Jun2025 22:35:08.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has completed the challenge [Mariachi!]
+[07Jun2025 22:35:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[07Jun2025 22:35:58.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> xd
+[07Jun2025 22:36:14.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nooooo
+[07Jun2025 22:36:27.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[07Jun2025 22:37:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Gravedigger]
+[07Jun2025 22:37:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nose we
+[07Jun2025 22:38:08.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> si siguen jugando alo mejor seria otro host
+[07Jun2025 22:38:35.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> vaya mierda
+[07Jun2025 22:38:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[07Jun2025 22:38:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 22:38:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 22:40:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[07Jun2025 22:40:27.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duzzk0[/127.167.134.2:34737] logged in with entity id 17427 at (1412.9784840767304, 67.50672075900049, 680.8468086927211)
+[07Jun2025 22:40:27.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 joined the game
+[07Jun2025 22:40:27.426] [Server thread/INFO] [Jade/]: Syncing config to Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64)
+[07Jun2025 22:40:31.294] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Duzzk0 (18)
+[07Jun2025 22:40:31.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Duzzk0
+[07Jun2025 22:40:40.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Jun2025 22:40:55.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[07Jun2025 22:40:56.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[07Jun2025 22:40:56.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64) successfully connected to voice chat
+[07Jun2025 22:40:57.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[07Jun2025 22:41:15.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[07Jun2025 22:41:21.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18204, l='ServerLevel[world]', x=1409.50, y=54.00, z=636.50]

@@ -6391,6 +6391,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-06-07 22:35:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 22:25:37 +0000"
@@ -6439,6 +6445,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-07 22:30:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 22:25:37 +0000"
@@ -6454,6 +6466,12 @@
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-06-07 22:35:16 +0000"
     },
     "done": true
   },
