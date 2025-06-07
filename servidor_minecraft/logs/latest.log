@@ -483,3 +483,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 08:40:35.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> el micro
 [07Jun2025 08:40:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> lo tengo bug
 [07Jun2025 08:40:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> lo tengo que configurar
+[07Jun2025 08:40:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> pero te escucho
+[07Jun2025 08:41:19.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[07Jun2025 08:41:19.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[07Jun2025 08:41:19.290] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[07Jun2025 08:42:58.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved wrongly!
+[07Jun2025 08:43:01.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved wrongly!
+[07Jun2025 08:48:29.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Isn't It Iron Pick]
+[07Jun2025 08:50:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [The Wind Darkening]
+[07Jun2025 08:54:52.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [It Belongs in a Museum]
