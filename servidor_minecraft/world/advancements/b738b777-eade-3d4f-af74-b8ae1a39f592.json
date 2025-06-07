@@ -32,7 +32,8 @@
       "minecraft:river": "2025-06-05 02:01:05 +0000",
       "minecraft:cold_ocean": "2025-06-05 01:31:10 +0000",
       "minecraft:forest": "2025-06-05 02:01:03 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-05 01:28:01 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-05 01:28:01 +0000",
+      "minecraft:plains": "2025-06-07 01:04:38 +0000"
     },
     "done": false
   },
@@ -463,6 +464,7 @@
       "rocky_shrubland": "2025-06-05 02:01:41 +0000",
       "clover_patch": "2025-06-06 23:07:17 +0000",
       "maple_woods": "2025-06-06 22:48:26 +0000",
+      "crystalline_chasm": "2025-06-07 01:05:29 +0000",
       "orchard": "2025-06-05 23:10:00 +0000",
       "coniferous_forest": "2025-06-05 02:01:06 +0000",
       "spider_nest": "2025-06-05 07:06:03 +0000",
@@ -4538,9 +4540,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-07 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-07 01:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-07 01:01:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-07 01:01:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
     "criteria": {
       "has_deepslate": "2025-06-07 00:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-07 01:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-07 01:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-07 01:05:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-06-07 01:01:18 +0000"
     },
     "done": true
   },

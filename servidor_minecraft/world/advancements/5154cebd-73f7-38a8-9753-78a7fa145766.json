@@ -72,7 +72,8 @@
       "minecraft:river": "2025-06-06 01:58:59 +0000",
       "minecraft:forest": "2025-06-06 21:56:31 +0000",
       "minecraft:ocean": "2025-06-06 23:08:18 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-06 22:48:13 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-06 22:48:13 +0000",
+      "minecraft:plains": "2025-06-07 01:04:29 +0000"
     },
     "done": false
   },
@@ -6084,6 +6085,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-07 01:02:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 01:01:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
     "criteria": {
       "has_item": "2025-06-07 00:53:20 +0000"
@@ -6135,6 +6148,18 @@
   "twilightforest:recipes/misc/compressed_blocks/reversed/ironwood_block_ingot": {
     "criteria": {
       "has_item": "2025-06-07 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 01:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-07 01:02:54 +0000"
     },
     "done": true
   },

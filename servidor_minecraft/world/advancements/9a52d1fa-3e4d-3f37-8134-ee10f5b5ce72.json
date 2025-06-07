@@ -5258,6 +5258,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-07 01:10:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-07 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 01:13:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
     "criteria": {
       "has_item": "2025-06-07 00:56:54 +0000"
@@ -5306,9 +5324,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-07 01:03:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
     "criteria": {
       "has_item": "2025-06-07 00:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-07 01:03:14 +0000"
     },
     "done": true
   },
