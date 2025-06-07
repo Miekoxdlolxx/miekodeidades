@@ -217,6 +217,7 @@
       "highland": "2025-06-06 23:28:20 +0000",
       "clover_patch": "2025-06-07 04:15:26 +0000",
       "maple_woods": "2025-06-07 04:16:03 +0000",
+      "crystalline_chasm": "2025-06-07 05:20:44 +0000",
       "withered_abyss": "2025-06-07 05:19:03 +0000",
       "orchard": "2025-06-07 04:55:30 +0000",
       "coniferous_forest": "2025-06-07 04:59:47 +0000",
@@ -4197,6 +4198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-06-07 04:03:01 +0000"
@@ -4239,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-07 05:20:49 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:55 +0000"
@@ -4263,6 +4276,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/straw": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:55 +0000"
@@ -4272,6 +4291,12 @@
   "cfm:recipes/decorations/green_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
     },
     "done": true
   },
@@ -4293,6 +4318,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4308,6 +4339,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-06-07 04:03:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
     },
     "done": true
   },
@@ -4341,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4350,6 +4393,12 @@
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
     },
     "done": true
   },
@@ -4389,6 +4438,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 04:02:18 +0000"
@@ -4398,6 +4453,12 @@
   "cfm:recipes/decorations/gray_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
     },
     "done": true
   },
@@ -4428,6 +4489,12 @@
   "cfm:recipes/decorations/blue_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
     },
     "done": true
   },
@@ -4557,6 +4624,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4599,6 +4672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-06-07 04:03:01 +0000"
@@ -4611,6 +4690,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4620,6 +4705,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-07 05:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-07 05:25:30 +0000"
     },
     "done": true
   },
@@ -4725,6 +4822,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4827,6 +4930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-07 05:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 04:02:18 +0000"
@@ -4884,6 +4993,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-06-07 05:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-07 05:21:50 +0000"
     },
     "done": true
   },

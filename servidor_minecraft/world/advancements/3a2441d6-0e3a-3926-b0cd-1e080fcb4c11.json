@@ -4169,6 +4169,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4199,6 +4205,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
@@ -4217,9 +4229,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
     },
     "done": true
   },
@@ -4337,6 +4361,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-07 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 05:12:12 +0000"
@@ -4376,6 +4406,12 @@
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-06-07 05:20:37 +0000"
     },
     "done": true
   },
@@ -4439,6 +4475,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:28 +0000"
@@ -4478,6 +4520,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
     },
     "done": true
   },
@@ -4544,6 +4592,12 @@
   "cfm:recipes/decorations/white_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-06-07 05:20:47 +0000"
     },
     "done": true
   },
@@ -4616,6 +4670,18 @@
   "cfm:recipes/decorations/light_gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 05:20:47 +0000"
     },
     "done": true
   },

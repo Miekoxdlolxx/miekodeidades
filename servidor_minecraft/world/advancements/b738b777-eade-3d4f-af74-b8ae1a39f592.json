@@ -4834,6 +4834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -4860,7 +4866,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-07 05:18:34 +0000"
+      "minecraft:nether_wastes": "2025-06-07 05:18:34 +0000",
+      "minecraft:soul_sand_valley": "2025-06-07 05:20:46 +0000"
     },
     "done": false
   },
@@ -4900,6 +4907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -4930,6 +4943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 05:21:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -4957,6 +4976,12 @@
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
     },
     "done": true
   },
@@ -5080,6 +5105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -5101,6 +5132,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
     },
     "done": true
   },
@@ -5203,6 +5240,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-06-07 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
     },
     "done": true
   },
@@ -5437,6 +5480,18 @@
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 05:21:08 +0000"
     },
     "done": true
   },

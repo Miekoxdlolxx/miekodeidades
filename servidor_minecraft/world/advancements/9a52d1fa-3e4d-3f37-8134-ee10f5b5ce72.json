@@ -5845,6 +5845,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-06-07 05:22:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
