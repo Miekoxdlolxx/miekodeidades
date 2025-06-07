@@ -4077,6 +4077,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-06-07 04:57:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4212,6 +4218,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-06-07 04:57:47 +0000"
     },
     "done": true
   },
@@ -4476,6 +4488,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-07 05:00:02 +0000"
     },
     "done": true
   },

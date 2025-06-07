@@ -6193,6 +6193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
@@ -6259,6 +6265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-07 04:37:24 +0000"
@@ -6295,6 +6307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
@@ -6316,6 +6334,12 @@
   "cfm:recipes/decorations/mangrove_coffee_table": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-07 05:04:49 +0000"
     },
     "done": true
   },
@@ -6346,6 +6370,12 @@
   "cfm:recipes/decorations/stripped_mangrove_park_bench": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
     },
     "done": true
   },
@@ -6409,6 +6439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
@@ -6438,6 +6474,12 @@
       "trickor_treat_0": "2025-06-07 03:47:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-07 04:57:28 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
@@ -6475,6 +6517,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_cabinet": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
@@ -6484,6 +6532,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
     },
     "done": true
   },
@@ -6559,6 +6613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_desk": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
@@ -6607,6 +6667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
@@ -6622,6 +6688,18 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-06-07 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:04:49 +0000"
     },
     "done": true
   },

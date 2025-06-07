@@ -5776,6 +5776,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-07 05:01:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
@@ -5839,6 +5845,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-07 05:01:30 +0000"
     },
     "done": true
   },
