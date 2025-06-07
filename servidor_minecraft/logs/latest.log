@@ -1898,3 +1898,349 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [07Jun2025 05:52:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> grandote
 [07Jun2025 05:52:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Mapachito_44]
 [07Jun2025 05:52:32.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9789ms or 195 ticks behind
+[07Jun2025 05:52:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> hola hugito
+[07Jun2025 05:52:38.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutri
+[07Jun2025 05:52:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> por que tu armadura se rompio antes..
+[07Jun2025 05:52:44.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que la mia
+[07Jun2025 05:52:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has been revived!
+[07Jun2025 05:52:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ola
+[07Jun2025 05:52:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> vea lo que hay afuera
+[07Jun2025 05:52:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 05:52:54.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y ?
+[07Jun2025 05:52:58.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11296ms or 225 ticks behind
+[07Jun2025 05:53:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Yo me tope con dragones a cada rato
+[07Jun2025 05:53:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> salgan a arriba
+[07Jun2025 05:53:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 05:53:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Eso le pasa por no llamarme
+[07Jun2025 05:53:12.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ez
+[07Jun2025 05:53:17.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> VEA
+[07Jun2025 05:53:19.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6225ms or 124 ticks behind
+[07Jun2025 05:53:19.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[07Jun2025 05:53:28.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Postmortal]
+[07Jun2025 05:53:39.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[07Jun2025 05:53:57.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Sea? Not a Problem]
+[07Jun2025 05:54:00.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5441ms or 108 ticks behind
+[07Jun2025 05:54:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mhm
+[07Jun2025 05:54:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> si mi espada tuviera reparacion
+[07Jun2025 05:54:16.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> otra cosa seria
+[07Jun2025 05:54:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 05:54:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pa que
+[07Jun2025 05:54:21.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
+[07Jun2025 05:54:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Izhug's game mode to Creative Mode]
+[07Jun2025 05:54:43.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6914ms or 138 ticks behind
+[07Jun2025 05:54:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pere
+[07Jun2025 05:54:59.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Duzzk0 to Mieko_]
+[07Jun2025 05:55:03.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5120ms or 102 ticks behind
+[07Jun2025 05:55:21.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[07Jun2025 05:55:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya mieko}
+[07Jun2025 05:55:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 05:55:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 is incapacitated!
+[07Jun2025 05:55:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 didn't duck and cover
+[07Jun2025 05:55:27.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 became death, the destroyer of worlds
+[07Jun2025 05:55:27.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 19.311482935491767,0.3779999781847039,-18.73262358999102
+[07Jun2025 05:55:27.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! -33.852017989488786,27.853124717175277,18.86353490156273
+[07Jun2025 05:55:27.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -28.42430062165181,3.9051552563668963,2.683569289944103
+[07Jun2025 05:55:28.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 19.370989318877946,0.0,-18.898154306643164
+[07Jun2025 05:55:28.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! -20.29217654739182,17.708589734591953,12.183064620106961
+[07Jun2025 05:55:28.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -29.74295073424537,3.9051552563668963,2.9178632296269598
+[07Jun2025 05:55:28.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duzzk0 moved too quickly! 15.946770744635842,-3.3770621079521916,-24.266315621245894
+[07Jun2025 05:55:28.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 10.641061035442362,-0.2939608582650308,-10.392048528448981
+[07Jun2025 05:55:28.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -45.953338831719066,6.033527886648983,4.508145773891783
+[07Jun2025 05:55:29.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 19.746967082048286,-0.5422788786772585,-19.162015338258698
+[07Jun2025 05:55:29.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -29.85166942137903,3.919429675751786,2.928528824388991
+[07Jun2025 05:55:29.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -19.127171374027057,1.6343576658736367,1.8764268057234403
+[07Jun2025 05:55:36.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> jJAJAAJJA
+[07Jun2025 05:55:51.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mano traspaso todo
+[07Jun2025 05:55:55.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18355ms or 367 ticks behind
+[07Jun2025 05:55:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya valieron mis mochilas f1
+[07Jun2025 05:56:01.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[07Jun2025 05:56:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pero eso que XD
+[07Jun2025 05:56:09.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Duzzk0 to Mieko_]
+[07Jun2025 05:56:20.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10716ms or 214 ticks behind
+[07Jun2025 05:56:34.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Duzzk0's game mode to Creative Mode]
+[07Jun2025 05:56:42.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> VEA TODO LO QUE MATO
+[07Jun2025 05:56:43.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Mapachito_44's game mode to Creative Mode]
+[07Jun2025 05:56:44.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8475ms or 169 ticks behind
+[07Jun2025 05:56:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Lo congelaba al pobre..
+[07Jun2025 05:57:06.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mejor quemalos
+[07Jun2025 05:57:08.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8683ms or 173 ticks behind
+[07Jun2025 05:57:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
+[07Jun2025 05:57:21.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la mia gana
+[07Jun2025 05:57:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :D
+[07Jun2025 05:57:32.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9003ms or 180 ticks behind
+[07Jun2025 05:57:43.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -8.208228701113967,0.0,7.154912479548557
+[07Jun2025 05:57:44.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mano apriete m
+[07Jun2025 05:57:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga aca
+[07Jun2025 05:57:56.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9831ms or 196 ticks behind
+[07Jun2025 05:57:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga mano
+[07Jun2025 05:58:00.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> VEA
+[07Jun2025 05:58:01.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> UY NO
+[07Jun2025 05:58:02.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -8.342699938218175,0.0,6.997336324261141
+[07Jun2025 05:58:18.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -9.330835455856572,0.0,5.611532950540322
+[07Jun2025 05:58:19.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8085ms or 161 ticks behind
+[07Jun2025 05:58:25.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> es esta w
+[07Jun2025 05:58:42.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7610ms or 152 ticks behind
+[07Jun2025 05:59:04.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7003ms or 140 ticks behind
+[07Jun2025 05:59:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y no quisieras hacer armas nutria...
+[07Jun2025 05:59:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has reached the goal [I Am Become Death]
+[07Jun2025 05:59:18.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Disconnected
+[07Jun2025 05:59:18.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[07Jun2025 05:59:18.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[07Jun2025 05:59:19.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duzzk0 lost connection: Disconnected
+[07Jun2025 05:59:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 left the game
+[07Jun2025 05:59:19.152] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Duzzk0
+[07Jun2025 05:59:20.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[07Jun2025 05:59:20.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[07Jun2025 05:59:20.915] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[07Jun2025 05:59:22.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[07Jun2025 05:59:22.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[07Jun2025 05:59:22.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[07Jun2025 05:59:23.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[07Jun2025 05:59:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[07Jun2025 05:59:23.152] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[07Jun2025 05:59:24.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[07Jun2025 05:59:24.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arthur_055 lost connection: Disconnected
+[07Jun2025 05:59:24.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 left the game
+[07Jun2025 05:59:24.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arthur_055
+[07Jun2025 05:59:30.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> espere mieko
+[07Jun2025 05:59:32.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> VENGA
+[07Jun2025 05:59:36.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! -8.202904908209803,0.0,-7.127623542015158
+[07Jun2025 05:59:42.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> hagase tp a mi
+[07Jun2025 05:59:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 06:00:03.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> y si pone muchas?
+[07Jun2025 06:00:03.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 7.864460372206395,18.928881282358773,1.9141259223814586
+[07Jun2025 06:00:08.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[07Jun2025 06:00:28.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> VEA
+[07Jun2025 06:00:32.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[07Jun2025 06:00:32.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/117182, l='ServerLevel[world]', x=1425.50, y=65.00, z=834.32] died, message: 'Farmer was killed'
+[07Jun2025 06:00:33.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 06:00:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 1346 entities]
+[07Jun2025 06:00:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 733 entities]
+[07Jun2025 06:00:35.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pobrecitos
+[07Jun2025 06:00:35.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[07Jun2025 06:00:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MANO ESTOY DERRIBADO
+[07Jun2025 06:00:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
+[07Jun2025 06:00:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 was killed
+[07Jun2025 06:00:45.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 123 entities]
+[07Jun2025 06:00:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya me mato sapo
+[07Jun2025 06:01:11.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 7.366871879850919,3.3750001341059317,-6.157625164316414
+[07Jun2025 06:01:13.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:50233] logged in with entity id 134927 at (147.5683173258903, 81.98489040862547, 1731.1880979680907)
+[07Jun2025 06:01:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[07Jun2025 06:01:13.487] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[07Jun2025 06:01:13.786] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[07Jun2025 06:01:13.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[07Jun2025 06:01:14.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 8.802154560228132,0.0,-6.378862249401436
+[07Jun2025 06:01:18.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:53741] logged in with entity id 135043 at (-1348.2096007729474, 75.0, 1440.122075034865)
+[07Jun2025 06:01:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[07Jun2025 06:01:18.642] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[07Jun2025 06:01:19.374] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[07Jun2025 06:01:19.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[07Jun2025 06:01:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[07Jun2025 06:01:20.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b369a12-8a6d-3740-ad13-f7f98244bb35
+[07Jun2025 06:01:21.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arthur_055[/127.188.213.252:37301] logged in with entity id 135260 at (-566.6999999880791, 63.0, 2384.9438326518725)
+[07Jun2025 06:01:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 joined the game
+[07Jun2025 06:01:21.351] [Server thread/INFO] [Jade/]: Syncing config to Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886)
+[07Jun2025 06:01:21.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b369a12-8a6d-3740-ad13-f7f98244bb35
+[07Jun2025 06:01:21.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35) successfully connected to voice chat
+[07Jun2025 06:01:21.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arthur_055 (18)
+[07Jun2025 06:01:21.977] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arthur_055
+[07Jun2025 06:01:21.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -0.012586838132818912,-10.111131385027761,1.6495711329450842
+[07Jun2025 06:01:21.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mano no se donde quedaron las bombas nuclearos
+[07Jun2025 06:01:23.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[07Jun2025 06:01:26.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[07Jun2025 06:01:27.433] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[07Jun2025 06:01:27.433] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
+[07Jun2025 06:01:30.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 9.292350368341289,0.0,-5.349854950350164
+[07Jun2025 06:01:30.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
+[07Jun2025 06:01:30.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pongame spec
+[07Jun2025 06:01:32.368] [Worker-Main-3/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at ttv.migami.jeg.entity.animal.Boo$BooGoToHiveGoal.<init>(Boo.java:379) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at ttv.migami.jeg.entity.animal.Boo.registerBaseGoals(Boo.java:97) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at ttv.migami.jeg.entity.animal.Boo.m_8099_(Boo.java:79) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at net.minecraft.world.entity.Mob.<init>(Mob.java:135) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.animal.Animal.<init>(Animal.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.animal.Bee.<init>(Bee.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at ttv.migami.jeg.entity.animal.Boo.<init>(Boo.java:68) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at net.minecraft.world.entity.EntityType.m_20615_(EntityType.java:525) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_220450_(NaturalSpawner.java:363) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_6929_(NoiseBasedChunkGenerator.java:453) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_196757_(ChunkStatus.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Jun2025 06:01:32.371] [Worker-Main-3/ERROR] [net.minecraft.util.ThreadingDetector/]: Thread dumps: 
+Worker-Main-3: 
+	at java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199420_(ThreadingDetector.java:92)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:82)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33)
+	at TRANSFORMER/jeg@0.4.0/ttv.migami.jeg.entity.animal.Boo$BooGoToHiveGoal.<init>(Boo.java:379)
+	at TRANSFORMER/jeg@0.4.0/ttv.migami.jeg.entity.animal.Boo.registerBaseGoals(Boo.java:97)
+	at TRANSFORMER/jeg@0.4.0/ttv.migami.jeg.entity.animal.Boo.m_8099_(Boo.java:79)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.<init>(Mob.java:135)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:14)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:29)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.animal.Animal.<init>(Animal.java:40)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.animal.Bee.<init>(Bee.java:140)
+	at TRANSFORMER/jeg@0.4.0/ttv.migami.jeg.entity.animal.Boo.<init>(Boo.java:68)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.EntityType.m_20615_(EntityType.java:525)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_220450_(NaturalSpawner.java:363)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_6929_(NoiseBasedChunkGenerator.java:453)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus.m_196757_(ChunkStatus.java:140)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643)
+	at MC-BOOTSTRAP/datafixerupper@6.0.8/com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07Jun2025 06:01:32.372] [Worker-Main-3/WARN] [net.minecraft.world.level.NaturalSpawner/]: Failed to create mob
+net.minecraft.ReportedException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:88) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at ttv.migami.jeg.entity.animal.Boo$BooGoToHiveGoal.<init>(Boo.java:379) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at ttv.migami.jeg.entity.animal.Boo.registerBaseGoals(Boo.java:97) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at ttv.migami.jeg.entity.animal.Boo.m_8099_(Boo.java:79) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at net.minecraft.world.entity.Mob.<init>(Mob.java:135) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.animal.Animal.<init>(Animal.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.entity.animal.Bee.<init>(Bee.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at ttv.migami.jeg.entity.animal.Boo.<init>(Boo.java:68) ~[JustEnoughGuns-0.4.0-1.20.1.jar%23193!/:0.4.0-1.20.1]
+	at net.minecraft.world.entity.EntityType.m_20615_(EntityType.java:525) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_220450_(NaturalSpawner.java:363) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.m_6929_(NoiseBasedChunkGenerator.java:453) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_196757_(ChunkStatus.java:140) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	... 32 more
+[07Jun2025 06:01:36.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:43823] logged in with entity id 136078 at (-38.65998871113873, 65.0, 1112.9257083355312)
+[07Jun2025 06:01:36.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[07Jun2025 06:01:36.281] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[07Jun2025 06:01:36.501] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[07Jun2025 06:01:36.501] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 06:01:38.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Mapachito_44's game mode to Spectator Mode]
+[07Jun2025 06:01:43.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 06:01:44.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 06:01:44.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 06:01:50.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 18.611842673455158,0.0,-17.1213761184365
+[07Jun2025 06:01:51.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jun2025 06:01:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Survival Mode]
+[07Jun2025 06:01:52.962] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34261ef3[id=<null>,name=Nekkai_,properties={},legacy=false] (/127.245.242.118:52063) lost connection: Disconnected
+[07Jun2025 06:01:54.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 18.851213232470286,0.0,-17.979422127515818
+[07Jun2025 06:01:58.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 18.04216760194197,0.0,-17.716796875193495
+[07Jun2025 06:01:58.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 10.200296118811252,0.0,-4.126587352107208
+[07Jun2025 06:02:00.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 17.215050329842597,0.0,-16.94322887340752
+[07Jun2025 06:02:01.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 10.161471298450124,0.0,-10.001024138845764
+[07Jun2025 06:02:02.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 12.247258854833603,0.0,-12.053877617168155
+[07Jun2025 06:02:04.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 14.645281044537228,0.0,-14.41403561991433
+[07Jun2025 06:02:05.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 6.3759416308670325,0.02057629158238683,-7.97275783345367
+[07Jun2025 06:02:05.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 7.275674040980107,0.0,-7.160792917981439
+[07Jun2025 06:02:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Milk Bucket] to Izhug]
+[07Jun2025 06:02:11.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 7.3386072717029265,0.0,-8.03898431566472
+[07Jun2025 06:02:11.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> se va hasta el carro wey
+[07Jun2025 06:02:13.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:60321] logged in with entity id 137041 at (-1348.6527899623627, 76.0, 1441.9522222659634)
+[07Jun2025 06:02:13.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[07Jun2025 06:02:13.896] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[07Jun2025 06:02:14.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[07Jun2025 06:02:14.251] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 06:02:16.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10176ms or 203 ticks behind
+[07Jun2025 06:02:23.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 06:02:24.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 06:02:24.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 06:02:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya mieko
+[07Jun2025 06:02:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed every effect from Izhug]
+[07Jun2025 06:02:30.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Evento final: Quien sobrevivira ante la nuke
+[07Jun2025 06:02:35.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 6.742267014179106,-1.028906809988385,-8.001999001552804
+[07Jun2025 06:02:43.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Jun2025 06:02:46.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si no te mata la explo te mata la intoxicacion
+[07Jun2025 06:02:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> zzzzzzz
+[07Jun2025 06:02:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> zzzzzz
+[07Jun2025 06:02:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> zzzzzzzz
+[07Jun2025 06:02:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MANOOO
+[07Jun2025 06:03:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> voy
+[07Jun2025 06:03:09.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya llege

@@ -483,6 +483,7 @@
       "pumpkin_patch": "2025-06-05 02:02:07 +0000",
       "grassland": "2025-06-05 07:07:41 +0000",
       "glowing_grotto": "2025-06-07 01:29:15 +0000",
+      "crag": "2025-06-07 05:57:56 +0000",
       "ominous_woods": "2025-06-07 04:13:28 +0000"
     },
     "done": false
@@ -4873,6 +4874,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -4993,6 +5000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-06-07 03:44:21 +0000"
@@ -5059,6 +5072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -5092,6 +5111,12 @@
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-07 05:52:56 +0000"
     },
     "done": true
   },
@@ -5203,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -5305,6 +5336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-06-07 03:44:21 +0000"
@@ -5365,9 +5402,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
     },
     "done": true
   },
@@ -5473,6 +5522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 03:59:24 +0000"
@@ -5563,6 +5618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -5587,6 +5648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -5608,6 +5675,12 @@
   "cfm:recipes/decorations/red_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:52:56 +0000"
     },
     "done": true
   },

@@ -29,6 +29,7 @@
       "minecraft:beach": "2025-06-05 01:52:51 +0000",
       "minecraft:river": "2025-06-05 02:05:45 +0000",
       "minecraft:forest": "2025-06-07 04:53:25 +0000",
+      "minecraft:ocean": "2025-06-07 05:57:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 04:53:27 +0000",
       "minecraft:meadow": "2025-06-07 04:58:23 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-06 23:28:22 +0000",
@@ -222,10 +223,13 @@
       "orchard": "2025-06-07 04:55:30 +0000",
       "coniferous_forest": "2025-06-07 04:59:47 +0000",
       "spider_nest": "2025-06-05 07:32:39 +0000",
+      "dune_beach": "2025-06-07 05:57:50 +0000",
       "seasonal_forest": "2025-06-05 05:41:50 +0000",
+      "pasture": "2025-06-07 05:57:59 +0000",
       "fir_clearing": "2025-06-07 04:54:41 +0000",
       "pumpkin_patch": "2025-06-05 02:04:32 +0000",
-      "grassland": "2025-06-05 07:32:35 +0000"
+      "grassland": "2025-06-05 07:32:35 +0000",
+      "prairie": "2025-06-07 05:58:09 +0000"
     },
     "done": false
   },
@@ -1997,6 +2001,7 @@
     "criteria": {
       "baked_potato": "2025-06-07 05:18:18 +0000",
       "bread": "2025-06-06 23:35:46 +0000",
+      "golden_apple": "2025-06-07 05:53:44 +0000",
       "enchanted_golden_apple": "2025-06-05 08:06:50 +0000"
     },
     "done": false
@@ -4283,6 +4288,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:55 +0000"
@@ -4529,6 +4540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4607,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4676,6 +4699,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-07 05:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-07 05:53:05 +0000"
     },
     "done": true
   },
@@ -4793,6 +4822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-06-07 05:31:32 +0000"
@@ -4874,6 +4909,12 @@
   "cfm:recipes/decorations/magenta_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
     },
     "done": true
   },
@@ -4967,6 +5008,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4976,6 +5023,18 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-07 05:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
     },
     "done": true
   },
@@ -5201,6 +5260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-06-07 05:31:32 +0000"
@@ -5285,6 +5350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-06-07 05:12:03 +0000"
@@ -5309,6 +5380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-06-07 05:28:15 +0000"
@@ -5330,6 +5407,12 @@
   "cfm:recipes/decorations/red_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 03:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-07 05:53:05 +0000"
     },
     "done": true
   },

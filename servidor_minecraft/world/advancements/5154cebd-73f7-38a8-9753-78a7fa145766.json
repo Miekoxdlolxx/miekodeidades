@@ -33,6 +33,7 @@
     "criteria": {
       "shrubland": "2025-06-06 22:36:18 +0000",
       "rocky_shrubland": "2025-06-06 22:36:12 +0000",
+      "jade_cliffs": "2025-06-07 05:55:25 +0000",
       "clover_patch": "2025-06-06 23:09:27 +0000",
       "mystic_grove": "2025-06-06 22:46:28 +0000",
       "maple_woods": "2025-06-06 22:37:00 +0000",
@@ -71,6 +72,7 @@
       "minecraft:beach": "2025-06-06 23:07:11 +0000",
       "minecraft:dark_forest": "2025-06-06 22:49:11 +0000",
       "minecraft:river": "2025-06-06 01:58:59 +0000",
+      "minecraft:stony_shore": "2025-06-07 05:54:08 +0000",
       "minecraft:grove": "2025-06-07 05:47:28 +0000",
       "minecraft:forest": "2025-06-06 21:56:31 +0000",
       "minecraft:ocean": "2025-06-06 23:08:18 +0000",
@@ -6479,6 +6481,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-07 05:56:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_chair": {
     "criteria": {
       "has_planks": "2025-06-07 04:19:06 +0000"
@@ -6518,6 +6526,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-07 05:56:54 +0000"
     },
     "done": true
   },
@@ -6710,6 +6724,12 @@
   "rottencreatures:root": {
     "criteria": {
       "rottencreatures:undead_miner": "2025-06-07 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-07 05:56:54 +0000"
     },
     "done": true
   },
