@@ -6195,6 +6195,12 @@
     },
     "done": true
   },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-07 04:01:50 +0000"
+    },
+    "done": false
+  },
   "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
@@ -6210,6 +6216,12 @@
   "chococraft:recipes/misc/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-06-07 04:01:33 +0000"
     },
     "done": true
   },
@@ -6252,6 +6264,18 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-07 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-07 04:03:03 +0000"
     },
     "done": true
   },

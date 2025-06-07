@@ -3834,7 +3834,8 @@
       "baked_potato": "2025-06-06 22:45:02 +0000",
       "bread": "2025-06-06 23:56:04 +0000",
       "golden_apple": "2025-06-06 23:25:21 +0000",
-      "golden_carrot": "2025-06-06 23:07:38 +0000"
+      "golden_carrot": "2025-06-06 23:07:38 +0000",
+      "carrot": "2025-06-07 04:03:54 +0000"
     },
     "done": false
   },
@@ -5281,6 +5282,7 @@
       "minecraft:wither_skeleton": "2025-06-07 01:13:08 +0000",
       "minecraft:enderman": "2025-06-07 01:14:51 +0000",
       "minecraft:zombie": "2025-06-06 23:50:23 +0000",
+      "minecraft:drowned": "2025-06-07 04:00:47 +0000",
       "minecraft:zombie_villager": "2025-06-07 00:30:45 +0000"
     },
     "done": false
@@ -6555,6 +6557,12 @@
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-06-07 02:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-07 04:03:48 +0000"
     },
     "done": true
   },

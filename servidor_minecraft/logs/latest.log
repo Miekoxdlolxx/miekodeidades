@@ -636,3 +636,83 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [07Jun2025 03:57:39.248] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,alexscaves:main_channel,cfm:network,sophisticatedbackpacks:channel,framework:play,forge:tier_sorting,alexsmobs:main_channel,mowziesmobs:net,incapacitated:main,geckolib:main,graveyard:spawn_entity,refurbished_furniture:play,endermanoverhaul:main,citadel:main_channel,securitycraft:securitycraft,jeg:play,iceandfire:main_channel,born_in_chaos_v1:born_in_chaos_v1,curios:main,pehkui:main,framework:handshake,sophisticatedcore:channel,patchouli:main,useless_sword:useless_sword,twilightforest:channel] rejected vanilla connections
 [07Jun2025 03:57:39.248] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.22.96.175:60933] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [07Jun2025 03:57:50.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Jun2025 03:58:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 273 block(s)]
+[07Jun2025 03:58:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pansaelgato85> mieko
+[07Jun2025 03:58:09.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[07Jun2025 03:58:13.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> esta afk
+[07Jun2025 03:58:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pansaelgato85> ok
+[07Jun2025 03:58:28.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
+[07Jun2025 03:58:42.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 03:58:47.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[07Jun2025 03:58:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 tried to swim in lava to escape Soulsand Valley Enderman
+[07Jun2025 03:59:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> uy mano isque hay nuevas variantes de enderman
+[07Jun2025 03:59:06.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
+[07Jun2025 03:59:24.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
+[07Jun2025 03:59:27.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=65, z=3052} BlockPos{x=708, y=63, z=3054}
+[07Jun2025 03:59:27.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=65, z=3052} BlockPos{x=708, y=63, z=3054}
+[07Jun2025 03:59:28.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> pansa que haces xd
+[07Jun2025 03:59:43.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
+[07Jun2025 04:00:02.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[07Jun2025 04:00:21.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[07Jun2025 04:00:42.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
+[07Jun2025 04:00:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> pansa quieres que haga el oxxo?
+[07Jun2025 04:01:00.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[07Jun2025 04:01:19.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[07Jun2025 04:01:33.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Good Demoman]
+[07Jun2025 04:01:40.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5323ms or 106 ticks behind
+[07Jun2025 04:01:59.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
+[07Jun2025 04:02:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[07Jun2025 04:02:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 is incapacitated!
+[07Jun2025 04:02:19.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[07Jun2025 04:02:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 was slain by Fallen Chaos Knight
+[07Jun2025 04:02:39.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[07Jun2025 04:02:49.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported pansaelgato85 to Mieko_]
+[07Jun2025 04:02:49.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has made the advancement [Dark Metallurgy]
+[07Jun2025 04:02:59.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5206ms or 104 ticks behind
+[07Jun2025 04:03:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has reached the goal [Exorcism]
+[07Jun2025 04:03:18.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[07Jun2025 04:03:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 806 block(s)]
+[07Jun2025 04:03:37.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[07Jun2025 04:03:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> pos te pregunte ._.
+[07Jun2025 04:03:54.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[07Jun2025 04:03:59.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ta bien
+[07Jun2025 04:04:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> no se enoje
+[07Jun2025 04:04:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> le repongo
+[07Jun2025 04:04:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no mano ese benny si saca canas verdes
+[07Jun2025 04:04:12.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jun2025 04:04:16.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDDDDDDD
+[07Jun2025 04:04:23.262] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,alexscaves:main_channel,cfm:network,sophisticatedbackpacks:channel,framework:play,forge:tier_sorting,alexsmobs:main_channel,mowziesmobs:net,incapacitated:main,geckolib:main,graveyard:spawn_entity,refurbished_furniture:play,endermanoverhaul:main,citadel:main_channel,securitycraft:securitycraft,jeg:play,iceandfire:main_channel,born_in_chaos_v1:born_in_chaos_v1,curios:main,pehkui:main,framework:handshake,sophisticatedcore:channel,patchouli:main,useless_sword:useless_sword,twilightforest:channel] rejected vanilla connections
+[07Jun2025 04:04:23.263] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.22.96.175:60171] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[07Jun2025 04:04:30.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 04:04:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3477 block(s)]
+[07Jun2025 04:04:47.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[07Jun2025 04:05:05.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[07Jun2025 04:05:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Glow and Behold!]
+[07Jun2025 04:05:15.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[07Jun2025 04:05:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[07Jun2025 04:05:15.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[07Jun2025 04:05:18.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDD
+[07Jun2025 04:05:28.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3782 block(s)]
+[07Jun2025 04:05:45.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.106.206.173:45875] logged in with entity id 22858 at (10.595166786822418, 68.0, 217.5)
+[07Jun2025 04:05:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[07Jun2025 04:05:46.009] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[07Jun2025 04:05:46.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[07Jun2025 04:05:46.364] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 04:05:48.782] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,alexscaves:main_channel,cfm:network,sophisticatedbackpacks:channel,framework:play,forge:tier_sorting,alexsmobs:main_channel,mowziesmobs:net,incapacitated:main,geckolib:main,graveyard:spawn_entity,refurbished_furniture:play,endermanoverhaul:main,citadel:main_channel,securitycraft:securitycraft,jeg:play,iceandfire:main_channel,born_in_chaos_v1:born_in_chaos_v1,curios:main,pehkui:main,framework:handshake,sophisticatedcore:channel,patchouli:main,useless_sword:useless_sword,twilightforest:channel] rejected vanilla connections
+[07Jun2025 04:05:48.782] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.22.96.175:56859] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[07Jun2025 04:05:49.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 04:05:57.433] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 04:05:57.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jun2025 04:05:58.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 04:05:58.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 04:05:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 394 block(s)]
+[07Jun2025 04:06:05.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[07Jun2025 04:06:06.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 2508 block(s)]
+[07Jun2025 04:06:16.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
+[07Jun2025 04:06:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 2666 block(s)]
+[07Jun2025 04:06:34.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[07Jun2025 04:06:52.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[07Jun2025 04:07:10.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[07Jun2025 04:07:27.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[07Jun2025 04:07:45.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[07Jun2025 04:08:04.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
