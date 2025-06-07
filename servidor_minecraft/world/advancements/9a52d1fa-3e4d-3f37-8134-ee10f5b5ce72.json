@@ -50,6 +50,7 @@
       "clover_patch": "2025-06-06 22:47:44 +0000",
       "mystic_grove": "2025-06-06 22:47:05 +0000",
       "maple_woods": "2025-06-06 23:50:39 +0000",
+      "field": "2025-06-07 04:11:16 +0000",
       "lavender_forest": "2025-06-07 01:24:21 +0000",
       "coniferous_forest": "2025-06-06 22:02:21 +0000",
       "spider_nest": "2025-06-06 22:17:03 +0000",
@@ -59,7 +60,8 @@
       "seasonal_forest": "2025-06-05 05:51:04 +0000",
       "lavender_field": "2025-06-07 01:23:54 +0000",
       "pumpkin_patch": "2025-06-05 06:03:55 +0000",
-      "grassland": "2025-06-06 22:42:57 +0000"
+      "grassland": "2025-06-06 22:42:57 +0000",
+      "ominous_woods": "2025-06-07 04:13:22 +0000"
     },
     "done": false
   },
@@ -5482,6 +5484,12 @@
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-06-07 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-06-07 04:15:38 +0000"
     },
     "done": true
   },

@@ -3832,6 +3832,7 @@
       "cooked_porkchop": "2025-06-07 01:50:23 +0000",
       "sweet_berries": "2025-06-07 02:06:58 +0000",
       "baked_potato": "2025-06-06 22:45:02 +0000",
+      "apple": "2025-06-07 04:09:08 +0000",
       "bread": "2025-06-06 23:56:04 +0000",
       "golden_apple": "2025-06-06 23:25:21 +0000",
       "golden_carrot": "2025-06-06 23:07:38 +0000",
@@ -6563,6 +6564,48 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-07 04:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-07 04:15:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 04:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-07 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-07 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-07 04:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 04:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-07 04:06:32 +0000"
     },
     "done": true
   },
