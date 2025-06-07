@@ -30,9 +30,11 @@
       "minecraft:beach": "2025-06-06 22:47:57 +0000",
       "minecraft:dark_forest": "2025-06-06 22:54:34 +0000",
       "minecraft:river": "2025-06-05 06:00:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-07 04:35:16 +0000",
       "minecraft:forest": "2025-06-06 22:02:15 +0000",
       "minecraft:ocean": "2025-06-07 01:35:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:55:08 +0000",
+      "minecraft:savanna": "2025-06-07 04:34:31 +0000",
       "minecraft:plains": "2025-06-06 23:40:11 +0000"
     },
     "done": false
@@ -47,11 +49,13 @@
     "criteria": {
       "shrubland": "2025-06-06 22:36:22 +0000",
       "rocky_shrubland": "2025-06-06 22:36:19 +0000",
+      "scrubland": "2025-06-07 04:34:29 +0000",
       "clover_patch": "2025-06-06 22:47:44 +0000",
       "mystic_grove": "2025-06-06 22:47:05 +0000",
       "maple_woods": "2025-06-06 23:50:39 +0000",
       "field": "2025-06-07 04:11:16 +0000",
       "lavender_forest": "2025-06-07 01:24:21 +0000",
+      "mediterranean_forest": "2025-06-07 04:32:12 +0000",
       "coniferous_forest": "2025-06-06 22:02:21 +0000",
       "spider_nest": "2025-06-06 22:17:03 +0000",
       "redwood_forest": "2025-06-07 01:32:44 +0000",
@@ -61,6 +65,7 @@
       "lavender_field": "2025-06-07 01:23:54 +0000",
       "pumpkin_patch": "2025-06-05 06:03:55 +0000",
       "grassland": "2025-06-06 22:42:57 +0000",
+      "crag": "2025-06-07 04:34:48 +0000",
       "ominous_woods": "2025-06-07 04:13:22 +0000"
     },
     "done": false
@@ -5469,9 +5474,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
     },
     "done": true
   },
@@ -5493,6 +5510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
@@ -5505,6 +5528,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-07 04:27:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
@@ -5514,6 +5543,18 @@
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
     },
     "done": true
   },
@@ -5535,6 +5576,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
@@ -5550,6 +5597,12 @@
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-06-07 03:52:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
     },
     "done": true
   },
@@ -5580,6 +5633,12 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-06-07 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-07 04:27:27 +0000"
     },
     "done": true
   },
@@ -5625,6 +5684,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
@@ -5652,6 +5717,12 @@
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-06-07 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
     },
     "done": true
   },
@@ -5703,15 +5774,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-07 04:27:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-07 03:58:22 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-07 04:26:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-07 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-06-07 04:26:25 +0000"
     },
     "done": true
   },

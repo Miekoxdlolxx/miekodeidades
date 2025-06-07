@@ -4207,6 +4207,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 04:35:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4342,6 +4348,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 04:35:21 +0000"
     },
     "done": true
   },

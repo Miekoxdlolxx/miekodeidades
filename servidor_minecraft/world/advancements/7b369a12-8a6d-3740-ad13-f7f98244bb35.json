@@ -2018,6 +2018,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:phantom": "2025-06-06 23:49:45 +0000",
+      "minecraft:zombie": "2025-06-07 04:27:14 +0000",
       "minecraft:zombie_villager": "2025-06-05 08:10:43 +0000"
     },
     "done": false
