@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-05 01:43:02 +0000",
       "minecraft:taiga": "2025-06-05 01:28:09 +0000",
+      "minecraft:sunflower_plains": "2025-06-07 04:39:57 +0000",
       "minecraft:birch_forest": "2025-06-05 01:27:24 +0000",
       "minecraft:beach": "2025-06-05 01:30:24 +0000",
       "minecraft:river": "2025-06-05 02:01:05 +0000",
@@ -5120,6 +5121,12 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-06-07 04:37:02 +0000"
     },
     "done": true
   },

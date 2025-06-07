@@ -885,3 +885,100 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [07Jun2025 04:39:22.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5320ms or 106 ticks behind
 [07Jun2025 04:39:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> -852, 24, 2103
 [07Jun2025 04:39:42.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4924ms or 98 ticks behind
+[07Jun2025 04:39:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> dragon tier 4 p 5
+[07Jun2025 04:39:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tu puedes.
+[07Jun2025 04:39:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 04:40:06.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9778ms or 195 ticks behind
+[07Jun2025 04:40:28.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6914ms or 138 ticks behind
+[07Jun2025 04:40:30.527] [Server thread/WARN] [jeg/]: literal{Mieko_}(b738b777-eade-3d4f-af74-b8ae1a39f592) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 175
+[07Jun2025 04:40:51.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7445ms or 148 ticks behind
+[07Jun2025 04:40:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Life turned out to be a comedy]
+[07Jun2025 04:40:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Netherite Axe] to Izhug]
+[07Jun2025 04:41:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
+[07Jun2025 04:41:12.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6732ms or 134 ticks behind
+[07Jun2025 04:41:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[07Jun2025 04:41:32.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[07Jun2025 04:41:51.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[07Jun2025 04:42:11.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4810ms or 96 ticks behind
+[07Jun2025 04:42:31.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5344ms or 106 ticks behind
+[07Jun2025 04:42:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> xaero-waypoint:dragon:D:-857:15:2093:10:false:0:Internal-overworld-waypoints
+[07Jun2025 04:42:52.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5983ms or 119 ticks behind
+[07Jun2025 04:43:12.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[07Jun2025 04:43:32.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[07Jun2025 04:43:54.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7143ms or 142 ticks behind
+[07Jun2025 04:43:56.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[07Jun2025 04:43:56.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[07Jun2025 04:43:56.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[07Jun2025 04:44:13.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[07Jun2025 04:44:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 is incapacitated!
+[07Jun2025 04:44:32.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has reached the goal [Exorcism]
+[07Jun2025 04:44:33.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
+[07Jun2025 04:44:33.791] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[07Jun2025 04:44:33.865] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[07Jun2025 04:44:33.875] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[07Jun2025 04:44:33.875] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[07Jun2025 04:44:33.875] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[07Jun2025 04:44:33.875] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[07Jun2025 04:44:33.876] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[07Jun2025 04:44:33.876] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[07Jun2025 04:44:33.876] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[07Jun2025 04:44:33.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[07Jun2025 04:44:33.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[07Jun2025 04:44:33.878] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[07Jun2025 04:44:33.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[07Jun2025 04:44:33.922] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[07Jun2025 04:44:39.349] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[07Jun2025 04:44:53.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[07Jun2025 04:45:13.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[07Jun2025 04:45:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> c pansanocarry
+[07Jun2025 04:45:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
+[07Jun2025 04:45:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> pansa donde andas
+[07Jun2025 04:45:32.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
+[07Jun2025 04:45:39.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has been revived!
+[07Jun2025 04:45:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ven aqui
+[07Jun2025 04:45:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> -
+[07Jun2025 04:45:52.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
+[07Jun2025 04:46:12.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[07Jun2025 04:46:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ven tu
+[07Jun2025 04:46:21.047] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[07Jun2025 04:46:31.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4725ms or 94 ticks behind
+[07Jun2025 04:46:42.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duzzk0[/127.167.134.2:58439] logged in with entity id 65926 at (65.69887005183021, 64.0, 1569.6268759389106)
+[07Jun2025 04:46:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 joined the game
+[07Jun2025 04:46:42.864] [Server thread/INFO] [Jade/]: Syncing config to Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64)
+[07Jun2025 04:46:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ven con migo
+[07Jun2025 04:46:47.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Duzzk0 (18)
+[07Jun2025 04:46:47.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Duzzk0
+[07Jun2025 04:46:50.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> te doy hierro
+[07Jun2025 04:46:50.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
+[07Jun2025 04:47:10.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
+[07Jun2025 04:47:12.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[07Jun2025 04:47:13.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[07Jun2025 04:47:13.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64) successfully connected to voice chat
+[07Jun2025 04:47:17.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ven con migo te doy hierro pa el dragon
+[07Jun2025 04:47:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> pa peliar
+[07Jun2025 04:47:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> vamos
+[07Jun2025 04:47:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> evento final??
+[07Jun2025 04:47:30.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
+[07Jun2025 04:47:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> DEDSAFIO REFERENCIA
+[07Jun2025 04:47:37.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No.
+[07Jun2025 04:47:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Duzzk0]
+[07Jun2025 04:47:42.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si.
+[07Jun2025 04:47:50.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
+[07Jun2025 04:47:56.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> JAJAJA
+[07Jun2025 04:47:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Double Trouble]
+[07Jun2025 04:48:10.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
+[07Jun2025 04:48:25.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Acquire Hardware]
+[07Jun2025 04:48:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Life turned out to be a comedy]
+[07Jun2025 04:48:32.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6660ms or 133 ticks behind
+[07Jun2025 04:48:40.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> CREATTE ALGO
+[07Jun2025 04:48:53.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6446ms or 128 ticks behind
+[07Jun2025 04:49:13.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> que bonita zona mapachiken
+[07Jun2025 04:49:14.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5091ms or 101 ticks behind
+[07Jun2025 04:49:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> olle no puedo golpearte?
+[07Jun2025 04:49:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> que bueno
+[07Jun2025 04:49:34.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5562ms or 111 ticks behind
+[07Jun2025 04:49:39.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ten esto es pa ti
+[07Jun2025 04:49:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> no te olvides de mi xd
+[07Jun2025 04:49:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has made the advancement [Diamonds!]
+[07Jun2025 04:49:56.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
+[07Jun2025 04:50:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> dame

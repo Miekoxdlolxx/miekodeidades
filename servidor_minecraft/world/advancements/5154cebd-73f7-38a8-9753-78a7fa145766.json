@@ -2324,7 +2324,8 @@
       "minecraft:silverfish": "2025-06-06 22:29:26 +0000",
       "minecraft:stray": "2025-06-06 22:11:27 +0000",
       "minecraft:zombie": "2025-06-06 22:04:45 +0000",
-      "minecraft:drowned": "2025-06-07 03:42:30 +0000"
+      "minecraft:drowned": "2025-06-07 03:42:30 +0000",
+      "minecraft:zombie_villager": "2025-06-07 04:39:51 +0000"
     },
     "done": false
   },
@@ -6252,6 +6253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-07 04:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
@@ -6303,6 +6310,12 @@
   "cfm:recipes/decorations/mangrove_coffee_table": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-07 04:37:24 +0000"
     },
     "done": true
   },
@@ -6363,6 +6376,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-06-07 04:40:57 +0000"
     },
     "done": true
   },
@@ -6510,6 +6529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-07 04:37:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
@@ -6579,6 +6604,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-07 04:37:24 +0000"
     },
     "done": true
   },
