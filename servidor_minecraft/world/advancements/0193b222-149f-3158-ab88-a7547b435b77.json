@@ -6399,7 +6399,8 @@
   },
   "rottencreatures:kill_all_rot": {
     "criteria": {
-      "rottencreatures:burned": "2025-06-07 01:15:16 +0000"
+      "rottencreatures:burned": "2025-06-07 01:15:16 +0000",
+      "rottencreatures:swampy": "2025-06-07 06:22:22 +0000"
     },
     "done": false
   },
@@ -7003,15 +7004,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-06-07 06:11:15 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-06-07 06:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
     },
     "done": true
   },
@@ -7027,9 +7070,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
     },
     "done": true
   },
@@ -7039,9 +7112,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-07 06:11:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
     },
     "done": true
   },
@@ -7051,9 +7136,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-07 06:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-07 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
     },
     "done": true
   },
@@ -7063,9 +7280,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
     },
     "done": true
   },
@@ -7081,9 +7328,63 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-06-07 06:16:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
     },
     "done": true
   },
@@ -7099,15 +7400,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-07 06:16:12 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
     },
     "done": true
   },
@@ -7123,6 +7448,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-06-07 06:16:14 +0000"
@@ -7132,6 +7469,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-06-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
     },
     "done": true
   },
@@ -7165,6 +7508,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 06:16:14 +0000"
@@ -7174,6 +7547,30 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-07 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
     },
     "done": true
   },
@@ -7195,6 +7592,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-07 06:06:00 +0000"
@@ -7207,9 +7622,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-07 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-07 06:22:08 +0000"
     },
     "done": true
   },
@@ -7219,9 +7658,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-07 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-07 06:11:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_toilet": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
     },
     "done": true
   },
@@ -7237,9 +7718,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-06-07 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-07 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-07 06:22:05 +0000"
     },
     "done": true
   },

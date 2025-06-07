@@ -33,15 +33,20 @@
     "criteria": {
       "shrubland": "2025-06-06 22:36:18 +0000",
       "rocky_shrubland": "2025-06-06 22:36:12 +0000",
+      "highland": "2025-06-07 06:20:46 +0000",
       "jade_cliffs": "2025-06-07 05:55:25 +0000",
       "clover_patch": "2025-06-06 23:09:27 +0000",
       "mystic_grove": "2025-06-06 22:46:28 +0000",
       "maple_woods": "2025-06-06 22:37:00 +0000",
       "field": "2025-06-06 22:48:17 +0000",
+      "orchard": "2025-06-07 06:19:59 +0000",
+      "lavender_forest": "2025-06-07 06:28:49 +0000",
+      "moor": "2025-06-07 06:22:26 +0000",
       "coniferous_forest": "2025-06-06 21:56:40 +0000",
       "spider_nest": "2025-06-06 22:16:56 +0000",
       "seasonal_orchard": "2025-06-06 23:19:37 +0000",
       "seasonal_forest": "2025-06-06 01:45:57 +0000",
+      "pasture": "2025-06-07 06:32:27 +0000",
       "pumpkin_patch": "2025-06-06 01:59:06 +0000",
       "grassland": "2025-06-06 22:44:34 +0000"
     },
@@ -6904,6 +6909,18 @@
   "chococraft:recipes/food/chocobo_drumstick_cooked": {
     "criteria": {
       "has_raw_drumstick": "2025-06-07 05:56:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 06:23:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-07 06:30:05 +0000"
     },
     "done": true
   },
