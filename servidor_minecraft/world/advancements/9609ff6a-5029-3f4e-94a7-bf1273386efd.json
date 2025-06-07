@@ -73,6 +73,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-07 00:05:44 +0000",
+      "minecraft:wither_skeleton": "2025-06-07 05:13:38 +0000",
+      "minecraft:enderman": "2025-06-07 05:14:01 +0000",
       "minecraft:zombie": "2025-06-06 23:51:33 +0000"
     },
     "done": false
@@ -110,7 +112,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-06-07 00:21:06 +0000",
-      "bread": "2025-06-07 00:01:08 +0000"
+      "bread": "2025-06-07 00:01:08 +0000",
+      "golden_apple": "2025-06-07 05:09:14 +0000"
     },
     "done": false
   },
@@ -2712,6 +2715,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -2727,6 +2736,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:00 +0000"
     },
     "done": true
   },
@@ -2808,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-07 05:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-06-07 04:50:54 +0000"
@@ -2826,6 +2847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 05:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-06-07 04:46:34 +0000"
@@ -2835,6 +2862,12 @@
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 05:07:06 +0000"
     },
     "done": true
   },
@@ -2877,6 +2910,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
     },
     "done": true
   },
@@ -2934,9 +2973,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-06-07 05:08:40 +0000"
     },
     "done": true
   },
@@ -3021,6 +3072,12 @@
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
     },
     "done": true
   },
@@ -3114,6 +3171,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3156,6 +3219,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_result": "2025-06-07 05:06:27 +0000"
@@ -3180,6 +3249,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-07 05:12:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3195,6 +3270,12 @@
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-06-07 04:46:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-07 05:08:26 +0000"
     },
     "done": true
   },
@@ -3231,6 +3312,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
     },
     "done": true
   },
@@ -3462,6 +3549,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3486,6 +3579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 05:08:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3507,6 +3606,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-06-07 05:05:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:00 +0000"
     },
     "done": true
   },
@@ -3537,6 +3642,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-07 05:15:41 +0000"
     },
     "done": true
   },
@@ -3576,6 +3687,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3612,9 +3729,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-06-07 05:11:00 +0000"
     },
     "done": true
   },
@@ -3792,6 +3921,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-06-07 04:48:25 +0000"
@@ -3810,6 +3945,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-07 05:07:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-07 05:18:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:48:25 +0000"
@@ -3825,6 +3978,18 @@
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-06-07 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-07 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-06-07 05:10:59 +0000"
     },
     "done": true
   },

@@ -1180,7 +1180,9 @@
       "apple": "2025-06-06 22:00:59 +0000",
       "mutton": "2025-06-07 00:08:46 +0000",
       "bread": "2025-06-06 21:26:15 +0000",
-      "golden_apple": "2025-06-06 22:09:43 +0000"
+      "golden_apple": "2025-06-06 22:09:43 +0000",
+      "golden_carrot": "2025-06-07 05:07:36 +0000",
+      "enchanted_golden_apple": "2025-06-07 05:07:42 +0000"
     },
     "done": false
   },
@@ -6193,6 +6195,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-07 05:04:49 +0000"
@@ -6214,6 +6222,12 @@
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-06-07 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-07 05:07:55 +0000"
     },
     "done": true
   },
@@ -6241,6 +6255,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:13 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:kill_all_rot": {
     "criteria": {
       "rottencreatures:undead_miner": "2025-06-07 04:01:50 +0000"
@@ -6256,6 +6276,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-06-07 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 05:10:30 +0000"
     },
     "done": true
   },
@@ -6469,6 +6495,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2025-06-07 03:47:06 +0000"
@@ -6556,6 +6588,12 @@
   "cfm:recipes/decorations/mangrove_park_bench": {
     "criteria": {
       "has_log": "2025-06-07 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-06-07 05:11:13 +0000"
     },
     "done": true
   },
@@ -6688,6 +6726,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-06-07 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 05:11:13 +0000"
     },
     "done": true
   },

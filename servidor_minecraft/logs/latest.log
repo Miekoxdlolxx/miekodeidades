@@ -1609,3 +1609,89 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [07Jun2025 05:10:46.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
 [07Jun2025 05:10:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has completed the challenge [Return to Sender]
 [07Jun2025 05:11:06.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[07Jun2025 05:11:28.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6884ms or 137 ticks behind
+[07Jun2025 05:11:34.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> 01_HambretriaNikg
+[07Jun2025 05:11:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDDDD
+[07Jun2025 05:11:46.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y esas verdades
+[07Jun2025 05:11:50.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6914ms or 138 ticks behind
+[07Jun2025 05:12:03.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Suit Up]
+[07Jun2025 05:12:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Ice Bucket Challenge]
+[07Jun2025 05:12:11.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6319ms or 126 ticks behind
+[07Jun2025 05:12:22.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has completed the challenge [Unity with Darkness]
+[07Jun2025 05:12:33.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[07Jun2025 05:12:37.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Survival Mode]
+[07Jun2025 05:12:39.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> les di a todos :)
+[07Jun2025 05:12:54.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[07Jun2025 05:13:18.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8361ms or 167 ticks behind
+[07Jun2025 05:13:40.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7524ms or 150 ticks behind
+[07Jun2025 05:14:03.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7742ms or 154 ticks behind
+[07Jun2025 05:14:19.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arthur_055[/127.188.213.252:41665] logged in with entity id 87557 at (-236.5149182282655, 67.0, 1155.915157720639)
+[07Jun2025 05:14:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 joined the game
+[07Jun2025 05:14:19.496] [Server thread/INFO] [Jade/]: Syncing config to Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886)
+[07Jun2025 05:14:20.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arthur_055 (18)
+[07Jun2025 05:14:20.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arthur_055
+[07Jun2025 05:14:25.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7281ms or 145 ticks behind
+[07Jun2025 05:14:25.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Arthur god.
+[07Jun2025 05:14:27.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[07Jun2025 05:14:28.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[07Jun2025 05:14:28.217] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
+[07Jun2025 05:14:42.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 is incapacitated!
+[07Jun2025 05:14:49.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8433ms or 168 ticks behind
+[07Jun2025 05:14:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Life Finds A Way]
+[07Jun2025 05:15:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has been revived!
+[07Jun2025 05:15:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[07Jun2025 05:15:12.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8541ms or 170 ticks behind
+[07Jun2025 05:15:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Life Finds A Way]
+[07Jun2025 05:15:34.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
+[07Jun2025 05:15:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has made the advancement [A Flaming Sword]
+[07Jun2025 05:15:39.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Hard]
+[07Jun2025 05:15:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [A Flaming Sword]
+[07Jun2025 05:15:42.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> hagan de dia chavaleeees
+[07Jun2025 05:15:56.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6903ms or 138 ticks behind
+[07Jun2025 05:15:57.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[07Jun2025 05:16:19.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8799ms or 175 ticks behind
+[07Jun2025 05:16:43.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9081ms or 181 ticks behind
+[07Jun2025 05:17:08.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9428ms or 188 ticks behind
+[07Jun2025 05:17:27.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 is incapacitated!
+[07Jun2025 05:17:33.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10033ms or 200 ticks behind
+[07Jun2025 05:17:41.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Duzzk0]
+[07Jun2025 05:17:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Duzzk0]
+[07Jun2025 05:17:56.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8093ms or 161 ticks behind
+[07Jun2025 05:17:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Arthur_055 to Mieko_]
+[07Jun2025 05:18:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has been revived!
+[07Jun2025 05:18:13.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[07Jun2025 05:18:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> a pero el niño no queria que usaran op
+[07Jun2025 05:18:31.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[07Jun2025 05:18:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 05:18:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
+[07Jun2025 05:18:50.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[07Jun2025 05:18:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pense que era un mob XD
+[07Jun2025 05:19:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [We Need to Go Deeper]
+[07Jun2025 05:19:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Izhug to Mieko_]
+[07Jun2025 05:19:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> mieko
+[07Jun2025 05:19:08.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
+[07Jun2025 05:19:09.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mano le habla nutria
+[07Jun2025 05:19:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> llevame con duzz porfa
+[07Jun2025 05:19:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Survival Mode]
+[07Jun2025 05:19:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si se puede
+[07Jun2025 05:19:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya mate a 2
+[07Jun2025 05:19:27.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[07Jun2025 05:19:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> GG no encuentro ningun dragon :p
+[07Jun2025 05:19:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> miekoooo llevame con duzz porfis
+[07Jun2025 05:19:47.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4615ms or 92 ticks behind
+[07Jun2025 05:19:48.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[07Jun2025 05:20:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
+[07Jun2025 05:20:05.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[07Jun2025 05:20:08.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> miekooo
+[07Jun2025 05:20:15.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> llevame con duzz :c
+[07Jun2025 05:20:25.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
+[07Jun2025 05:20:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> deselo a hugito
+[07Jun2025 05:20:41.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 01_NutriaKing to Duzzk0]
+[07Jun2025 05:20:44.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[07Jun2025 05:21:01.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[07Jun2025 05:21:14.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 05:21:16.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> f1
+[07Jun2025 05:21:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
+[07Jun2025 05:21:18.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 05:21:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has been revived!
+[07Jun2025 05:21:37.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind

@@ -1319,7 +1319,8 @@
     "criteria": {
       "minecraft:beach": "2025-06-06 22:46:20 +0000",
       "minecraft:river": "2025-06-06 22:17:46 +0000",
-      "minecraft:forest": "2025-06-06 22:03:31 +0000"
+      "minecraft:forest": "2025-06-06 22:03:31 +0000",
+      "minecraft:plains": "2025-06-07 05:17:57 +0000"
     },
     "done": false
   },
@@ -5255,6 +5256,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-07 00:43:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-07 05:19:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-07 05:16:20 +0000"
     },
     "done": true
   },

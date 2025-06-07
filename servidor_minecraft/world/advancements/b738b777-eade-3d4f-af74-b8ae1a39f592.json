@@ -470,6 +470,7 @@
       "clover_patch": "2025-06-06 23:07:17 +0000",
       "maple_woods": "2025-06-06 22:48:26 +0000",
       "crystalline_chasm": "2025-06-07 01:05:29 +0000",
+      "withered_abyss": "2025-06-07 05:18:44 +0000",
       "orchard": "2025-06-05 23:10:00 +0000",
       "mediterranean_forest": "2025-06-07 04:32:19 +0000",
       "coniferous_forest": "2025-06-05 02:01:06 +0000",
@@ -885,6 +886,7 @@
       "minecraft:skeleton": "2025-06-05 02:08:29 +0000",
       "minecraft:spider": "2025-06-06 22:20:44 +0000",
       "minecraft:creeper": "2025-06-05 02:08:38 +0000",
+      "minecraft:zombified_piglin": "2025-06-07 05:18:56 +0000",
       "minecraft:zombie": "2025-06-06 22:07:54 +0000",
       "minecraft:drowned": "2025-06-07 03:42:54 +0000"
     },
@@ -3897,7 +3899,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_6": "2025-06-05 08:13:01 +0000"
+      "squireofthe_dark_lord_6": "2025-06-05 08:13:01 +0000",
+      "squireofthe_dark_lord_0": "2025-06-07 05:13:15 +0000"
     },
     "done": false
   },
@@ -4855,6 +4858,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-07 05:18:34 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -4957,6 +4966,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:unitywith_darknessachievement": {
+    "criteria": {
+      "unitywith_darknessachievement_0": "2025-06-07 05:12:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
@@ -4990,6 +5005,12 @@
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-07 05:09:50 +0000"
     },
     "done": true
   },
@@ -5173,6 +5194,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_subterranodon": "2025-06-07 05:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-07 05:08:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_concrete": "2025-06-07 04:06:56 +0000"
@@ -5188,6 +5221,12 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-06-07 04:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-07 05:09:45 +0000"
     },
     "done": true
   },

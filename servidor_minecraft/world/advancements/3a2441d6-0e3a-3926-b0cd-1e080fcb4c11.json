@@ -3611,6 +3611,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-06 22:19:44 +0000",
       "minecraft:spider": "2025-06-06 22:14:40 +0000",
+      "minecraft:wither_skeleton": "2025-06-07 05:14:09 +0000",
+      "minecraft:enderman": "2025-06-07 05:14:28 +0000",
       "minecraft:zombie": "2025-06-06 22:15:18 +0000"
     },
     "done": false
@@ -3981,9 +3983,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },
@@ -4029,9 +4043,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-07 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },
@@ -4044,6 +4076,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },
@@ -4065,6 +4103,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 05:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 05:07:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-07 04:49:52 +0000"
@@ -4077,6 +4127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_result": "2025-06-07 04:57:47 +0000"
@@ -4086,6 +4142,12 @@
   "cfm:recipes/decorations/red_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-06-07 05:12:38 +0000"
     },
     "done": true
   },
@@ -4146,6 +4208,12 @@
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },
@@ -4245,15 +4313,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-07 05:08:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
       "has_bamboo_slab": "2025-06-07 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },
@@ -4365,6 +4451,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 05:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:19 +0000"
@@ -4398,6 +4496,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-06-07 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-07 05:15:37 +0000"
     },
     "done": true
   },
@@ -4515,6 +4619,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-07 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
@@ -4542,6 +4658,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-07 05:12:12 +0000"
     },
     "done": true
   },

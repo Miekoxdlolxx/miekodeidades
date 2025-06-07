@@ -217,6 +217,7 @@
       "highland": "2025-06-06 23:28:20 +0000",
       "clover_patch": "2025-06-07 04:15:26 +0000",
       "maple_woods": "2025-06-07 04:16:03 +0000",
+      "withered_abyss": "2025-06-07 05:19:03 +0000",
       "orchard": "2025-06-07 04:55:30 +0000",
       "coniferous_forest": "2025-06-07 04:59:47 +0000",
       "spider_nest": "2025-06-05 07:32:39 +0000",
@@ -1993,6 +1994,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-06-07 05:18:18 +0000",
       "bread": "2025-06-06 23:35:46 +0000",
       "enchanted_golden_apple": "2025-06-05 08:06:50 +0000"
     },
@@ -2028,6 +2030,8 @@
       "minecraft:spider": "2025-06-07 04:47:42 +0000",
       "minecraft:creeper": "2025-06-07 04:48:08 +0000",
       "minecraft:phantom": "2025-06-06 23:49:45 +0000",
+      "minecraft:zombified_piglin": "2025-06-07 05:20:05 +0000",
+      "minecraft:enderman": "2025-06-07 05:19:50 +0000",
       "minecraft:zombie": "2025-06-07 04:27:14 +0000",
       "minecraft:zombie_villager": "2025-06-05 08:10:43 +0000"
     },
@@ -4307,6 +4311,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-06-07 05:13:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4433,6 +4443,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-06-07 05:13:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-07 04:07:55 +0000"
@@ -4547,9 +4563,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_subterranodon": "2025-06-07 05:15:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-07 05:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-07 05:12:03 +0000"
     },
     "done": true
   },
@@ -4580,6 +4614,12 @@
   "cfm:recipes/decorations/purple_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-07 05:19:02 +0000"
     },
     "done": true
   },
@@ -4781,6 +4821,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-07 05:19:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 04:02:18 +0000"
@@ -4805,6 +4851,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-07 05:12:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
@@ -4826,6 +4878,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 04:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-07 05:12:03 +0000"
     },
     "done": true
   },
@@ -4868,6 +4926,12 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_concrete": "2025-06-07 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-07 05:12:15 +0000"
     },
     "done": true
   },
