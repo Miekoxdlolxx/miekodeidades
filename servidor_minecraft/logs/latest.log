@@ -425,3 +425,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 22:08:17.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
 [07Jun2025 22:08:17.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
 [07Jun2025 22:08:28.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[07Jun2025 22:10:25.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:48951] logged in with entity id 4000 at (145.1803397336663, 64.0, 1744.37792850147)
+[07Jun2025 22:10:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[07Jun2025 22:10:25.237] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[07Jun2025 22:10:26.005] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[07Jun2025 22:10:26.006] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[07Jun2025 22:10:33.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b369a12-8a6d-3740-ad13-f7f98244bb35
+[07Jun2025 22:10:34.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b369a12-8a6d-3740-ad13-f7f98244bb35
+[07Jun2025 22:10:34.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35) successfully connected to voice chat
+[07Jun2025 22:13:49.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3022, l='ServerLevel[world]', x=94.71, y=63.41, z=1706.61] died, message: 'Unemployed was slain by Mapachito_44'
+[07Jun2025 22:13:49.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.18.21.209:56677] logged in with entity id 5410 at (269.16046365919107, 68.0, 2363.9358694672305)
+[07Jun2025 22:13:49.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[07Jun2025 22:13:49.354] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[07Jun2025 22:13:51.206] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[07Jun2025 22:13:51.207] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 22:14:10.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 22:14:11.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 22:14:11.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 22:17:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 22:20:02.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
