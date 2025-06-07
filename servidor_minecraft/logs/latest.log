@@ -424,3 +424,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 08:29:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
 [07Jun2025 08:29:33.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> jugemos leftsito sapo
 [07Jun2025 08:29:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 08:30:42.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Remote Getaway]
+[07Jun2025 08:30:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Who You Gonna Call?]
+[07Jun2025 08:30:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[07Jun2025 08:30:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 08:30:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 08:31:55.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 10.273585157040493,3.7499973639481823,0.6985885225101316
+[07Jun2025 08:32:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
+[07Jun2025 08:32:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> que es esto
+[07Jun2025 08:32:06.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 08:32:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Gravedigger]
+[07Jun2025 08:32:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Barrier] to Mieko_]
+[07Jun2025 08:33:13.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[07Jun2025 08:33:18.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 08:33:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> aaaaaaaaaaaaaaaaaa
+[07Jun2025 08:33:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> puto mapachee
+[07Jun2025 08:33:31.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> hdp
+[07Jun2025 08:33:38.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> clear Mapachito_44
+[07Jun2025 08:33:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mano
+[07Jun2025 08:33:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga
+[07Jun2025 08:33:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 08:34:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 08:34:37.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> gg no mapache
+[07Jun2025 08:34:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> ezz
+[07Jun2025 08:34:49.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[07Jun2025 08:34:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 08:36:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 08:36:29.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> sapo
+[07Jun2025 08:36:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Sneak 100]
+[07Jun2025 08:37:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MIEKO
+[07Jun2025 08:37:13.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8 timed out
+[07Jun2025 08:37:13.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Terroris8910
+[07Jun2025 08:37:13.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
+[07Jun2025 08:37:13.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8
+[07Jun2025 08:37:14.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d54a3cb3-ddb4-3e70-98b5-01ab971f8da8
+[07Jun2025 08:37:14.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) successfully connected to voice chat
+[07Jun2025 08:37:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> sapo usted me dejo plantado :c
+[07Jun2025 08:37:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no mano ando bien mal con el aim
+[07Jun2025 08:37:33.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mañana si le creo
+[07Jun2025 08:37:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XD
+[07Jun2025 08:37:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Sweet Dreams]
+[07Jun2025 08:37:55.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> dele mapache me dice cuando dejen de jugar los 2
+[07Jun2025 08:38:07.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> para q no me den ban
+[07Jun2025 08:38:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> es que ando fallando mucho y de que movi la sensi no la encuentro
+[07Jun2025 08:38:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mejor mañana mano
+[07Jun2025 08:38:42.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> ntp manito
+[07Jun2025 08:38:59.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> me dice nada mas cuando deje de jugar para apagar el server
+[07Jun2025 08:39:03.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> igualtero
+[07Jun2025 08:39:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> alas 3 am lo apago
+[07Jun2025 08:39:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si
+[07Jun2025 08:39:23.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 08:39:25.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> a esa hora me voy
+[07Jun2025 08:39:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[07Jun2025 08:39:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Not Today, Thank You]
+[07Jun2025 08:39:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 08:39:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Suit Up]
+[07Jun2025 08:40:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Ice Bucket Challenge]
+[07Jun2025 08:40:35.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> el micro
+[07Jun2025 08:40:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> lo tengo bug
+[07Jun2025 08:40:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Terroris8910> lo tengo que configurar

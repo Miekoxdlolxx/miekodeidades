@@ -3842,6 +3842,7 @@
       "cooked_porkchop": "2025-06-07 01:50:23 +0000",
       "cooked_mutton": "2025-06-07 04:40:07 +0000",
       "sweet_berries": "2025-06-07 02:06:58 +0000",
+      "chorus_fruit": "2025-06-07 08:29:54 +0000",
       "baked_potato": "2025-06-06 22:45:02 +0000",
       "apple": "2025-06-07 04:09:08 +0000",
       "bread": "2025-06-06 23:56:04 +0000",
@@ -5295,9 +5296,12 @@
       "minecraft:creeper": "2025-06-07 00:23:04 +0000",
       "minecraft:zombified_piglin": "2025-06-07 05:17:27 +0000",
       "minecraft:wither_skeleton": "2025-06-07 01:13:08 +0000",
+      "minecraft:ender_dragon": "2025-06-07 08:27:25 +0000",
+      "minecraft:cave_spider": "2025-06-07 08:40:21 +0000",
       "minecraft:piglin": "2025-06-07 06:55:45 +0000",
       "minecraft:enderman": "2025-06-07 01:14:51 +0000",
       "minecraft:silverfish": "2025-06-07 06:17:24 +0000",
+      "minecraft:stray": "2025-06-07 08:33:27 +0000",
       "minecraft:zombie": "2025-06-06 23:50:23 +0000",
       "minecraft:drowned": "2025-06-07 04:00:47 +0000",
       "minecraft:zombie_villager": "2025-06-07 00:30:45 +0000"
@@ -7794,6 +7798,102 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-06-07 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-07 08:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-07 08:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-07 08:27:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-07 08:36:56 +0000"
     },
     "done": true
   },
