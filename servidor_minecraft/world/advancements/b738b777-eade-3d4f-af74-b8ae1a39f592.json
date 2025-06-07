@@ -5887,5 +5887,17 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 22:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 22:25:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
