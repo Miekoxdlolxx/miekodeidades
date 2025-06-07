@@ -5707,9 +5707,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_item": "2025-06-07 08:41:01 +0000"
+      "entered_end": "2025-06-07 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-07 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-07 08:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-07 08:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-07 08:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-07 08:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-07 08:31:53 +0000"
     },
     "done": true
   },
@@ -5737,12 +5773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-07 08:31:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-06-07 08:36:19 +0000"
@@ -5767,12 +5797,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-07 08:31:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-07 08:36:19 +0000"
@@ -5791,21 +5815,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-07 08:27:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-06-07 08:36:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-06-07 08:31:53 +0000"
     },
     "done": true
   },
@@ -5839,12 +5851,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-06-07 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-06-07 08:36:19 +0000"
@@ -5863,27 +5869,21 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-06-07 08:27:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-06-07 08:36:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "has_end_stone": "2025-06-07 08:31:53 +0000"
+      "has_cobweb": "2025-06-07 08:40:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "has_end_stone": "2025-06-07 08:31:53 +0000"
+      "has_item": "2025-06-07 08:41:01 +0000"
     },
     "done": true
   },
