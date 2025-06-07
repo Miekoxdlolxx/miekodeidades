@@ -2319,6 +2319,8 @@
       "minecraft:skeleton": "2025-06-07 08:52:07 +0000",
       "minecraft:spider": "2025-06-07 08:50:00 +0000",
       "minecraft:creeper": "2025-06-05 06:54:54 +0000",
+      "minecraft:witch": "2025-06-07 09:07:50 +0000",
+      "minecraft:silverfish": "2025-06-07 09:07:41 +0000",
       "minecraft:stray": "2025-06-07 08:49:33 +0000",
       "minecraft:zombie": "2025-06-05 07:35:55 +0000",
       "minecraft:zombie_villager": "2025-06-05 08:10:47 +0000"
@@ -2361,6 +2363,7 @@
       "cooked_beef": "2025-06-07 08:55:09 +0000",
       "beef": "2025-06-07 08:25:50 +0000",
       "apple": "2025-06-05 06:58:36 +0000",
+      "golden_apple": "2025-06-07 09:08:07 +0000",
       "enchanted_golden_apple": "2025-06-05 07:12:11 +0000"
     },
     "done": false
@@ -3821,6 +3824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-07 08:39:30 +0000"
@@ -3839,9 +3848,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 09:02:39 +0000"
     },
     "done": true
   },
@@ -3854,6 +3887,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-07 08:17:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -3935,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-07 09:08:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_log": "2025-06-07 08:17:46 +0000"
@@ -3950,6 +3995,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-06-07 08:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
@@ -4010,6 +4061,12 @@
   "cfm:recipes/decorations/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2025-06-07 08:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
@@ -4151,6 +4208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
@@ -4277,6 +4340,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
@@ -4292,6 +4361,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 09:02:14 +0000"
     },
     "done": true
   },
@@ -4319,6 +4394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
@@ -4340,6 +4421,12 @@
   "cfm:recipes/decorations/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -4373,9 +4460,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
@@ -4409,9 +4508,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-07 09:07:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
@@ -4481,9 +4592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 09:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-07 08:56:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -4637,6 +4760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-07 08:22:31 +0000"
@@ -4661,9 +4790,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-06-07 08:54:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -4757,6 +4904,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 09:02:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-06-07 08:48:12 +0000"
@@ -4778,6 +4931,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-06-07 08:20:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -4811,6 +4970,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-06-07 08:17:46 +0000"
@@ -4826,6 +4997,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-07 08:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
     },
     "done": true
   },
@@ -4862,6 +5039,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-07 08:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
@@ -5033,6 +5216,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-06-07 09:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 08:27:30 +0000"
@@ -5066,6 +5255,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-07 08:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-07 09:02:33 +0000"
     },
     "done": true
   },
