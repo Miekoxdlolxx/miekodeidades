@@ -4390,3 +4390,553 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [07Jun2025 01:36:29.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e5f09629-2a71-34c4-8d76-7c3b72884836
 [07Jun2025 01:36:29.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) successfully connected to voice chat
 [07Jun2025 01:36:31.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[07Jun2025 01:36:58.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jun2025 01:37:09.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:37:09.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:37:09.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:37:09.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:37:09.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:37:09.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:37:09.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:37:09.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:37:09.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:37:09.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:37:09.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:37:09.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:37:09.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e5f09629-2a71-34c4-8d76-7c3b72884836 timed out
+[07Jun2025 01:37:09.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player capitanchela
+[07Jun2025 01:37:09.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[07Jun2025 01:37:09.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:37:09.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:37:09.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:09.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e5f09629-2a71-34c4-8d76-7c3b72884836
+[07Jun2025 01:37:09.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:37:10.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:37:10.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:37:10.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:37:10.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:37:10.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:10.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:37:10.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e5f09629-2a71-34c4-8d76-7c3b72884836
+[07Jun2025 01:37:10.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) successfully connected to voice chat
+[07Jun2025 01:37:10.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:37:10.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:37:16.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! 9.828972365194886,-2.1868439793987022,-2.182792363636281
+[07Jun2025 01:37:18.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[07Jun2025 01:37:27.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:37:27.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:37:27.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:37:27.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e5f09629-2a71-34c4-8d76-7c3b72884836 timed out
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player capitanchela
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:37:27.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:37:27.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:37:27.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:37:27.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:37:27.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:37:27.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:28.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e5f09629-2a71-34c4-8d76-7c3b72884836
+[07Jun2025 01:37:28.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:37:28.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:37:28.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:37:28.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:37:28.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:37:28.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:37:29.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:29.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:37:30.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e5f09629-2a71-34c4-8d76-7c3b72884836
+[07Jun2025 01:37:30.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) successfully connected to voice chat
+[07Jun2025 01:37:35.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[07Jun2025 01:37:40.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:37:40.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:37:40.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:37:40.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e5f09629-2a71-34c4-8d76-7c3b72884836 timed out
+[07Jun2025 01:37:40.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player capitanchela
+[07Jun2025 01:37:40.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[07Jun2025 01:37:41.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:43.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:43.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:37:52.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[07Jun2025 01:37:53.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:37:53.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:37:53.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:37:54.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:56.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:37:56.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:37:57.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Timed out
+[07Jun2025 01:37:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[07Jun2025 01:37:57.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[07Jun2025 01:38:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[07Jun2025 01:38:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ was slain by Grizzly Bear
+[07Jun2025 01:38:08.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:38:08.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:38:08.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:38:08.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:38:08.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:38:08.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:38:08.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:38:08.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:38:09.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:38:09.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:38:09.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:38:09.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:38:09.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:38:09.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:38:09.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:38:09.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:38:09.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:38:09.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:38:10.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:38:10.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:11.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:38:11.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:38:11.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:11.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:38:14.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[07Jun2025 01:38:26.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:38:26.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:38:26.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:38:27.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:38:27.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:38:27.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:38:28.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:38:28.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:38:28.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:38:28.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:38:28.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:29.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:38:29.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:38:29.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:38:29.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:38:30.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:30.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:38:41.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:38:41.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:38:41.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:38:41.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:42.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:38:42.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:39:09.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:39:09.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:39:09.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:39:09.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:39:10.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:39:10.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:39:10.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:39:10.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:39:10.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:39:10.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:39:10.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:39:10.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:39:10.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:39:11.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:39:11.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:39:11.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:39:11.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:39:11.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:39:11.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:39:28.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:39:28.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:39:28.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:39:28.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:39:28.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:39:28.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:39:28.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:39:28.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:39:28.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:39:28.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:39:29.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:39:29.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:39:29.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:39:29.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:39:29.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:39:29.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:39:29.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:39:29.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:39:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[07Jun2025 01:39:32.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 01:39:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tengo mejores cosas.
+[07Jun2025 01:40:09.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:40:09.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:40:09.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:40:09.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:40:09.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:40:09.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:40:09.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:40:09.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:40:10.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:40:10.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:40:10.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:40:10.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:40:10.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:40:10.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:40:10.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:40:10.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:40:10.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:40:10.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:40:10.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:40:10.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:40:11.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[07Jun2025 01:40:11.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:40:11.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:40:11.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:40:11.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:40:17.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no w
+[07Jun2025 01:40:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me mato una
+[07Jun2025 01:40:23.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la que paraliza
+[07Jun2025 01:40:27.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> osea la que tiene varios ojos
+[07Jun2025 01:40:27.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:40:27.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:40:27.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:40:27.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:40:28.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:40:28.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:40:28.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:40:28.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:40:28.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:40:28.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:40:28.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:40:28.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:40:28.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:40:28.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:40:28.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:40:28.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:40:28.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:40:29.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:40:29.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:40:29.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:40:29.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:40:29.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:40:31.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:40:31.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:40:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> cuerpo de serpiente
+[07Jun2025 01:40:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y que te paraliza con los ojos
+[07Jun2025 01:40:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 01:40:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 was slain by Dropbear
+[07Jun2025 01:40:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[07Jun2025 01:40:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> uy mano hace sonido de smok XD
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:41:10.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:41:10.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:41:11.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:41:11.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:41:11.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:41:11.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:41:11.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:41:11.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:41:11.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:41:11.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:41:11.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:41:11.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:41:11.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:41:12.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:41:12.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:41:12.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:41:12.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:41:12.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:41:12.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:41:14.669] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c55c9fe[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:43963) lost connection: Disconnected
+[07Jun2025 01:41:29.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:41:29.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:41:29.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:41:29.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:41:29.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:41:29.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:41:29.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:41:29.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:41:29.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:41:29.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:41:29.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:41:30.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:41:30.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:41:30.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:41:30.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:41:30.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:41:30.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:41:31.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:41:31.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:41:44.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1de6230f[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:57857) lost connection: Disconnected
+[07Jun2025 01:41:54.612] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f2932ff[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:48749) lost connection: Disconnected
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:42:11.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:42:11.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:42:11.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:42:11.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:42:11.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:42:11.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:42:11.434] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:42:11.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:42:11.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:42:11.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:42:12.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:42:12.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:42:12.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:42:12.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:42:12.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:42:12.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:42:12.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:42:12.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:42:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> era la comision secreta GG
+[07Jun2025 01:42:29.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:42:29.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:42:29.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:42:29.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:42:29.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:42:29.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:42:29.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:42:29.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:42:30.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:42:30.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:42:30.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:42:30.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:42:30.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:42:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 is incapacitated!
+[07Jun2025 01:42:31.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:42:31.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:42:37.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:42:37.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:42:47.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:34593] logged in with entity id 49362 at (-242.84603258642963, 67.0, 1193.3449490449725)
+[07Jun2025 01:42:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[07Jun2025 01:42:47.670] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[07Jun2025 01:42:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no mano que tipo tan molesto
+[07Jun2025 01:42:49.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 01:42:49.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[07Jun2025 01:42:49.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[07Jun2025 01:42:58.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 hit the ground too hard and bled out
+[07Jun2025 01:43:06.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[07Jun2025 01:43:11.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:43:11.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:43:11.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:43:11.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:43:11.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:43:11.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:43:11.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:43:11.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:43:11.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:43:11.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:43:11.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:43:11.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:43:11.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:43:11.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:43:11.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:43:11.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:43:12.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:43:12.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:43:12.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:43:12.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:43:12.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:43:12.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:43:12.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:43:12.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:43:17.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
+[07Jun2025 01:43:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[07Jun2025 01:43:17.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[07Jun2025 01:43:22.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[07Jun2025 01:43:28.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:43:28.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:43:28.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:43:28.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:43:29.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:43:29.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:43:29.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:43:29.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:43:29.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:43:29.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:43:29.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:43:29.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:43:29.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:43:29.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:43:29.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:43:29.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:43:29.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:43:30.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:43:30.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:43:30.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:43:30.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:43:30.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:43:31.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[07Jun2025 01:43:32.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:43:32.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:43:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has been revived!
+[07Jun2025 01:43:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[07Jun2025 01:43:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Clash of the Titans]
+[07Jun2025 01:43:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :O
+[07Jun2025 01:43:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> revive
+[07Jun2025 01:43:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mira lo que me dio
+[07Jun2025 01:43:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has been revived!
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:44:12.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 01:44:12.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 01:44:12.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:44:12.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:44:12.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:44:12.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:44:13.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 01:44:13.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 01:44:13.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:44:13.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:44:13.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:44:13.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:44:13.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:44:13.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:44:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> GG
+[07Jun2025 01:44:17.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[07Jun2025 01:44:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[07Jun2025 01:44:17.159] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[07Jun2025 01:44:17.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me robaron la armadura
+[07Jun2025 01:44:30.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:44:30.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:44:30.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:44:30.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:44:30.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:44:30.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:44:30.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:44:30.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:44:30.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:44:30.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:44:30.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:44:30.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:44:31.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:44:31.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:44:31.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:44:31.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:44:31.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:44:31.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:45:12.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:45:12.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:45:12.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:45:12.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:45:13.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:45:13.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:45:13.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:45:13.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:45:13.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:45:14.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:45:14.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:45:24.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:45:24.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:45:24.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:45:24.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:45:30.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:45:30.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:45:30.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:45:30.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:45:30.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:45:31.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:45:31.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:45:31.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:45:31.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:45:39.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7597ms or 151 ticks behind
+[07Jun2025 01:45:45.299] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[07Jun2025 01:46:12.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[07Jun2025 01:46:12.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[07Jun2025 01:46:12.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[07Jun2025 01:46:12.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:46:12.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:46:12.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:46:12.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:46:12.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:46:12.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:46:12.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:46:12.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:46:13.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:46:13.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:46:13.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:46:13.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:46:13.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:46:14.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[07Jun2025 01:46:14.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[07Jun2025 01:46:25.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[07Jun2025 01:46:25.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[07Jun2025 01:46:25.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[07Jun2025 01:46:30.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:46:30.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:46:30.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:46:30.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:46:30.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:46:30.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:46:30.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:46:31.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:46:31.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:46:31.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:46:32.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:46:32.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 01:47:12.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9609ff6a-5029-3f4e-94a7-bf1273386efd timed out
+[07Jun2025 01:47:12.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player titanhumilde7w7
+[07Jun2025 01:47:12.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 01:47:12.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0193b222-149f-3158-ab88-a7547b435b77 timed out
+[07Jun2025 01:47:12.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mapachito_44
+[07Jun2025 01:47:12.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[07Jun2025 01:47:13.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:47:13.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:47:14.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[07Jun2025 01:47:14.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[07Jun2025 01:47:14.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 01:47:14.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
