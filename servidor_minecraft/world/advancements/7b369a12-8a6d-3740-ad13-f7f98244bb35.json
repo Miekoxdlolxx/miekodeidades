@@ -4168,5 +4168,41 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 03:49:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

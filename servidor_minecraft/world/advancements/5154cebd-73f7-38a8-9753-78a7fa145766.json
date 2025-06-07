@@ -73,6 +73,7 @@
       "minecraft:forest": "2025-06-06 21:56:31 +0000",
       "minecraft:ocean": "2025-06-06 23:08:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:48:13 +0000",
+      "minecraft:meadow": "2025-06-07 03:49:27 +0000",
       "minecraft:plains": "2025-06-07 01:04:29 +0000"
     },
     "done": false
@@ -6176,6 +6177,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-06-07 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-06-07 03:43:53 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
@@ -6200,6 +6213,24 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-07 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-07 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-07 03:48:12 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
@@ -6209,6 +6240,24 @@
   "chococraft:recipes/misc/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-06-07 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-06-07 03:47:06 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-07 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-07 03:48:47 +0000"
     },
     "done": true
   },
