@@ -48,7 +48,8 @@
       "seasonal_forest": "2025-06-06 01:45:57 +0000",
       "pasture": "2025-06-07 06:32:27 +0000",
       "pumpkin_patch": "2025-06-06 01:59:06 +0000",
-      "grassland": "2025-06-06 22:44:34 +0000"
+      "grassland": "2025-06-06 22:44:34 +0000",
+      "prairie": "2025-06-07 06:36:26 +0000"
     },
     "done": false
   },
@@ -6912,15 +6913,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-07 06:33:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_hydra": {
     "criteria": {
       "killed_fire_dragon": "2025-06-07 06:23:58 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-07 06:33:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-06-07 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-07 06:33:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-07 06:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-07 06:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-07 06:33:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-06-07 06:33:31 +0000"
     },
     "done": true
   },

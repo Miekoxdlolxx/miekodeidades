@@ -7040,6 +7040,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-07 06:34:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_brown_picket_gate": {
     "criteria": {
       "has_dye": "2025-06-07 06:22:22 +0000"
