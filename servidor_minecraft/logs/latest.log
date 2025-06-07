@@ -782,3 +782,57 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [07Jun2025 04:18:09.620] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [07Jun2025 04:18:16.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
 [07Jun2025 04:18:35.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[07Jun2025 04:18:54.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
+[07Jun2025 04:19:19.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9240ms or 184 ticks behind
+[07Jun2025 04:19:23.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[07Jun2025 04:19:25.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b738b777-eade-3d4f-af74-b8ae1a39f592 timed out
+[07Jun2025 04:19:25.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mieko_
+[07Jun2025 04:19:25.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[07Jun2025 04:19:26.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 04:19:36.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[07Jun2025 04:19:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[07Jun2025 04:19:44.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[07Jun2025 04:19:44.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[07Jun2025 04:19:54.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[07Jun2025 04:20:14.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4999ms or 99 ticks behind
+[07Jun2025 04:20:35.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6788ms or 135 ticks behind
+[07Jun2025 04:20:53.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[07Jun2025 04:21:10.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[07Jun2025 04:21:28.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 04:21:54.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Jun2025 04:22:16.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Jun2025 04:22:38.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jun2025 04:23:08.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Jun2025 04:23:38.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[07Jun2025 04:24:09.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[07Jun2025 04:24:35.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Mieko_]
+[07Jun2025 04:24:47.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Jun2025 04:25:12.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Jun2025 04:25:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> AAJS
+[07Jun2025 04:25:27.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Izhug's game mode to Survival Mode]
+[07Jun2025 04:25:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[07Jun2025 04:25:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported pansaelgato85 to Mieko_]
+[07Jun2025 04:25:45.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jun2025 04:26:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> xd el traje de maccdonals
+[07Jun2025 04:26:29.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Jun2025 04:26:55.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jun2025 04:27:13.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[07Jun2025 04:27:33.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jun2025 04:27:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> hazme chikito
+[07Jun2025 04:27:51.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[07Jun2025 04:28:03.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> gracias
+[07Jun2025 04:28:10.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4514ms or 90 ticks behind
+[07Jun2025 04:28:28.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:55313] logged in with entity id 44037 at (-39.69999998807907, -9.0, 1117.300000011921)
+[07Jun2025 04:28:28.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[07Jun2025 04:28:28.286] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[07Jun2025 04:28:29.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[07Jun2025 04:28:30.560] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[07Jun2025 04:28:30.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 04:28:48.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4972ms or 99 ticks behind
+[07Jun2025 04:28:49.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 04:28:50.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 04:28:50.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 04:28:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
+[07Jun2025 04:29:10.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
+[07Jun2025 04:29:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ya entre
+[07Jun2025 04:29:15.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> xd
