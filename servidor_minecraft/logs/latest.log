@@ -2328,3 +2328,94 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [07Jun2025 06:13:17.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
 [07Jun2025 06:13:31.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
 [07Jun2025 06:13:48.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[07Jun2025 06:13:58.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 6.786063330816717,0.0,8.515026724602876
+[07Jun2025 06:14:00.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Se me bugueo la armadura...
+[07Jun2025 06:14:09.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[07Jun2025 06:14:13.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero domesticalos ps
+[07Jun2025 06:14:22.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya
+[07Jun2025 06:14:23.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> solo planea
+[07Jun2025 06:14:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el collar rojo es que ya
+[07Jun2025 06:14:28.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[07Jun2025 06:14:30.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> cuando te tiras de lugares altos
+[07Jun2025 06:14:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Survival Mode]
+[07Jun2025 06:14:42.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 was kicked for floating too long!
+[07Jun2025 06:14:42.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Flying is not enabled on this server
+[07Jun2025 06:14:42.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[07Jun2025 06:14:42.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[07Jun2025 06:14:43.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SALSALSALA
+[07Jun2025 06:14:46.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[07Jun2025 06:14:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJA
+[07Jun2025 06:15:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ese hack
+[07Jun2025 06:15:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ?
+[07Jun2025 06:15:11.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:37383] logged in with entity id 149119 at (-167.86391967618556, 67.79999995231628, 1086.0228291693722)
+[07Jun2025 06:15:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[07Jun2025 06:15:11.544] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[07Jun2025 06:15:11.797] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[07Jun2025 06:15:11.798] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[07Jun2025 06:15:13.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Jun2025 06:15:19.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 06:15:20.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[07Jun2025 06:15:20.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[07Jun2025 06:15:33.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
+[07Jun2025 06:15:54.037] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[07Jun2025 06:15:55.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6847ms or 136 ticks behind
+[07Jun2025 06:16:15.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[07Jun2025 06:16:17.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Eye Spy]
+[07Jun2025 06:16:34.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4111ms or 82 ticks behind
+[07Jun2025 06:16:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No hace nada
+[07Jun2025 06:16:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :o
+[07Jun2025 06:16:54.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5385ms or 107 ticks behind
+[07Jun2025 06:17:08.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> a ver dame
+[07Jun2025 06:17:16.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6506ms or 130 ticks behind
+[07Jun2025 06:17:37.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6370ms or 127 ticks behind
+[07Jun2025 06:17:58.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6225ms or 124 ticks behind
+[07Jun2025 06:18:21.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8164ms or 163 ticks behind
+[07Jun2025 06:18:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> we
+[07Jun2025 06:18:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> dice gana 1 exp
+[07Jun2025 06:18:27.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! 9.491157488586623,-1.0,3.552242221503775
+[07Jun2025 06:18:27.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! 9.909399140736468,-1.0,3.5659663794122025
+[07Jun2025 06:18:27.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! 10.33226050964845,-1.0,3.5540305184720182
+[07Jun2025 06:18:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> por cada 5 segundos de vuelo
+[07Jun2025 06:18:47.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10657ms or 213 ticks behind
+[07Jun2025 06:19:08.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5754ms or 115 ticks behind
+[07Jun2025 06:19:14.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> hugito no tiene un mechero o carga de fuego?
+[07Jun2025 06:19:29.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6428ms or 128 ticks behind
+[07Jun2025 06:19:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> yo tengo pa aser un mecherp
+[07Jun2025 06:19:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> aver haga 1
+[07Jun2025 06:19:50.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6179ms or 123 ticks behind
+[07Jun2025 06:19:52.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Flint and Steel] to Mapachito_44]
+[07Jun2025 06:20:01.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> te amo hugito
+[07Jun2025 06:20:09.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! -0.6753078176948293,-2.9231679985046384,-9.792721258283109
+[07Jun2025 06:20:09.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! -0.7653475335466737,-2.9231679985046384,-10.200615077326347
+[07Jun2025 06:20:09.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! -0.861150107642743,-2.9231679985046384,-10.60899706114742
+[07Jun2025 06:20:09.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coco (vehicle of 01_NutriaKing) moved too quickly! -0.9610381527281788,-2.9231679985046384,-11.017386484709277
+[07Jun2025 06:20:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> (3
+[07Jun2025 06:20:14.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8268ms or 165 ticks behind
+[07Jun2025 06:20:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> ya no tengo lo gaste xd
+[07Jun2025 06:20:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya tienes la lana
+[07Jun2025 06:20:24.797] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[07Jun2025 06:20:37.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8800ms or 176 ticks behind
+[07Jun2025 06:20:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> we
+[07Jun2025 06:20:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> hazla hilo
+[07Jun2025 06:20:49.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la lana
+[07Jun2025 06:20:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> -.-
+[07Jun2025 06:21:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> es como
+[07Jun2025 06:21:03.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10076ms or 201 ticks behind
+[07Jun2025 06:21:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mesa de crafteo
+[07Jun2025 06:21:07.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 4 bloques
+[07Jun2025 06:21:24.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
+[07Jun2025 06:21:40.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 160 [Glass] to Izhug]
+[07Jun2025 06:21:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si
+[07Jun2025 06:21:45.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6389ms or 127 ticks behind
+[07Jun2025 06:21:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> La que no dejaba?w
+[07Jun2025 06:22:07.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6781ms or 135 ticks behind
+[07Jun2025 06:22:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has reached the goal [Exorcism]
+[07Jun2025 06:22:28.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6499ms or 129 ticks behind
+[07Jun2025 06:22:38.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has made the advancement [A Seedy Place]
+[07Jun2025 06:22:49.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5666ms or 113 ticks behind
+[07Jun2025 06:23:11.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7181ms or 143 ticks behind
+[07Jun2025 06:23:34.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7935ms or 158 ticks behind
+[07Jun2025 06:23:55.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5942ms or 118 ticks behind
+[07Jun2025 06:23:58.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [The Twelve Labors of Hercules]
+[07Jun2025 06:24:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Como se dice que gracias a mi fuego no se curaba :D
+[07Jun2025 06:24:15.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5491ms or 109 ticks behind
