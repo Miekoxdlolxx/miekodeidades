@@ -8878,6 +8878,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-08 20:20:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-08 20:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-08 20:23:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-08 20:32:41 +0000"
@@ -8887,12 +8905,6 @@
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-08 20:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-06-08 20:23:44 +0000"
     },
     "done": true
   },
@@ -8917,12 +8929,6 @@
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-08 20:32:41 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_picket_gate": {
-    "criteria": {
-      "has_concrete": "2025-06-08 20:20:31 +0000"
     },
     "done": true
   },
@@ -8956,27 +8962,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-06-08 21:01:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/lime_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-08 20:32:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-08 21:01:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-06-08 20:20:31 +0000"
     },
     "done": true
   },
@@ -9013,6 +9001,18 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-08 20:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-08 21:01:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-08 21:01:32 +0000"
     },
     "done": true
   },

@@ -492,3 +492,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 21:04:41.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
 [08Jun2025 21:04:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
 [08Jun2025 21:04:41.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[08Jun2025 21:13:32.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:33199] logged in with entity id 19234 at (-605.9786133010289, 69.0, 2300.009123402325)
+[08Jun2025 21:13:32.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[08Jun2025 21:13:32.650] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[08Jun2025 21:13:33.370] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[08Jun2025 21:13:33.371] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[08Jun2025 21:13:40.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[08Jun2025 21:13:55.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[08Jun2025 21:13:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[08Jun2025 21:13:55.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[08Jun2025 21:14:09.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:41549] logged in with entity id 19351 at (-629.7192024571968, 63.231523797587016, 2326.583355241871)
+[08Jun2025 21:14:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[08Jun2025 21:14:09.886] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[08Jun2025 21:14:10.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[08Jun2025 21:14:10.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[08Jun2025 21:14:14.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[08Jun2025 21:18:43.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:57361] logged in with entity id 19958 at (-2791.7899999916553, 63.0, 626.5563259297473)
+[08Jun2025 21:18:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[08Jun2025 21:18:43.177] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[08Jun2025 21:18:44.116] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[08Jun2025 21:18:44.117] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[08Jun2025 21:18:51.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 21:18:52.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 21:18:52.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[08Jun2025 21:18:57.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ese nutria
+[08Jun2025 21:19:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> se escucha lejos...
+[08Jun2025 21:19:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> donde estas nutria
+[08Jun2025 21:19:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> donde estas nutria
+[08Jun2025 21:19:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> a
+[08Jun2025 21:19:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Arthur_055]
+[08Jun2025 21:19:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Cuanto quita
+[08Jun2025 21:20:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 3 coras
+[08Jun2025 21:20:37.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 3 coras + fuego
+[08Jun2025 21:20:43.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y checa
+[08Jun2025 21:21:08.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si
+[08Jun2025 21:21:17.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Obvio
+[08Jun2025 21:21:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mira
+[08Jun2025 21:21:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> lo que me tope
