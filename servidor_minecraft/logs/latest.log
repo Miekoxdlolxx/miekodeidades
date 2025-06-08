@@ -1,24 +1,24 @@
-[08Jun2025 01:55:05.124] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Jun2025 01:55:05.127] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[08Jun2025 01:55:06.520] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Jun2025 01:55:06.575] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[08Jun2025 01:55:07.021] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:55:07.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:55:07.024] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:55:07.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:55:07.256] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/miekodeidades/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[08Jun2025 01:55:07.257] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[08Jun2025 01:55:10.322] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Jun2025 01:55:10.440] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Jun2025 01:55:10.480] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jun2025 01:55:10.501] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jun2025 01:55:10.518] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jun2025 01:55:10.633] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jun2025 01:55:11.960] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[08Jun2025 01:55:11.960] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[08Jun2025 01:55:11.960] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[08Jun2025 01:55:12.477] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[08Jun2025 01:55:12.811] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[08Jun2025 06:28:44.736] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Jun2025 06:28:44.743] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[08Jun2025 06:28:46.416] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Jun2025 06:28:46.528] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[08Jun2025 06:28:47.544] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 06:28:47.548] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 06:28:47.554] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 06:28:47.562] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 06:28:48.045] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/miekodeidades/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[08Jun2025 06:28:48.045] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[08Jun2025 06:28:55.357] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Jun2025 06:28:55.638] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Jun2025 06:28:55.705] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jun2025 06:28:55.742] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jun2025 06:28:55.770] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jun2025 06:28:56.111] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jun2025 06:28:59.220] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[08Jun2025 06:28:59.221] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[08Jun2025 06:28:59.221] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[08Jun2025 06:29:00.473] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[08Jun2025 06:29:00.991] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
@@ -48,8 +48,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[08Jun2025 01:55:18.824] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zoc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[08Jun2025 01:55:19.217] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[08Jun2025 06:29:12.233] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zoc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08Jun2025 06:29:13.099] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2352!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$113$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -119,7 +119,7 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Jun2025 01:55:19.999] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[08Jun2025 06:29:15.139] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2352!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$113$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -165,64 +165,64 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Jun2025 01:55:20.677] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[08Jun2025 01:55:20.697] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[08Jun2025 01:55:20.781] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[08Jun2025 01:55:20.885] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[08Jun2025 01:55:21.191] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Jun2025 01:55:21.194] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Jun2025 01:55:22.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[08Jun2025 01:55:22.681] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
-[08Jun2025 01:55:22.683] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
-[08Jun2025 01:55:23.531] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
-[08Jun2025 01:55:27.525] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[08Jun2025 01:55:27.720] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[08Jun2025 01:55:27.778] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[08Jun2025 01:55:27.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[08Jun2025 01:55:27.872] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[08Jun2025 01:55:28.000] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[08Jun2025 01:55:28.017] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[08Jun2025 01:55:28.024] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[08Jun2025 01:55:28.024] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[08Jun2025 01:55:28.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[08Jun2025 01:55:28.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
-[08Jun2025 01:55:28.436] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[08Jun2025 01:55:28.436] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[08Jun2025 01:55:28.436] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[08Jun2025 01:55:28.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
-[08Jun2025 01:55:28.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Jun2025 01:55:28.509] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[08Jun2025 01:55:28.509] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[08Jun2025 01:55:28.509] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[08Jun2025 01:55:28.509] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[08Jun2025 01:55:28.510] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[08Jun2025 01:55:28.510] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[08Jun2025 01:55:28.510] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[08Jun2025 01:55:28.554] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[08Jun2025 01:55:28.566] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[08Jun2025 01:55:28.567] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[08Jun2025 01:55:28.569] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[08Jun2025 01:55:28.570] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[08Jun2025 01:55:28.586] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[08Jun2025 06:29:16.391] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[08Jun2025 06:29:16.406] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[08Jun2025 06:29:16.505] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[08Jun2025 06:29:16.645] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[08Jun2025 06:29:17.070] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Jun2025 06:29:17.071] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Jun2025 06:29:18.453] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08Jun2025 06:29:18.510] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
+[08Jun2025 06:29:18.516] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
+[08Jun2025 06:29:19.691] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
+[08Jun2025 06:29:23.818] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[08Jun2025 06:29:24.025] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[08Jun2025 06:29:24.085] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[08Jun2025 06:29:24.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[08Jun2025 06:29:24.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[08Jun2025 06:29:24.317] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[08Jun2025 06:29:24.341] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[08Jun2025 06:29:24.341] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[08Jun2025 06:29:24.351] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[08Jun2025 06:29:24.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[08Jun2025 06:29:24.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
+[08Jun2025 06:29:24.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
+[08Jun2025 06:29:24.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jun2025 06:29:24.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[08Jun2025 06:29:24.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[08Jun2025 06:29:24.972] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[08Jun2025 06:29:24.973] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[08Jun2025 06:29:24.973] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[08Jun2025 06:29:25.037] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[08Jun2025 06:29:25.037] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[08Jun2025 06:29:25.037] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[08Jun2025 06:29:25.038] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[08Jun2025 06:29:25.038] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[08Jun2025 06:29:25.038] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[08Jun2025 06:29:25.038] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[08Jun2025 06:29:25.077] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[08Jun2025 06:29:25.089] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[08Jun2025 06:29:25.090] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[08Jun2025 06:29:25.092] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[08Jun2025 06:29:25.093] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08Jun2025 06:29:25.112] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[08Jun2025 01:55:28.649] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[08Jun2025 01:55:28.661] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[08Jun2025 01:55:28.662] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[08Jun2025 01:55:28.663] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[08Jun2025 01:55:28.675] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[08Jun2025 01:55:28.679] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[08Jun2025 01:55:28.681] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[08Jun2025 01:55:28.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[08Jun2025 01:55:28.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[08Jun2025 01:55:28.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[08Jun2025 01:55:28.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[08Jun2025 01:55:29.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.20 Target: 1.20.1-1.0.21
-[08Jun2025 01:55:29.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[08Jun2025 01:55:29.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
-[08Jun2025 01:55:29.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[08Jun2025 01:55:30.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10.0.1
-[08Jun2025 01:55:30.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[08Jun2025 01:55:30.604] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[08Jun2025 06:29:25.180] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[08Jun2025 06:29:25.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[08Jun2025 06:29:25.188] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[08Jun2025 06:29:25.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[08Jun2025 06:29:25.189] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[08Jun2025 06:29:25.190] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[08Jun2025 06:29:25.201] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[08Jun2025 06:29:25.205] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[08Jun2025 06:29:25.207] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[08Jun2025 06:29:25.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.20 Target: 1.20.1-1.0.21
+[08Jun2025 06:29:25.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[08Jun2025 06:29:26.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[08Jun2025 06:29:26.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[08Jun2025 06:29:26.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10.0.1
+[08Jun2025 06:29:26.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[08Jun2025 06:29:26.578] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
@@ -237,8 +237,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[08Jun2025 01:55:30.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[08Jun2025 01:55:30.625] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[08Jun2025 06:29:26.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[08Jun2025 06:29:26.597] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
@@ -253,23 +253,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[08Jun2025 01:55:34.176] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Jun2025 01:55:38.039] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
-[08Jun2025 01:55:38.039] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
-[08Jun2025 01:55:38.740] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.743] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.743] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.747] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.747] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.748] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.748] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.748] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.749] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:38.749] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[08Jun2025 01:55:40.382] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[08Jun2025 01:55:41.830] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:55:41.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[08Jun2025 01:55:41.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
+[08Jun2025 06:29:29.746] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Jun2025 06:29:33.610] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
+[08Jun2025 06:29:33.610] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
+[08Jun2025 06:29:34.303] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.305] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.306] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.311] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.312] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.312] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.313] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.316] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.317] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:34.318] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[08Jun2025 06:29:35.883] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[08Jun2025 06:29:36.980] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Jun2025 06:29:37.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[08Jun2025 06:29:37.006] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
 com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
@@ -302,579 +302,99 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Jun2025 01:55:41.900] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[08Jun2025 01:55:41.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[08Jun2025 01:55:41.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[08Jun2025 01:55:41.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[08Jun2025 01:55:41.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[08Jun2025 01:55:41.968] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[08Jun2025 01:55:41.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[08Jun2025 01:55:41.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[08Jun2025 01:55:42.056] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
-[08Jun2025 01:55:42.190] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4662 advancements
-[08Jun2025 01:55:42.196] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[08Jun2025 01:55:42.197] [main/INFO] [Dungeon Crawl/]: Loading data...
-[08Jun2025 01:55:42.473] [main/INFO] [Dungeon Crawl/]: Done.
-[08Jun2025 01:55:42.479] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[08Jun2025 01:55:42.489] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[08Jun2025 01:55:42.494] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[08Jun2025 01:55:42.495] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[08Jun2025 01:55:42.531] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[08Jun2025 01:55:46.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Jun2025 01:55:46.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Jun2025 01:55:46.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Jun2025 01:55:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Jun2025 01:55:46.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Jun2025 01:55:46.357] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Jun2025 01:55:46.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Jun2025 01:55:46.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Jun2025 01:55:46.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Jun2025 01:55:46.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Jun2025 01:55:46.818] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[08Jun2025 01:55:46.819] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[08Jun2025 01:55:46.819] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[08Jun2025 01:55:46.819] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[08Jun2025 01:55:46.820] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[08Jun2025 01:55:46.821] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[08Jun2025 01:55:46.821] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[08Jun2025 01:55:46.821] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[08Jun2025 01:55:46.822] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[08Jun2025 01:55:46.822] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[08Jun2025 01:55:46.844] [Server thread/INFO] [Framework/]: Loading server configs...
-[08Jun2025 01:55:46.867] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[08Jun2025 01:55:47.455] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[08Jun2025 01:55:47.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Jun2025 01:55:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Jun2025 01:56:02.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.475] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.476] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.476] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.479] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.479] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.480] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.481] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:02.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:56:03.158] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[08Jun2025 01:56:03.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[08Jun2025 01:56:04.182] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[08Jun2025 01:56:04.420] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7762 ms
-[08Jun2025 01:56:04.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.966s)! For help, type "help"
-[08Jun2025 01:56:04.500] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Jun2025 01:56:04.513] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[08Jun2025 01:56:04.513] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[08Jun2025 01:56:04.515] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[08Jun2025 01:56:04.517] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[08Jun2025 01:56:04.528] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'must-modified.gl.at.ply.gg:1434'
-[08Jun2025 01:56:04.530] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1434
-[08Jun2025 01:56:07.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[08Jun2025 02:02:55.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.83.76.232:54641] logged in with entity id 87 at (2775.0113247603003, -8.0, 417.03101704767954)
-[08Jun2025 02:02:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
-[08Jun2025 02:02:55.482] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
-[08Jun2025 02:02:57.884] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
-[08Jun2025 02:02:57.886] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
-[08Jun2025 02:03:14.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
-[08Jun2025 02:03:15.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
-[08Jun2025 02:03:15.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
-[08Jun2025 02:03:18.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
-[08Jun2025 02:10:37.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Good Demoman]
-[08Jun2025 02:13:36.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.197.202.9:42711] logged in with entity id 3588 at (720.0125528914058, -45.0, 4055.290106445726)
-[08Jun2025 02:13:36.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
-[08Jun2025 02:13:36.372] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
-[08Jun2025 02:13:38.037] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
-[08Jun2025 02:13:38.038] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 02:13:38.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 9.952110445905873,0.42355929454303975,1.2545780907239532
-[08Jun2025 02:13:38.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
-[08Jun2025 02:13:43.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/3880, l='ServerLevel[world]', x=607.99, y=68.51, z=3898.83]
-[08Jun2025 02:13:43.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/3881, l='ServerLevel[world]', x=607.69, y=68.11, z=3892.79]
-[08Jun2025 02:13:44.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:13:45.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:13:45.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 02:14:32.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has made the advancement [Source of Evil]
-[08Jun2025 02:15:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> xaero-waypoint:Shared Location:S:3484:-24:705:12:false:0:Internal-overworld-waypoints
-[08Jun2025 02:15:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has made the advancement [Stay dead]
-[08Jun2025 02:17:28.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 is incapacitated!
-[08Jun2025 02:17:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Into Darkness]
-[08Jun2025 02:17:52.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
-[08Jun2025 02:17:52.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
-[08Jun2025 02:17:52.686] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
-[08Jun2025 02:18:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Taking from the Dead]
-[08Jun2025 02:18:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Who turned the lights off?]
-[08Jun2025 02:31:26.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.197.202.9:35717] logged in with entity id 9689 at (845.066032306013, -41.0, 4112.962418851717)
-[08Jun2025 02:31:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
-[08Jun2025 02:31:26.524] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
-[08Jun2025 02:31:27.271] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
-[08Jun2025 02:31:27.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 02:31:32.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:31:33.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:31:33.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 02:31:45.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
-[08Jun2025 02:31:45.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
-[08Jun2025 02:31:45.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
-[08Jun2025 02:34:38.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.31.231.168:49085] logged in with entity id 10652 at (1497.2183731031605, 67.71280057680251, 4633.122575061995)
-[08Jun2025 02:34:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[08Jun2025 02:34:38.095] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[08Jun2025 02:34:40.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[08Jun2025 02:34:40.025] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[08Jun2025 02:35:00.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
-[08Jun2025 02:35:01.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
-[08Jun2025 02:35:01.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
-[08Jun2025 02:35:21.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.197.202.9:57219] logged in with entity id 11505 at (846.0137887632891, -41.0, 4112.554412548112)
-[08Jun2025 02:35:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
-[08Jun2025 02:35:22.035] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
-[08Jun2025 02:35:22.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
-[08Jun2025 02:35:22.825] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 02:35:27.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:35:28.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:35:28.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 02:35:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[08Jun2025 02:35:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[08Jun2025 02:35:31.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
-[08Jun2025 02:35:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[08Jun2025 02:35:45.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -7.744787325752718,0.0,-7.479431355852057
-[08Jun2025 02:35:52.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[08Jun2025 02:36:02.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
-[08Jun2025 02:36:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
-[08Jun2025 02:36:02.275] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
-[08Jun2025 02:36:18.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10636ms or 212 ticks behind
-[08Jun2025 02:36:38.672] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61839ff3[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.197.202.9:42629) lost connection: Disconnected
-[08Jun2025 02:36:40.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7758ms or 155 ticks behind
-[08Jun2025 02:36:51.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.197.202.9:59559] logged in with entity id 12724 at (842.9951636673762, -42.0, 4111.258836297554)
-[08Jun2025 02:36:51.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
-[08Jun2025 02:36:51.598] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
-[08Jun2025 02:36:52.202] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
-[08Jun2025 02:36:52.203] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 02:36:56.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:36:57.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:36:57.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 02:37:04.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8330ms or 166 ticks behind
-[08Jun2025 02:37:10.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported pansaelgato85 to Mieko_]
-[08Jun2025 02:37:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has been revived!
-[08Jun2025 02:37:26.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
-[08Jun2025 02:37:46.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
-[08Jun2025 02:38:05.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
-[08Jun2025 02:38:23.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
-[08Jun2025 02:38:40.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
-[08Jun2025 02:39:00.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4504ms or 90 ticks behind
-[08Jun2025 02:39:18.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
-[08Jun2025 02:39:35.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[08Jun2025 02:40:10.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Regeneration to 3 targets]
-[08Jun2025 02:41:34.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11 timed out
-[08Jun2025 02:41:34.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pansaelgato85
-[08Jun2025 02:41:34.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 02:41:34.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:41:35.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 02:41:35.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 02:41:38.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BuendiaMG[/127.114.221.87:54813] logged in with entity id 14780 at (60.5, 80.0, 1331.5)
-[08Jun2025 02:41:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG joined the game
-[08Jun2025 02:41:38.332] [Server thread/INFO] [Jade/]: Syncing config to BuendiaMG (daa3d711-01ae-3d77-a311-82dff883c535)
-[08Jun2025 02:41:38.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [Ice and Fire]
-[08Jun2025 02:41:41.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BuendiaMG (18)
-[08Jun2025 02:41:41.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BuendiaMG
-[08Jun2025 02:41:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
-[08Jun2025 02:41:53.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player daa3d711-01ae-3d77-a311-82dff883c535
-[08Jun2025 02:41:54.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player daa3d711-01ae-3d77-a311-82dff883c535
-[08Jun2025 02:41:54.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BuendiaMG (daa3d711-01ae-3d77-a311-82dff883c535) successfully connected to voice chat
-[08Jun2025 02:43:30.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1328}
-[08Jun2025 02:43:31.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=81, z=1326}
-[08Jun2025 02:43:44.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1329}
-[08Jun2025 02:43:44.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1329}
-[08Jun2025 02:43:44.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1329}
-[08Jun2025 02:43:59.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported BuendiaMG to pansaelgato85]
-[08Jun2025 02:44:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to pansaelgato85]
-[08Jun2025 02:45:50.022] [Server thread/WARN] [jeg/]: literal{Mieko_}(b738b777-eade-3d4f-af74-b8ae1a39f592) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[08Jun2025 02:45:50.023] [Server thread/WARN] [jeg/]: literal{Mieko_}(b738b777-eade-3d4f-af74-b8ae1a39f592) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
-[08Jun2025 02:46:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [Suit Up]
-[08Jun2025 02:46:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [Isn't It Iron Pick]
-[08Jun2025 02:57:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [They Have a Cave Troll!]
-[08Jun2025 02:57:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Mother of Dragons]
-[08Jun2025 02:57:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> UY SI
-[08Jun2025 02:57:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya tengo 1 huevo de dragon
-[08Jun2025 02:58:13.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> les doy el del end
-[08Jun2025 02:58:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ese nomas hay 1
-[08Jun2025 02:58:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MIEKO
-[08Jun2025 02:59:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> hagame tp a usted
-[08Jun2025 03:00:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MIEKO
-[08Jun2025 03:00:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:00:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> era al revez sapo
-[08Jun2025 03:01:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si
-[08Jun2025 03:01:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pues si le dije eso
-[08Jun2025 03:01:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to pansaelgato85]
-[08Jun2025 03:01:32.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
-[08Jun2025 03:01:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> tiene finta de todo menos de oxxo gg
-[08Jun2025 03:04:15.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyleXD4764[/127.132.176.3:56359] logged in with entity id 23935 at (-338.624976097086, 67.00133597911214, 919.8209397356313)
-[08Jun2025 03:04:15.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 joined the game
-[08Jun2025 03:04:15.859] [Server thread/INFO] [Jade/]: Syncing config to KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a)
-[08Jun2025 03:04:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> COMOOO DIJO ESO
-[08Jun2025 03:04:18.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KyleXD4764 (18)
-[08Jun2025 03:04:18.025] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KyleXD4764
-[08Jun2025 03:04:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> el ferrero
-[08Jun2025 03:04:38.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee2ea193-e7fe-319a-864e-f0a1b831c92a
-[08Jun2025 03:04:39.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee2ea193-e7fe-319a-864e-f0a1b831c92a
-[08Jun2025 03:04:39.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a) successfully connected to voice chat
-[08Jun2025 03:05:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported KyleXD4764 to Mieko_]
-[08Jun2025 03:07:48.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
-[08Jun2025 03:09:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[08Jun2025 03:09:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [The Wind Darkening]
-[08Jun2025 03:10:49.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:56409] logged in with entity id 27474 at (780.9406468668017, -24.876884268989727, 4017.8774571117433)
-[08Jun2025 03:10:49.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
-[08Jun2025 03:10:49.436] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
-[08Jun2025 03:10:50.699] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
-[08Jun2025 03:10:50.699] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
-[08Jun2025 03:10:56.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
-[08Jun2025 03:11:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[08Jun2025 03:11:47.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
-[08Jun2025 03:11:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Mariachi?]
-[08Jun2025 03:11:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has completed the challenge [Mariachi!]
-[08Jun2025 03:12:10.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> duerman
-[08Jun2025 03:12:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Best Friends Forever]
-[08Jun2025 03:12:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
-[08Jun2025 03:13:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [The Song of the Dragons]
-[08Jun2025 03:13:46.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/24551, l='ServerLevel[world]', x=18.07, y=64.50, z=1796.94] died, message: 'Fisherman was pricked to death'
-[08Jun2025 03:15:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [An Ear-Shattering Roar]
-[08Jun2025 03:16:49.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -31.396756546370767,1.0,-7.429387144648899
-[08Jun2025 03:16:55.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityPixie['Pixie'/30564, l='ServerLevel[world]', x=320.04, y=72.50, z=1660.77]
-[08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
-[08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
-[08Jun2025 03:17:03.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
-[08Jun2025 03:18:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Dragon Growth Hormone]
-[08Jun2025 03:19:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [A Flaming Sword]
-[08Jun2025 03:21:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> desmutearte
-[08Jun2025 03:22:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
-[08Jun2025 03:22:50.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:23:18.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 2.5804475419826645,0.3857593734295648,10.060785505229887
-[08Jun2025 03:23:45.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BuendiaMG lost connection: Disconnected
-[08Jun2025 03:23:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG left the game
-[08Jun2025 03:23:45.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BuendiaMG
-[08Jun2025 03:24:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Tie me to the Mast]
-[08Jun2025 03:24:53.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:55203] logged in with entity id 37073 at (698.6045436029498, -41.0, 4053.081096803685)
-[08Jun2025 03:24:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
-[08Jun2025 03:24:53.481] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
-[08Jun2025 03:24:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
-[08Jun2025 03:24:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
-[08Jun2025 03:25:07.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
-[08Jun2025 03:25:09.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
-[08Jun2025 03:25:09.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
-[08Jun2025 03:25:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tp con nutria unu
-[08Jun2025 03:25:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> ti
-[08Jun2025 03:25:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me abandona...
-[08Jun2025 03:25:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> En la cueva...
-[08Jun2025 03:25:44.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[08Jun2025 03:25:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> me salvaron ellos
-[08Jun2025 03:25:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Dije que me abandonaste...
-[08Jun2025 03:25:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> mieko hazle tp a nekka conmigo
-[08Jun2025 03:25:59.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyleXD4764 moved too quickly! -44.841226260471785,0.09999999999999432,127.86627649346792
-[08Jun2025 03:26:17.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:26:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A quien
-[08Jun2025 03:26:43.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Mine? Mine? Mine?]
-[08Jun2025 03:26:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Igual te gano..
-[08Jun2025 03:27:11.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Solo espera a que tenga mazo...
-[08Jun2025 03:27:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y este el fuego amigo
-[08Jun2025 03:27:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Not Today, Thank You]
-[08Jun2025 03:27:25.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A vera
-[08Jun2025 03:27:25.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A vera
-[08Jun2025 03:27:28.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver
-[08Jun2025 03:27:31.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[08Jun2025 03:27:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sus mejoras
-[08Jun2025 03:27:48.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[08Jun2025 03:27:59.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Sea? Not a Problem]
-[08Jun2025 03:28:06.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
-[08Jun2025 03:28:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver
-[08Jun2025 03:28:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sus mejoras
-[08Jun2025 03:28:23.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:34751] logged in with entity id 40229 at (-40.292393843230585, 65.0, 1113.4812537724779)
-[08Jun2025 03:28:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
-[08Jun2025 03:28:23.374] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
-[08Jun2025 03:28:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no w
-[08Jun2025 03:28:25.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
-[08Jun2025 03:28:25.877] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
-[08Jun2025 03:28:35.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[08Jun2025 03:28:46.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
-[08Jun2025 03:28:47.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
-[08Jun2025 03:28:47.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
-[08Jun2025 03:28:53.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Disconnected
-[08Jun2025 03:28:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
-[08Jun2025 03:28:53.377] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
-[08Jun2025 03:28:53.437] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Jun2025 03:28:53.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
-[08Jun2025 03:29:15.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no
-[08Jun2025 03:29:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> toma
-[08Jun2025 03:29:24.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:34543] logged in with entity id 40903 at (-40.292393843230585, 65.0, 1113.4812537724779)
-[08Jun2025 03:29:24.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
-[08Jun2025 03:29:24.694] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
-[08Jun2025 03:29:25.167] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
-[08Jun2025 03:29:25.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
-[08Jun2025 03:29:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me fui
-[08Jun2025 03:29:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me fui de largo
-[08Jun2025 03:29:39.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
-[08Jun2025 03:29:40.217] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
-[08Jun2025 03:29:40.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
-[08Jun2025 03:29:44.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[08Jun2025 03:29:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el mazo le gana...
-[08Jun2025 03:29:52.165] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/41307, l='ServerLevel[world]', x=1062.50, y=47.00, z=2223.50]
-[08Jun2025 03:30:03.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
-[08Jun2025 03:30:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> el crystal ganan
-[08Jun2025 03:30:10.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 1.206483253371543
-[08Jun2025 03:30:10.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 2.7244695579513785
-[08Jun2025 03:30:10.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 3.6324613207268674
-[08Jun2025 03:30:11.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 4.040205483719553
-[08Jun2025 03:30:11.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 4.477768132644361
-[08Jun2025 03:30:11.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 4.923891836673697
-[08Jun2025 03:30:11.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 5.365393690334516
-[08Jun2025 03:30:11.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nekkai_) moved wrongly! 5.793810539395441
-[08Jun2025 03:30:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> llegue antes
-[08Jun2025 03:30:18.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> barco good
-[08Jun2025 03:30:20.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[08Jun2025 03:30:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y como lo obtuvo
-[08Jun2025 03:30:41.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[08Jun2025 03:30:59.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
-[08Jun2025 03:31:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Junior Summoner]
-[08Jun2025 03:31:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has reached the goal [Horror of the Depths]
-[08Jun2025 03:31:17.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
-[08Jun2025 03:31:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Cuando abriran el nether.....
-[08Jun2025 03:31:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ps si esta bien abierto
-[08Jun2025 03:31:37.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[08Jun2025 03:31:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
-[08Jun2025 03:31:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has completed the challenge [Find: Ruin pillager]
-[08Jun2025 03:31:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Apoco se podia ir
-[08Jun2025 03:31:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has completed the challenge [Find: Ruin pillager]
-[08Jun2025 03:31:58.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
-[08Jun2025 03:32:00.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ps si ya hasta el juego me pase ff
-[08Jun2025 03:32:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> tu por op w
-[08Jun2025 03:32:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ez
-[08Jun2025 03:32:17.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
-[08Jun2025 03:32:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to titanhumilde7w7]
-[08Jun2025 03:32:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[08Jun2025 03:32:31.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
-[08Jun2025 03:32:33.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga
-[08Jun2025 03:32:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
-[08Jun2025 03:32:35.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
-[08Jun2025 03:32:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:32:47.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[08Jun2025 03:32:54.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
-[08Jun2025 03:32:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AAAA
-[08Jun2025 03:33:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me hipnotizaron
-[08Jun2025 03:33:07.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me querian enamorar :c
-[08Jun2025 03:33:13.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
-[08Jun2025 03:33:32.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4026ms or 80 ticks behind
-[08Jun2025 03:33:50.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
-[08Jun2025 03:34:01.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
-[08Jun2025 03:34:08.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
-[08Jun2025 03:34:09.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/32034, l='ServerLevel[world]', x=-41.18, y=63.50, z=1791.50] died, message: 'Fisherman was pricked to death'
-[08Jun2025 03:34:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
-[08Jun2025 03:34:28.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4704ms or 94 ticks behind
-[08Jun2025 03:34:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
-[08Jun2025 03:34:48.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5464ms or 109 ticks behind
-[08Jun2025 03:34:55.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
-[08Jun2025 03:35:09.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5402ms or 108 ticks behind
-[08Jun2025 03:35:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
-[08Jun2025 03:35:28.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
-[08Jun2025 03:35:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> toma
-[08Jun2025 03:35:40.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
-[08Jun2025 03:35:46.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3870ms or 77 ticks behind
-[08Jun2025 03:36:05.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
-[08Jun2025 03:36:24.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
-[08Jun2025 03:36:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:36:43.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
-[08Jun2025 03:37:03.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
-[08Jun2025 03:37:23.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4651ms or 93 ticks behind
-[08Jun2025 03:37:44.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6254ms or 125 ticks behind
-[08Jun2025 03:38:04.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4823ms or 96 ticks behind
-[08Jun2025 03:38:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
-[08Jun2025 03:38:13.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
-[08Jun2025 03:38:24.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
-[08Jun2025 03:38:45.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
-[08Jun2025 03:38:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Suit Up]
-[08Jun2025 03:39:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko venga
-[08Jun2025 03:39:08.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7975ms or 159 ticks behind
-[08Jun2025 03:39:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No hizo nada
-[08Jun2025 03:39:13.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:39:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga
-[08Jun2025 03:39:28.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4968ms or 99 ticks behind
-[08Jun2025 03:39:49.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6212ms or 124 ticks behind
-[08Jun2025 03:40:09.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
-[08Jun2025 03:40:32.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7741ms or 154 ticks behind
-[08Jun2025 03:40:40.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BuendiaMG[/127.114.221.87:51937] logged in with entity id 50877 at (-230.889629351776, 69.0, 1175.0554175501518)
-[08Jun2025 03:40:40.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG joined the game
-[08Jun2025 03:40:41.048] [Server thread/INFO] [Jade/]: Syncing config to BuendiaMG (daa3d711-01ae-3d77-a311-82dff883c535)
-[08Jun2025 03:40:41.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BuendiaMG (18)
-[08Jun2025 03:40:41.917] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BuendiaMG
-[08Jun2025 03:40:50.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player daa3d711-01ae-3d77-a311-82dff883c535
-[08Jun2025 03:40:51.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player daa3d711-01ae-3d77-a311-82dff883c535
-[08Jun2025 03:40:51.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BuendiaMG (daa3d711-01ae-3d77-a311-82dff883c535) successfully connected to voice chat
-[08Jun2025 03:40:55.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8421ms or 168 ticks behind
-[08Jun2025 03:41:18.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7876ms or 157 ticks behind
-[08Jun2025 03:41:32.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si tan solo fuera tier 5...
-[08Jun2025 03:41:41.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8508ms or 170 ticks behind
-[08Jun2025 03:41:48.233] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Mapachito_44 just tried to change non-editable sign
-[08Jun2025 03:42:00.747] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Mapachito_44 just tried to change non-editable sign
-[08Jun2025 03:42:07.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10136ms or 202 ticks behind
-[08Jun2025 03:42:29.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [The Next Generation]
-[08Jun2025 03:42:30.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
-[08Jun2025 03:42:44.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> con op cualquiera...
-[08Jun2025 03:42:53.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7953ms or 159 ticks behind
-[08Jun2025 03:42:56.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> el del end
-[08Jun2025 03:42:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mensos
-[08Jun2025 03:43:18.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10124ms or 202 ticks behind
-[08Jun2025 03:43:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XDD
-[08Jun2025 03:43:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:43:44.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10437ms or 208 ticks behind
-[08Jun2025 03:44:08.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9530ms or 190 ticks behind
-[08Jun2025 03:44:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Suit Up]
-[08Jun2025 03:44:21.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Alex's Caves]
-[08Jun2025 03:44:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:44:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
-[08Jun2025 03:44:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Alex's Caves]
-[08Jun2025 03:44:31.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> uy mano estos mapaches como chillan
-[08Jun2025 03:44:32.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8507ms or 170 ticks behind
-[08Jun2025 03:44:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
-[08Jun2025 03:44:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> me quede afk de que me perdii
-[08Jun2025 03:44:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MANO AGARRAN LAS COSAS DE LOS COFRES XDD
-[08Jun2025 03:44:46.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> me echenun taco xd
-[08Jun2025 03:44:47.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -7.624535581040504,7.0,-0.20726286621447798
-[08Jun2025 03:44:52.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> venga
-[08Jun2025 03:44:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> LAVAN SUS COSITAS
-[08Jun2025 03:44:56.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9133ms or 182 ticks behind
-[08Jun2025 03:45:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MANO QUE BONITO
-[08Jun2025 03:45:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:45:20.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9160ms or 183 ticks behind
-[08Jun2025 03:45:32.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [It Belongs in a Museum]
-[08Jun2025 03:45:43.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7867ms or 157 ticks behind
-[08Jun2025 03:45:53.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LKSALKSAKL
-[08Jun2025 03:46:06.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7860ms or 157 ticks behind
-[08Jun2025 03:46:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
-[08Jun2025 03:46:18.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.197.202.9:54217] logged in with entity id 55385 at (-241.98162405164328, 69.0, 1183.4215207335196)
-[08Jun2025 03:46:18.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
-[08Jun2025 03:46:18.834] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
-[08Jun2025 03:46:18.943] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
-[08Jun2025 03:46:18.943] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
-[08Jun2025 03:46:23.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 03:46:24.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
-[08Jun2025 03:46:24.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat
-[08Jun2025 03:46:30.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8883ms or 177 ticks behind
-[08Jun2025 03:46:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to titanhumilde7w7]
-[08Jun2025 03:46:54.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9513ms or 190 ticks behind
-[08Jun2025 03:47:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to pansaelgato85]
-[08Jun2025 03:47:19.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10229ms or 204 ticks behind
-[08Jun2025 03:47:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to titanhumilde7w7]
-[08Jun2025 03:47:45.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11013ms or 220 ticks behind
-[08Jun2025 03:47:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[08Jun2025 03:48:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[08Jun2025 03:48:10.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10133ms or 202 ticks behind
-[08Jun2025 03:48:39.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13121ms or 262 ticks behind
-[08Jun2025 03:48:44.426] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
-[08Jun2025 03:48:49.977] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
-[08Jun2025 03:48:49.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
-[08Jun2025 03:49:00.272] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
-[08Jun2025 03:49:00.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-57, z=1073}
-[08Jun2025 03:49:00.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
-[08Jun2025 03:49:00.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-57, z=1073}
-[08Jun2025 03:49:00.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-124, y=-57, z=1073}
-[08Jun2025 03:49:00.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
-[08Jun2025 03:49:06.619] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
-[08Jun2025 03:49:06.620] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
-[08Jun2025 03:49:06.620] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
-[08Jun2025 03:49:06.620] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
-[08Jun2025 03:49:06.620] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
-[08Jun2025 03:49:06.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13011ms or 260 ticks behind
-[08Jun2025 03:49:14.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
-[08Jun2025 03:49:14.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
-[08Jun2025 03:49:14.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
-[08Jun2025 03:49:14.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyleXD4764 lost connection: Disconnected
-[08Jun2025 03:49:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 left the game
-[08Jun2025 03:49:14.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KyleXD4764
-[08Jun2025 03:49:15.801] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
-[08Jun2025 03:49:33.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11155ms or 223 ticks behind
-[08Jun2025 03:49:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
-[08Jun2025 03:49:55.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:49:59.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11211ms or 224 ticks behind
-[08Jun2025 03:50:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> esa nekka
-[08Jun2025 03:50:05.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -9.98234694435655,2.0,2.6984124995760794
-[08Jun2025 03:50:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
-[08Jun2025 03:50:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pues este que se saco la velocidad del flash del guion...
-[08Jun2025 03:50:21.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7030ms or 140 ticks behind
-[08Jun2025 03:50:43.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
-[08Jun2025 03:51:04.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6728ms or 134 ticks behind
-[08Jun2025 03:51:24.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4947ms or 98 ticks behind
-[08Jun2025 03:51:47.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7565ms or 151 ticks behind
-[08Jun2025 03:52:07.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
-[08Jun2025 03:52:27.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
-[08Jun2025 03:52:48.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
-[08Jun2025 03:53:10.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
-[08Jun2025 03:53:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[08Jun2025 03:53:14.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[08Jun2025 03:53:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[08Jun2025 03:53:33.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7956ms or 159 ticks behind
-[08Jun2025 03:53:56.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7953ms or 159 ticks behind
-[08Jun2025 03:54:03.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duzzk0[/127.167.134.2:33233] logged in with entity id 63818 at (-515.669230371919, 66.0, 2294.616477540624)
-[08Jun2025 03:54:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 joined the game
-[08Jun2025 03:54:03.837] [Server thread/INFO] [Jade/]: Syncing config to Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64)
-[08Jun2025 03:54:06.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Duzzk0 (18)
-[08Jun2025 03:54:06.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Duzzk0
-[08Jun2025 03:54:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Duzzk0]
-[08Jun2025 03:54:19.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8138ms or 162 ticks behind
-[08Jun2025 03:54:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:54:25.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eefa2737-9c1a-3ff5-8058-8faf26749a64
-[08Jun2025 03:54:26.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eefa2737-9c1a-3ff5-8058-8faf26749a64
-[08Jun2025 03:54:26.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64) successfully connected to voice chat
-[08Jun2025 03:54:38.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> putos todos menos yo
-[08Jun2025 03:54:38.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
-[08Jun2025 03:54:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
-[08Jun2025 03:55:00.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6048ms or 120 ticks behind
-[08Jun2025 03:55:17.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! 9.636169098700293,4.109755942915498,-1.3956982795011754
-[08Jun2025 03:55:22.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7242ms or 144 ticks behind
-[08Jun2025 03:55:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Strength to Nekkai_]
-[08Jun2025 03:55:41.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
-[08Jun2025 03:55:43.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6115ms or 122 ticks behind
-[08Jun2025 03:55:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
-[08Jun2025 03:56:08.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10633ms or 212 ticks behind
-[08Jun2025 03:56:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
-[08Jun2025 03:56:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no XDD
-[08Jun2025 03:56:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[08Jun2025 03:56:18.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
-[08Jun2025 03:56:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[08Jun2025 03:56:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
-[08Jun2025 03:56:21.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
-[08Jun2025 03:56:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
-[08Jun2025 03:56:22.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
-[08Jun2025 03:56:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> carrera?
-[08Jun2025 03:56:33.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9615ms or 192 ticks behind
-[08Jun2025 03:56:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Speed to Nekkai_]
-[08Jun2025 03:56:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:56:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
-[08Jun2025 03:56:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> de aca
-[08Jun2025 03:56:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> hasta...
-[08Jun2025 03:56:58.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9529ms or 190 ticks behind
-[08Jun2025 03:57:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
-[08Jun2025 03:57:21.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8189ms or 163 ticks behind
-[08Jun2025 03:57:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
-[08Jun2025 03:57:30.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Nekkai_ to Mieko_]
-[08Jun2025 03:57:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Hasta el coso alto
-[08Jun2025 03:57:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oe :c
-[08Jun2025 03:57:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
-[08Jun2025 03:57:43.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7197ms or 143 ticks behind
-[08Jun2025 03:57:46.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.189677858174491,-0.07840000152587834,11.751225641698966
-[08Jun2025 03:57:49.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.607324227363279,0.0,12.091040881296067
-[08Jun2025 03:57:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -7.435881948581937,-0.07840000152587834,7.131374668199896
-[08Jun2025 03:57:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> a veces son animales titan, no jugadores
-[08Jun2025 03:57:55.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.866207031534032,-0.2336320060424839,6.926598402028958
-[08Jun2025 03:58:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Removed every effect from Nekkai_]
-[08Jun2025 03:58:07.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8733ms or 174 ticks behind
-[08Jun2025 03:58:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
-[08Jun2025 03:58:29.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
-[08Jun2025 03:58:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> yo que
-[08Jun2025 03:58:45.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
-[08Jun2025 03:58:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
-[08Jun2025 03:58:52.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7661ms or 153 ticks behind
-[08Jun2025 03:59:06.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
-[08Jun2025 03:59:14.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7195ms or 143 ticks behind
-[08Jun2025 03:59:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to titanhumilde7w7]
-[08Jun2025 03:59:26.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Ice Bucket Challenge]
-[08Jun2025 03:59:36.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7186ms or 143 ticks behind
+[08Jun2025 06:29:37.046] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[08Jun2025 06:29:37.054] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[08Jun2025 06:29:37.067] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[08Jun2025 06:29:37.102] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[08Jun2025 06:29:37.105] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[08Jun2025 06:29:37.107] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[08Jun2025 06:29:37.115] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[08Jun2025 06:29:37.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[08Jun2025 06:29:37.174] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
+[08Jun2025 06:29:37.313] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4662 advancements
+[08Jun2025 06:29:37.318] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[08Jun2025 06:29:37.320] [main/INFO] [Dungeon Crawl/]: Loading data...
+[08Jun2025 06:29:37.583] [main/INFO] [Dungeon Crawl/]: Done.
+[08Jun2025 06:29:37.600] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[08Jun2025 06:29:37.623] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[08Jun2025 06:29:37.630] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[08Jun2025 06:29:37.631] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08Jun2025 06:29:37.669] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[08Jun2025 06:29:41.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Jun2025 06:29:41.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jun2025 06:29:41.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jun2025 06:29:41.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jun2025 06:29:41.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jun2025 06:29:41.327] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jun2025 06:29:41.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jun2025 06:29:41.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jun2025 06:29:41.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jun2025 06:29:41.410] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jun2025 06:29:41.661] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[08Jun2025 06:29:41.661] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[08Jun2025 06:29:41.661] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[08Jun2025 06:29:41.662] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[08Jun2025 06:29:41.662] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[08Jun2025 06:29:41.662] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[08Jun2025 06:29:41.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[08Jun2025 06:29:41.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[08Jun2025 06:29:41.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[08Jun2025 06:29:41.664] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[08Jun2025 06:29:41.680] [Server thread/INFO] [Framework/]: Loading server configs...
+[08Jun2025 06:29:42.052] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[08Jun2025 06:29:42.053] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[08Jun2025 06:29:42.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jun2025 06:29:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jun2025 06:29:54.997] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.019] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.058] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.082] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.097] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.110] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.117] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.132] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:55.601] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 06:29:56.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[08Jun2025 06:29:56.779] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[08Jun2025 06:29:57.486] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6886 ms
+[08Jun2025 06:29:57.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.062s)! For help, type "help"
+[08Jun2025 06:29:57.552] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jun2025 06:29:57.564] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[08Jun2025 06:29:57.565] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[08Jun2025 06:29:57.570] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[08Jun2025 06:29:57.572] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[08Jun2025 06:29:57.586] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'must-modified.gl.at.ply.gg:1434'
+[08Jun2025 06:29:57.593] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1434
+[08Jun2025 06:30:01.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[08Jun2025 06:30:15.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.31.231.168:50871] logged in with entity id 85 at (-249.14910829020843, 69.0, 1172.1076135438636)
+[08Jun2025 06:30:15.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[08Jun2025 06:30:15.956] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[08Jun2025 06:30:16.028] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[08Jun2025 06:30:16.033] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[08Jun2025 06:30:27.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[08Jun2025 06:30:28.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.83.76.232:34859] logged in with entity id 413 at (93.1621039944095, 64.02442408821369, 1676.412052499019)
+[08Jun2025 06:30:28.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[08Jun2025 06:30:28.504] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[08Jun2025 06:30:28.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[08Jun2025 06:30:28.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[08Jun2025 06:30:29.354] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[08Jun2025 06:30:29.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[08Jun2025 06:30:40.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[08Jun2025 06:30:41.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[08Jun2025 06:30:41.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[08Jun2025 06:34:36.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyleXD4764[/127.132.176.3:60081] logged in with entity id 2341 at (-365.69999998807907, 24.0, 1274.300000011921)
+[08Jun2025 06:34:36.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 joined the game
+[08Jun2025 06:34:36.187] [Server thread/INFO] [Jade/]: Syncing config to KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a)
+[08Jun2025 06:34:37.512] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KyleXD4764 (18)
+[08Jun2025 06:34:37.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KyleXD4764
+[08Jun2025 06:34:54.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee2ea193-e7fe-319a-864e-f0a1b831c92a
+[08Jun2025 06:34:55.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee2ea193-e7fe-319a-864e-f0a1b831c92a
+[08Jun2025 06:34:55.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a) successfully connected to voice chat
+[08Jun2025 06:35:36.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has reached the goal [Fighting Nightmares]
+[08Jun2025 06:36:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
+[08Jun2025 06:36:21.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[08Jun2025 06:36:23.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[08Jun2025 06:36:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[08Jun2025 06:36:23.872] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
