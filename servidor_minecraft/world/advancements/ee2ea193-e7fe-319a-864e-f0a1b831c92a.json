@@ -2863,11 +2863,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-08 06:02:01 +0000",
+      "cooked_mutton": "2025-06-08 08:52:31 +0000",
       "cooked_beef": "2025-06-06 23:05:22 +0000",
       "beef": "2025-06-07 00:18:34 +0000",
       "baked_potato": "2025-06-08 07:06:04 +0000",
       "bread": "2025-06-07 00:27:44 +0000",
-      "rotten_flesh": "2025-06-08 03:22:45 +0000"
+      "rotten_flesh": "2025-06-08 03:22:45 +0000",
+      "cooked_chicken": "2025-06-08 08:57:41 +0000"
     },
     "done": false
   },
@@ -4258,7 +4260,8 @@
       "minecraft:creeper": "2025-06-08 03:30:10 +0000",
       "minecraft:phantom": "2025-06-08 06:10:30 +0000",
       "minecraft:witch": "2025-06-06 23:40:26 +0000",
-      "minecraft:zombie": "2025-06-07 00:28:26 +0000"
+      "minecraft:zombie": "2025-06-07 00:28:26 +0000",
+      "minecraft:drowned": "2025-06-08 08:55:55 +0000"
     },
     "done": false
   },
@@ -6386,6 +6389,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-06-08 08:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-06-08 08:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-08 08:35:21 +0000"
@@ -6398,9 +6413,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-06-08 08:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
     "criteria": {
       "has_salmon": "2025-06-08 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-06-08 08:52:26 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
     },
     "done": true
   },
@@ -6416,15 +6455,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-08 08:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-08 08:35:21 +0000"
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-06-08 08:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-08 08:52:33 +0000"
     },
     "done": true
   },
