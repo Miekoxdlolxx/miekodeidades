@@ -1872,3 +1872,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 07:42:57.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50166, l='ServerLevel[world]', x=610.55, y=63.00, z=4020.46] died, message: 'Unemployed was slain by Zombie Villager'
 [08Jun2025 07:43:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Dark Metallurgy]
 [08Jun2025 07:43:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Source of Evil]
+[08Jun2025 07:45:49.965] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[08Jun2025 07:46:44.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved wrongly! 0.2953506547564615
+[08Jun2025 07:46:44.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved wrongly! 0.4740399129137103
+[08Jun2025 07:46:52.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -1.935021237819882,0.0,-10.218395764832167
+[08Jun2025 07:46:52.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.009443613775325,0.0,-10.611411306206264
+[08Jun2025 07:46:52.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.0838659565051856,0.0,-11.00442685457756
+[08Jun2025 07:46:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.1582882693320258,0.0,-11.397442409246196
+[08Jun2025 07:46:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.2327105552461504,0.0,-11.790457969582803
+[08Jun2025 07:46:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.3071328169388323,0.0,-12.183473535020312
+[08Jun2025 07:46:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.3815550568322124,0.0,-12.57648910504895
+[08Jun2025 07:46:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -2.4559772771062214,0.0,-12.969504679209422
+[08Jun2025 07:47:20.629] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -8028 -16 8640 in 9s
+[08Jun2025 07:47:20.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -10.342972489844307,0.0,0.34346627405147956
+[08Jun2025 07:47:20.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arthur_055) moved too quickly! -10.74146295610587,0.0,0.34023615967635124
+[08Jun2025 07:47:20.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
+[08Jun2025 07:48:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has made the advancement [Who is Cutting Onions?]
+[08Jun2025 07:48:59.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jun2025 07:49:09.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arthur_055 lost connection: Disconnected
+[08Jun2025 07:49:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 left the game
+[08Jun2025 07:49:09.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arthur_055
+[08Jun2025 07:49:31.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arthur_055[/127.188.213.252:46289] logged in with entity id 60208 at (-516.3000000119209, 64.0, 3363.237500011921)
+[08Jun2025 07:49:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 joined the game
+[08Jun2025 07:49:31.403] [Server thread/INFO] [Jade/]: Syncing config to Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886)
+[08Jun2025 07:49:32.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arthur_055 (18)
+[08Jun2025 07:49:32.187] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arthur_055
+[08Jun2025 07:49:36.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[08Jun2025 07:49:37.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[08Jun2025 07:49:37.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
+[08Jun2025 07:53:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has made the advancement [Local Brewery]

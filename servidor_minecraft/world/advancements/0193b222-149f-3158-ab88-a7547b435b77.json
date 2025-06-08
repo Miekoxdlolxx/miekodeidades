@@ -3879,6 +3879,7 @@
       "bread": "2025-06-06 23:56:04 +0000",
       "golden_apple": "2025-06-06 23:25:21 +0000",
       "golden_carrot": "2025-06-06 23:07:38 +0000",
+      "cooked_chicken": "2025-06-08 07:48:23 +0000",
       "carrot": "2025-06-07 04:03:54 +0000"
     },
     "done": false
@@ -9634,6 +9635,12 @@
   "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
     "criteria": {
       "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-06-08 07:42:03 +0000"
     },
     "done": true
   },

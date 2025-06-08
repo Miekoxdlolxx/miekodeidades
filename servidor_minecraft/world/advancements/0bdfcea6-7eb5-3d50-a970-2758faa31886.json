@@ -36,9 +36,12 @@
       "highland": "2025-06-07 06:56:16 +0000",
       "clover_patch": "2025-06-06 22:46:43 +0000",
       "mystic_grove": "2025-06-06 22:50:39 +0000",
+      "maple_woods": "2025-06-08 07:45:47 +0000",
       "field": "2025-06-06 23:35:30 +0000",
+      "orchard": "2025-06-08 07:44:45 +0000",
       "coniferous_forest": "2025-06-06 22:02:30 +0000",
       "spider_nest": "2025-06-06 22:20:19 +0000",
+      "redwood_forest": "2025-06-08 07:45:05 +0000",
       "seasonal_orchard": "2025-06-06 23:22:46 +0000",
       "seasonal_forest": "2025-06-06 21:44:47 +0000",
       "rocky_rainforest": "2025-06-07 23:43:53 +0000",
@@ -6802,6 +6805,54 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-06-08 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-08 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-08 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-06-08 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-08 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-08 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-08 07:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-08 07:48:21 +0000"
     },
     "done": true
   },
