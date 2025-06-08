@@ -6594,9 +6594,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-08 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-08 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-08 03:41:21 +0000"
     },
     "done": true
   },
@@ -6654,6 +6666,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-08 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-08 03:28:30 +0000"
@@ -6693,6 +6711,12 @@
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-06-08 03:28:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 03:35:31 +0000"
     },
     "done": true
   },
@@ -6744,6 +6768,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-08 03:41:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-08 03:29:57 +0000"
@@ -6759,6 +6789,18 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-08 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-06-08 03:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-08 03:44:34 +0000"
     },
     "done": true
   },
@@ -6816,6 +6858,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-08 03:41:21 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
     "criteria": {
       "requirement": "2025-06-08 03:31:56 +0000"
@@ -6825,6 +6873,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-08 03:30:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-08 03:44:34 +0000"
     },
     "done": true
   },
