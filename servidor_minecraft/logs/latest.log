@@ -392,3 +392,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 19:14:29.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDD
 [08Jun2025 19:14:29.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> pobre cacache
 [08Jun2025 19:15:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Mieko_]
+[08Jun2025 19:20:07.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:37181] logged in with entity id 2446 at (-4349.873096780832, 64.0, 1673.7255506827237)
+[08Jun2025 19:20:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[08Jun2025 19:20:07.415] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[08Jun2025 19:20:08.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[08Jun2025 19:20:08.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[08Jun2025 19:20:21.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 19:20:23.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 19:20:23.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[08Jun2025 19:20:30.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver
+[08Jun2025 19:20:41.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ./summon Dragon:Electric_Infernal
+[08Jun2025 19:20:51.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Duzzk0]
+[08Jun2025 19:22:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz
+[08Jun2025 19:22:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> eu
+[08Jun2025 19:22:40.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Entra a llamada pues
+[08Jun2025 19:22:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> voy
+[08Jun2025 19:22:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ni usan el vc de aca gigi
+[08Jun2025 19:23:20.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz
+[08Jun2025 19:23:25.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Una nuclear aca de bromis?
+[08Jun2025 19:23:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ah ...
+[08Jun2025 19:23:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Muy feo conmigo...
+[08Jun2025 19:24:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mieko :D
+[08Jun2025 19:24:10.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 1v1
+[08Jun2025 19:24:12.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> con armas
+[08Jun2025 19:24:48.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> deja me equipo pue
+[08Jun2025 19:25:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has completed the challenge [Unity with Darkness]
+[08Jun2025 19:25:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me volvi loba...
+[08Jun2025 19:25:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pase de nutria a loba
+[08Jun2025 19:26:23.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72 timed out
+[08Jun2025 19:26:23.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Nekkai_
+[08Jun2025 19:26:23.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
