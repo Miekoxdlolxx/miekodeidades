@@ -45,11 +45,13 @@
       "crystalline_chasm": "2025-06-07 00:59:15 +0000",
       "withered_abyss": "2025-06-07 01:11:54 +0000",
       "orchard": "2025-06-06 22:58:50 +0000",
+      "field": "2025-06-08 07:12:48 +0000",
       "lavender_forest": "2025-06-07 23:49:36 +0000",
       "mediterranean_forest": "2025-06-07 05:50:19 +0000",
       "coniferous_forest": "2025-06-06 22:32:44 +0000",
       "spider_nest": "2025-06-08 02:14:06 +0000",
       "redwood_forest": "2025-06-07 05:57:26 +0000",
+      "seasonal_orchard": "2025-06-08 07:16:48 +0000",
       "dune_beach": "2025-06-06 23:02:19 +0000",
       "seasonal_forest": "2025-06-06 22:27:23 +0000",
       "volcano": "2025-06-08 05:39:23 +0000",
@@ -80,10 +82,15 @@
       "minecraft:mangrove_swamp": "2025-06-07 05:46:42 +0000",
       "minecraft:sparse_jungle": "2025-06-08 05:16:56 +0000",
       "minecraft:river": "2025-06-06 22:29:06 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-08 07:13:36 +0000",
+      "minecraft:stony_shore": "2025-06-08 07:15:50 +0000",
+      "minecraft:grove": "2025-06-08 07:15:57 +0000",
       "minecraft:cold_ocean": "2025-06-08 07:04:03 +0000",
       "minecraft:forest": "2025-06-06 22:38:56 +0000",
       "minecraft:lush_caves": "2025-06-08 02:26:11 +0000",
       "minecraft:ocean": "2025-06-07 05:57:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-08 07:13:23 +0000",
+      "minecraft:frozen_peaks": "2025-06-08 07:16:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:38:50 +0000",
       "minecraft:deep_dark": "2025-06-08 05:09:15 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-08 04:37:41 +0000",
@@ -9518,6 +9525,12 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-06-08 07:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
+    "criteria": {
+      "has_flower": "2025-06-08 07:11:35 +0000"
     },
     "done": true
   },
