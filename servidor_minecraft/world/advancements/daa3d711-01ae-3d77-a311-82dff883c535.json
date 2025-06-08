@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-08 03:19:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-06-08 02:41:38 +0000"
@@ -344,6 +350,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-06-08 02:46:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-08 03:18:37 +0000"
     },
     "done": true
   },
@@ -699,6 +711,12 @@
   "cfm:recipes/decorations/red_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-08 03:11:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-08 03:19:19 +0000"
     },
     "done": true
   },

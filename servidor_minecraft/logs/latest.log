@@ -540,3 +540,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
 [08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
 [08Jun2025 03:17:03.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
+[08Jun2025 03:18:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Dragon Growth Hormone]
+[08Jun2025 03:19:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [A Flaming Sword]
+[08Jun2025 03:21:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> desmutearte
+[08Jun2025 03:22:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[08Jun2025 03:22:50.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[08Jun2025 03:23:18.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 2.5804475419826645,0.3857593734295648,10.060785505229887
+[08Jun2025 03:23:45.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BuendiaMG lost connection: Disconnected
+[08Jun2025 03:23:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG left the game
+[08Jun2025 03:23:45.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BuendiaMG
+[08Jun2025 03:24:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Tie me to the Mast]
+[08Jun2025 03:24:53.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:55203] logged in with entity id 37073 at (698.6045436029498, -41.0, 4053.081096803685)
+[08Jun2025 03:24:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[08Jun2025 03:24:53.481] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[08Jun2025 03:24:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[08Jun2025 03:24:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[08Jun2025 03:25:07.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 03:25:09.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[08Jun2025 03:25:09.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[08Jun2025 03:25:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tp con nutria unu
+[08Jun2025 03:25:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> ti
+[08Jun2025 03:25:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me abandona...
+[08Jun2025 03:25:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> En la cueva...
+[08Jun2025 03:25:44.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[08Jun2025 03:25:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> me salvaron ellos
+[08Jun2025 03:25:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Dije que me abandonaste...
+[08Jun2025 03:25:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> mieko hazle tp a nekka conmigo
+[08Jun2025 03:25:59.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyleXD4764 moved too quickly! -44.841226260471785,0.09999999999999432,127.86627649346792
+[08Jun2025 03:26:17.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[08Jun2025 03:26:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A quien
+[08Jun2025 03:26:43.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Mine? Mine? Mine?]
+[08Jun2025 03:26:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Igual te gano..
+[08Jun2025 03:27:11.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Solo espera a que tenga mazo...
+[08Jun2025 03:27:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y este el fuego amigo
+[08Jun2025 03:27:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Not Today, Thank You]
+[08Jun2025 03:27:25.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A vera
+[08Jun2025 03:27:25.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A vera
+[08Jun2025 03:27:28.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver
+[08Jun2025 03:27:31.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jun2025 03:27:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sus mejoras
+[08Jun2025 03:27:48.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[08Jun2025 03:27:59.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Sea? Not a Problem]
+[08Jun2025 03:28:06.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[08Jun2025 03:28:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver
+[08Jun2025 03:28:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sus mejoras
+[08Jun2025 03:28:23.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:34751] logged in with entity id 40229 at (-40.292393843230585, 65.0, 1113.4812537724779)
+[08Jun2025 03:28:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[08Jun2025 03:28:23.374] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[08Jun2025 03:28:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no w
