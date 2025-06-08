@@ -82,6 +82,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-07 23:25:36 +0000",
       "minecraft:taiga": "2025-06-06 22:48:15 +0000",
+      "minecraft:deep_ocean": "2025-06-08 03:32:00 +0000",
       "minecraft:sunflower_plains": "2025-06-07 06:46:18 +0000",
       "minecraft:birch_forest": "2025-06-07 04:27:07 +0000",
       "minecraft:bamboo_jungle": "2025-06-07 23:46:50 +0000",
@@ -7721,9 +7722,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-08 03:28:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-06-08 03:28:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-06-08 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-08 03:28:05 +0000"
     },
     "done": true
   },
@@ -7736,6 +7755,12 @@
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-08 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-06-08 03:28:05 +0000"
     },
     "done": true
   },
@@ -7757,9 +7782,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-08 03:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-08 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_pillager": "2025-06-08 03:31:41 +0000"
     },
     "done": true
   },
@@ -7775,15 +7812,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-08 03:27:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-06-08 03:22:06 +0000"
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2025-06-08 03:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-08 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-08 03:31:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-08 03:27:59 +0000"
     },
     "done": true
   },
