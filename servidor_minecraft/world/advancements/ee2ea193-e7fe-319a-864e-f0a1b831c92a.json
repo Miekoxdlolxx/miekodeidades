@@ -2864,6 +2864,7 @@
       "cooked_porkchop": "2025-06-08 06:02:01 +0000",
       "cooked_beef": "2025-06-06 23:05:22 +0000",
       "beef": "2025-06-07 00:18:34 +0000",
+      "baked_potato": "2025-06-08 07:06:04 +0000",
       "bread": "2025-06-07 00:27:44 +0000",
       "rotten_flesh": "2025-06-08 03:22:45 +0000"
     },
@@ -5382,9 +5383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-08 06:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
     },
     "done": true
   },
@@ -5400,15 +5413,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:kill_all_rot": {
     "criteria": {
       "rottencreatures:undead_miner": "2025-06-08 06:49:36 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-06-08 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
     },
     "done": true
   },
@@ -5439,6 +5470,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-08 06:37:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-06-08 06:56:04 +0000"
     },
     "done": true
   },
@@ -5526,6 +5563,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-06-08 07:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-08 06:39:14 +0000"
@@ -5541,6 +5590,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-08 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-08 06:51:51 +0000"
     },
     "done": true
   },
@@ -5580,6 +5641,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 07:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-08 06:39:14 +0000"
@@ -5604,6 +5677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-08 06:39:14 +0000"
@@ -5625,6 +5704,12 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-06-08 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
     },
     "done": true
   },
@@ -5691,6 +5776,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-08 07:05:52 +0000"
     },
     "done": true
   },

@@ -32,6 +32,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-06-06 22:59:36 +0000",
+      "snowblossom_grove": "2025-06-08 07:06:17 +0000",
       "rocky_shrubland": "2025-06-06 22:58:55 +0000",
       "scrubland": "2025-06-07 23:40:19 +0000",
       "bayou": "2025-06-07 05:44:06 +0000",
@@ -59,6 +60,7 @@
       "pumpkin_patch": "2025-06-06 22:29:12 +0000",
       "prairie": "2025-06-07 05:25:46 +0000",
       "grassland": "2025-06-07 23:57:32 +0000",
+      "snowy_fir_clearing": "2025-06-08 07:04:19 +0000",
       "glowing_grotto": "2025-06-08 02:20:16 +0000",
       "crag": "2025-06-06 23:03:19 +0000"
     },
@@ -68,7 +70,9 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-08 04:42:24 +0000",
       "minecraft:taiga": "2025-06-06 22:38:34 +0000",
+      "minecraft:deep_ocean": "2025-06-08 07:03:41 +0000",
       "minecraft:sunflower_plains": "2025-06-07 04:36:19 +0000",
+      "minecraft:cherry_grove": "2025-06-08 06:56:16 +0000",
       "minecraft:birch_forest": "2025-06-07 23:57:17 +0000",
       "minecraft:bamboo_jungle": "2025-06-08 05:22:24 +0000",
       "minecraft:beach": "2025-06-06 22:33:21 +0000",
@@ -76,6 +80,7 @@
       "minecraft:mangrove_swamp": "2025-06-07 05:46:42 +0000",
       "minecraft:sparse_jungle": "2025-06-08 05:16:56 +0000",
       "minecraft:river": "2025-06-06 22:29:06 +0000",
+      "minecraft:cold_ocean": "2025-06-08 07:04:03 +0000",
       "minecraft:forest": "2025-06-06 22:38:56 +0000",
       "minecraft:lush_caves": "2025-06-08 02:26:11 +0000",
       "minecraft:ocean": "2025-06-07 05:57:54 +0000",
@@ -9459,6 +9464,60 @@
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-06-08 06:17:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-08 06:51:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-06-08 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_flower": "2025-06-08 06:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-08 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-06-08 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-08 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-08 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-08 07:09:51 +0000"
     },
     "done": true
   },
