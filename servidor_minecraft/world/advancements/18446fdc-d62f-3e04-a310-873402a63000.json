@@ -4787,5 +4787,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-06-08 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-08 20:02:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

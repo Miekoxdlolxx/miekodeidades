@@ -30,7 +30,9 @@
       "minecraft:sunflower_plains": "2025-06-07 04:39:57 +0000",
       "minecraft:birch_forest": "2025-06-05 01:27:24 +0000",
       "minecraft:beach": "2025-06-05 01:30:24 +0000",
+      "minecraft:dark_forest": "2025-06-08 19:31:38 +0000",
       "minecraft:river": "2025-06-05 02:01:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-08 19:31:49 +0000",
       "minecraft:cold_ocean": "2025-06-05 01:31:10 +0000",
       "minecraft:forest": "2025-06-05 02:01:03 +0000",
       "minecraft:ocean": "2025-06-07 01:43:31 +0000",
@@ -478,6 +480,7 @@
       "crystalline_chasm": "2025-06-07 01:05:29 +0000",
       "withered_abyss": "2025-06-07 05:18:44 +0000",
       "orchard": "2025-06-05 23:10:00 +0000",
+      "field": "2025-06-08 19:26:27 +0000",
       "mediterranean_forest": "2025-06-07 04:32:19 +0000",
       "coniferous_forest": "2025-06-05 02:01:06 +0000",
       "spider_nest": "2025-06-05 07:06:03 +0000",
@@ -7059,6 +7062,30 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-06-08 03:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-08 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-08 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-08 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-08 19:32:56 +0000"
     },
     "done": true
   },

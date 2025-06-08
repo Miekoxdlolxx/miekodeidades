@@ -8161,18 +8161,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
-    "criteria": {
-      "has_item": "2025-06-08 06:14:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-08 06:14:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-08 06:03:29 +0000"
@@ -8203,12 +8191,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-06-08 06:14:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-06-08 06:03:29 +0000"
@@ -8233,13 +8215,13 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "egg": "2025-06-08 06:14:24 +0000"
+      "has_granite": "2025-06-08 06:03:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-08 06:03:29 +0000"
     },
@@ -8251,15 +8233,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-08 06:13:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-06-08 06:14:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
-      "has_granite": "2025-06-08 06:03:29 +0000"
+      "has_item": "2025-06-08 06:14:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-08 06:14:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-08 06:14:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-08 06:14:24 +0000"
     },
     "done": true
   },
@@ -8269,9 +8275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "has_sand": "2025-06-08 06:13:43 +0000"
+      "fighting_nightmares_0": "2025-06-08 19:57:12 +0000"
     },
     "done": true
   },
