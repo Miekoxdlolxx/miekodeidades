@@ -489,3 +489,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 02:45:50.023] [Server thread/WARN] [jeg/]: literal{Mieko_}(b738b777-eade-3d4f-af74-b8ae1a39f592) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
 [08Jun2025 02:46:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [Suit Up]
 [08Jun2025 02:46:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [Isn't It Iron Pick]
+[08Jun2025 02:57:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [They Have a Cave Troll!]
+[08Jun2025 02:57:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Mother of Dragons]
+[08Jun2025 02:57:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> UY SI
+[08Jun2025 02:57:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya tengo 1 huevo de dragon
+[08Jun2025 02:58:13.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> les doy el del end
+[08Jun2025 02:58:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ese nomas hay 1
+[08Jun2025 02:58:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MIEKO
+[08Jun2025 02:59:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> hagame tp a usted
+[08Jun2025 03:00:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MIEKO
+[08Jun2025 03:00:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[08Jun2025 03:00:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> era al revez sapo
+[08Jun2025 03:01:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si
+[08Jun2025 03:01:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pues si le dije eso
+[08Jun2025 03:01:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to pansaelgato85]
+[08Jun2025 03:01:32.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[08Jun2025 03:01:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> tiene finta de todo menos de oxxo gg
+[08Jun2025 03:04:15.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KyleXD4764[/127.132.176.3:56359] logged in with entity id 23935 at (-338.624976097086, 67.00133597911214, 919.8209397356313)
+[08Jun2025 03:04:15.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 joined the game
+[08Jun2025 03:04:15.859] [Server thread/INFO] [Jade/]: Syncing config to KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a)
+[08Jun2025 03:04:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> COMOOO DIJO ESO
+[08Jun2025 03:04:18.025] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KyleXD4764 (18)
+[08Jun2025 03:04:18.025] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KyleXD4764
+[08Jun2025 03:04:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> el ferrero
+[08Jun2025 03:04:38.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee2ea193-e7fe-319a-864e-f0a1b831c92a
+[08Jun2025 03:04:39.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee2ea193-e7fe-319a-864e-f0a1b831c92a
+[08Jun2025 03:04:39.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KyleXD4764 (ee2ea193-e7fe-319a-864e-f0a1b831c92a) successfully connected to voice chat
+[08Jun2025 03:05:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported KyleXD4764 to Mieko_]
+[08Jun2025 03:07:48.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
+[08Jun2025 03:09:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[08Jun2025 03:09:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BuendiaMG has made the advancement [The Wind Darkening]
+[08Jun2025 03:10:49.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:56409] logged in with entity id 27474 at (780.9406468668017, -24.876884268989727, 4017.8774571117433)
+[08Jun2025 03:10:49.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[08Jun2025 03:10:49.436] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[08Jun2025 03:10:50.699] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[08Jun2025 03:10:50.699] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[08Jun2025 03:10:56.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[08Jun2025 03:11:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[08Jun2025 03:11:47.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[08Jun2025 03:11:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Mariachi?]
+[08Jun2025 03:11:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has completed the challenge [Mariachi!]
+[08Jun2025 03:12:10.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> duerman
+[08Jun2025 03:12:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Best Friends Forever]
+[08Jun2025 03:12:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[08Jun2025 03:13:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [The Song of the Dragons]
+[08Jun2025 03:13:46.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/24551, l='ServerLevel[world]', x=18.07, y=64.50, z=1796.94] died, message: 'Fisherman was pricked to death'
+[08Jun2025 03:15:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [An Ear-Shattering Roar]
+[08Jun2025 03:16:49.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -31.396756546370767,1.0,-7.429387144648899
+[08Jun2025 03:16:55.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityPixie['Pixie'/30564, l='ServerLevel[world]', x=320.04, y=72.50, z=1660.77]
+[08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
+[08Jun2025 03:17:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
+[08Jun2025 03:17:03.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85

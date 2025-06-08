@@ -35,8 +35,10 @@
       "rocky_shrubland": "2025-06-06 22:49:45 +0000",
       "clover_patch": "2025-06-06 23:16:37 +0000",
       "mystic_grove": "2025-06-06 23:15:01 +0000",
+      "orchard": "2025-06-08 03:16:18 +0000",
       "coniferous_forest": "2025-06-06 22:52:29 +0000",
       "seasonal_forest": "2025-06-06 08:22:29 +0000",
+      "pumpkin_patch": "2025-06-08 03:15:58 +0000",
       "grassland": "2025-06-06 23:00:11 +0000",
       "glowing_grotto": "2025-06-07 00:29:51 +0000"
     },
@@ -4247,6 +4249,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-08 03:12:01 +0000",
       "minecraft:witch": "2025-06-06 23:40:26 +0000",
       "minecraft:zombie": "2025-06-07 00:28:26 +0000"
     },
@@ -4273,6 +4276,96 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-07 00:20:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-08 03:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-08 03:11:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-08 03:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-08 03:09:10 +0000"
     },
     "done": true
   },
