@@ -420,3 +420,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 08:30:27.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arthur_055
 [08Jun2025 08:32:46.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has reached the goal [Exorcism]
 [08Jun2025 08:34:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 withered away whilst fighting Nightmare Stalker
+[08Jun2025 08:55:41.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Noctis'/10426, l='ServerLevel[world]', x=-187.40, y=64.00, z=1098.31] died: Noctis was slain by KyleXD4764
