@@ -8877,5 +8877,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-08 20:23:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-08 20:20:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-08 20:20:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
