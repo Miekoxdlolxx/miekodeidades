@@ -791,3 +791,90 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 03:49:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 left the game
 [08Jun2025 03:49:14.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KyleXD4764
 [08Jun2025 03:49:15.801] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[08Jun2025 03:49:33.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11155ms or 223 ticks behind
+[08Jun2025 03:49:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
+[08Jun2025 03:49:55.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[08Jun2025 03:49:59.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11211ms or 224 ticks behind
+[08Jun2025 03:50:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> esa nekka
+[08Jun2025 03:50:05.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -9.98234694435655,2.0,2.6984124995760794
+[08Jun2025 03:50:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[08Jun2025 03:50:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pues este que se saco la velocidad del flash del guion...
+[08Jun2025 03:50:21.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7030ms or 140 ticks behind
+[08Jun2025 03:50:43.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[08Jun2025 03:51:04.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6728ms or 134 ticks behind
+[08Jun2025 03:51:24.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4947ms or 98 ticks behind
+[08Jun2025 03:51:47.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7565ms or 151 ticks behind
+[08Jun2025 03:52:07.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
+[08Jun2025 03:52:27.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4872ms or 97 ticks behind
+[08Jun2025 03:52:48.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[08Jun2025 03:53:10.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
+[08Jun2025 03:53:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[08Jun2025 03:53:14.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[08Jun2025 03:53:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[08Jun2025 03:53:33.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7956ms or 159 ticks behind
+[08Jun2025 03:53:56.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7953ms or 159 ticks behind
+[08Jun2025 03:54:03.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duzzk0[/127.167.134.2:33233] logged in with entity id 63818 at (-515.669230371919, 66.0, 2294.616477540624)
+[08Jun2025 03:54:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 joined the game
+[08Jun2025 03:54:03.837] [Server thread/INFO] [Jade/]: Syncing config to Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64)
+[08Jun2025 03:54:06.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Duzzk0 (18)
+[08Jun2025 03:54:06.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Duzzk0
+[08Jun2025 03:54:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Duzzk0]
+[08Jun2025 03:54:19.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8138ms or 162 ticks behind
+[08Jun2025 03:54:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[08Jun2025 03:54:25.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[08Jun2025 03:54:26.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[08Jun2025 03:54:26.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64) successfully connected to voice chat
+[08Jun2025 03:54:38.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> putos todos menos yo
+[08Jun2025 03:54:38.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[08Jun2025 03:54:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[08Jun2025 03:55:00.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6048ms or 120 ticks behind
+[08Jun2025 03:55:17.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! 9.636169098700293,4.109755942915498,-1.3956982795011754
+[08Jun2025 03:55:22.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7242ms or 144 ticks behind
+[08Jun2025 03:55:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Strength to Nekkai_]
+[08Jun2025 03:55:41.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
+[08Jun2025 03:55:43.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6115ms or 122 ticks behind
+[08Jun2025 03:55:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[08Jun2025 03:56:08.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10633ms or 212 ticks behind
+[08Jun2025 03:56:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[08Jun2025 03:56:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no XDD
+[08Jun2025 03:56:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[08Jun2025 03:56:18.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
+[08Jun2025 03:56:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[08Jun2025 03:56:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
+[08Jun2025 03:56:21.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
+[08Jun2025 03:56:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 01_NutriaKing
+[08Jun2025 03:56:22.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[08Jun2025 03:56:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> carrera?
+[08Jun2025 03:56:33.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9615ms or 192 ticks behind
+[08Jun2025 03:56:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Speed to Nekkai_]
+[08Jun2025 03:56:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[08Jun2025 03:56:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to BuendiaMG]
+[08Jun2025 03:56:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> de aca
+[08Jun2025 03:56:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> hasta...
+[08Jun2025 03:56:58.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9529ms or 190 ticks behind
+[08Jun2025 03:57:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
+[08Jun2025 03:57:21.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8189ms or 163 ticks behind
+[08Jun2025 03:57:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
+[08Jun2025 03:57:30.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Nekkai_ to Mieko_]
+[08Jun2025 03:57:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Hasta el coso alto
+[08Jun2025 03:57:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oe :c
+[08Jun2025 03:57:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[08Jun2025 03:57:43.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7197ms or 143 ticks behind
+[08Jun2025 03:57:46.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.189677858174491,-0.07840000152587834,11.751225641698966
+[08Jun2025 03:57:49.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.607324227363279,0.0,12.091040881296067
+[08Jun2025 03:57:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -7.435881948581937,-0.07840000152587834,7.131374668199896
+[08Jun2025 03:57:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> a veces son animales titan, no jugadores
+[08Jun2025 03:57:55.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -12.866207031534032,-0.2336320060424839,6.926598402028958
+[08Jun2025 03:58:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Removed every effect from Nekkai_]
+[08Jun2025 03:58:07.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8733ms or 174 ticks behind
+[08Jun2025 03:58:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[08Jun2025 03:58:29.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
+[08Jun2025 03:58:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> yo que
+[08Jun2025 03:58:45.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
+[08Jun2025 03:58:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[08Jun2025 03:58:52.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7661ms or 153 ticks behind
+[08Jun2025 03:59:06.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> mieko
+[08Jun2025 03:59:14.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7195ms or 143 ticks behind
+[08Jun2025 03:59:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to titanhumilde7w7]
+[08Jun2025 03:59:26.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Ice Bucket Challenge]
+[08Jun2025 03:59:36.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7186ms or 143 ticks behind

@@ -8909,6 +8909,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-06-08 03:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-06-08 03:16:52 +0000"
@@ -8948,6 +8954,12 @@
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-06-08 02:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-06-08 03:49:12 +0000"
     },
     "done": true
   },
