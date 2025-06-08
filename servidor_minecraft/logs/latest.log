@@ -451,3 +451,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 20:40:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero-
 [08Jun2025 20:40:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
 [08Jun2025 20:40:48.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Arthur_055]
+[08Jun2025 20:41:11.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[08Jun2025 20:41:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Obvio
+[08Jun2025 20:41:31.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.31.231.168:33009] logged in with entity id 6501 at (1477.6907371230268, 66.5, 4577.728990266034)
+[08Jun2025 20:41:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[08Jun2025 20:41:31.833] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[08Jun2025 20:41:32.886] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[08Jun2025 20:41:32.887] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[08Jun2025 20:41:41.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[08Jun2025 20:41:42.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[08Jun2025 20:41:42.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[08Jun2025 20:43:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nekka? coomo q vass a raidear??
+[08Jun2025 20:44:03.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Raidear las bases...
+[08Jun2025 20:44:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No el sv
+[08Jun2025 20:44:05.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> Z??
+[08Jun2025 20:44:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> now
+[08Jun2025 20:44:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XD
+[08Jun2025 20:44:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Nimodo raidear el sv
+[08Jun2025 20:44:54.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[08Jun2025 20:44:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[08Jun2025 20:44:54.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[08Jun2025 20:47:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que mierda ponen en general
+[08Jun2025 20:47:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Puro gif con pijas afuera
+[08Jun2025 20:48:05.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> raros son
+[08Jun2025 20:52:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> DRAGON DE MIERDA
+[08Jun2025 20:52:17.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> PARALE UN RATO
+[08Jun2025 20:53:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[08Jun2025 20:53:56.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[08Jun2025 20:58:47.446] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[08Jun2025 20:58:47.556] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[08Jun2025 20:58:53.992] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[08Jun2025 20:58:53.993] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[08Jun2025 20:59:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[08Jun2025 20:59:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[08Jun2025 20:59:37.960] [Worker-Main-62/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1949504295,275860877,-1925964201,-719011334],type:"minecraft:entity",y_offset:0.36f}}]
+[08Jun2025 20:59:37.961] [Worker-Main-62/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-88314378,-629718797,-1822809685,-214951148],type:"minecraft:entity",y_offset:0.36f}}]
+[08Jun2025 21:00:29.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=50, z=2116} BlockPos{x=-1991, y=108, z=965}
+[08Jun2025 21:01:04.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [My Name is Nobody]
+[08Jun2025 21:01:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Gravedigger]
+[08Jun2025 21:04:41.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[08Jun2025 21:04:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[08Jun2025 21:04:41.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
