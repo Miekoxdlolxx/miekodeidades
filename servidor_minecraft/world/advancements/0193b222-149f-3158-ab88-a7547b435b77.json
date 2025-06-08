@@ -73,6 +73,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-08 04:42:24 +0000",
       "minecraft:taiga": "2025-06-06 22:38:34 +0000",
       "minecraft:deep_ocean": "2025-06-08 07:03:41 +0000",
+      "minecraft:frozen_river": "2025-06-08 08:02:18 +0000",
       "minecraft:sunflower_plains": "2025-06-07 04:36:19 +0000",
       "minecraft:cherry_grove": "2025-06-08 06:56:16 +0000",
       "minecraft:birch_forest": "2025-06-07 23:57:17 +0000",
@@ -88,7 +89,9 @@
       "minecraft:cold_ocean": "2025-06-08 07:04:03 +0000",
       "minecraft:forest": "2025-06-06 22:38:56 +0000",
       "minecraft:lush_caves": "2025-06-08 02:26:11 +0000",
+      "minecraft:frozen_ocean": "2025-06-08 08:02:58 +0000",
       "minecraft:ocean": "2025-06-07 05:57:54 +0000",
+      "minecraft:snowy_beach": "2025-06-08 08:02:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 07:13:23 +0000",
       "minecraft:frozen_peaks": "2025-06-08 07:16:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:38:50 +0000",
@@ -9620,6 +9623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-08 08:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-08 07:37:18 +0000"
@@ -9650,15 +9659,51 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-06-08 08:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-08 08:04:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-06-08 07:59:52 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-08 08:04:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2025-06-08 07:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-08 08:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-08 08:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-08 08:04:42 +0000"
     },
     "done": true
   },
