@@ -34,8 +34,11 @@
       "minecraft:cold_ocean": "2025-06-05 01:31:10 +0000",
       "minecraft:forest": "2025-06-05 02:01:03 +0000",
       "minecraft:ocean": "2025-06-07 01:43:31 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-07 23:30:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-07 23:08:41 +0000",
       "minecraft:frozen_peaks": "2025-06-07 05:33:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 01:28:01 +0000",
+      "minecraft:meadow": "2025-06-07 23:17:57 +0000",
       "minecraft:plains": "2025-06-07 01:04:38 +0000"
     },
     "done": false
@@ -2694,7 +2697,8 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_4": "2025-06-05 08:07:57 +0000"
+      "trickor_treat_4": "2025-06-05 08:07:57 +0000",
+      "trickor_treat_8": "2025-06-07 22:37:28 +0000"
     },
     "done": false
   },
@@ -5887,6 +5891,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 22:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 22:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-07 22:28:59 +0000"
@@ -5914,12 +5930,6 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-06-07 22:28:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_picket_gate": {
-    "criteria": {
-      "has_concrete": "2025-06-07 22:25:26 +0000"
     },
     "done": true
   },
@@ -5968,12 +5978,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-07 22:28:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-06-07 22:25:26 +0000"
     },
     "done": true
   },
@@ -6043,12 +6047,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-06-07 22:32:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-06-07 22:28:59 +0000"
@@ -6058,6 +6056,24 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-07 22:28:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-07 22:32:32 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-06-07 23:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-07 23:26:45 +0000"
     },
     "done": true
   },
