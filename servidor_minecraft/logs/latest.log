@@ -1832,3 +1832,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 07:32:13.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.760858963388273,0.0,-0.0023949361266204505
 [08Jun2025 07:32:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has completed the challenge [Find: The column temple]
 [08Jun2025 07:32:40.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has completed the challenge [Find: The column temple]
+[08Jun2025 07:33:52.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jun2025 07:33:57.972] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jun2025 07:34:21.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[08Jun2025 07:34:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[08Jun2025 07:34:21.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[08Jun2025 07:34:58.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.121.101.6:33473] logged in with entity id 45669 at (-3050.207352733972, 85.57988429069519, 1858.3611662744815)
+[08Jun2025 07:34:58.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[08Jun2025 07:34:58.933] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[08Jun2025 07:34:58.935] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[08Jun2025 07:34:58.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[08Jun2025 07:35:09.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[08Jun2025 07:35:10.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[08Jun2025 07:35:10.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[08Jun2025 07:35:41.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jun2025 07:35:56.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.35369604349762,0.0,-0.47979841656956523
+[08Jun2025 07:35:56.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -13.27069125034086,0.0,-0.505761875590224
+[08Jun2025 07:36:19.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.73662303400215,0.0,-0.7390484662466861
+[08Jun2025 07:36:19.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -13.692504741145967,0.0,-0.8665360601703469
+[08Jun2025 07:36:19.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -15.648386648025735,0.0,-0.9942256936462854
+[08Jun2025 07:36:19.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -17.604268731071897,0.0,-1.1220935260073475
+[08Jun2025 07:36:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 11.73536569598582,0.0,0.7653856128799816
+[08Jun2025 07:36:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 11.73536569598582,0.0,0.7653856128799816
+[08Jun2025 07:36:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 11.73536569598582,0.0,0.7653856128799816
+[08Jun2025 07:36:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 11.73536569598582,0.0,0.7653856128799816
+[08Jun2025 07:37:10.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arthur_055[/127.188.213.252:56509] logged in with entity id 49877 at (724.7987405461992, -42.0, 4052.1452769100847)
+[08Jun2025 07:37:10.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 joined the game
+[08Jun2025 07:37:10.412] [Server thread/INFO] [Jade/]: Syncing config to Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886)
+[08Jun2025 07:37:11.834] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arthur_055 (18)
+[08Jun2025 07:37:11.835] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arthur_055
+[08Jun2025 07:37:12.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[08Jun2025 07:37:17.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[08Jun2025 07:37:18.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[08Jun2025 07:37:18.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
+[08Jun2025 07:40:33.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08Jun2025 07:41:28.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jun2025 07:42:03.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has reached the goal [Wrong Santa]
+[08Jun2025 07:42:44.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/50164, l='ServerLevel[world]', x=611.35, y=63.00, z=4019.03] died, message: 'Farmer was slain by Zombie Villager'
+[08Jun2025 07:42:57.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50166, l='ServerLevel[world]', x=610.55, y=63.00, z=4020.46] died, message: 'Unemployed was slain by Zombie Villager'
+[08Jun2025 07:43:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Dark Metallurgy]
+[08Jun2025 07:43:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Source of Evil]

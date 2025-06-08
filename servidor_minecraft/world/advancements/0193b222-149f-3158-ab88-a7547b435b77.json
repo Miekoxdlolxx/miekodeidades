@@ -6440,6 +6440,7 @@
     "criteria": {
       "rottencreatures:undead_miner": "2025-06-07 08:52:23 +0000",
       "rottencreatures:burned": "2025-06-07 01:15:16 +0000",
+      "rottencreatures:frostbitten": "2025-06-08 07:36:58 +0000",
       "rottencreatures:swampy": "2025-06-07 06:22:22 +0000"
     },
     "done": false
@@ -9558,21 +9559,87 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-06-08 07:26:20 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-06-08 07:24:28 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-06-08 07:26:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-06-08 07:26:20 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-06-08 07:32:40 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_during_rain": {
+    "criteria": {
+      "requirement": "2025-06-08 07:32:40 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_the_column_temple": "2025-06-08 07:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-08 07:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-08 07:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-08 07:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-08 07:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/food/rotten_flesh_from_smoking": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-08 07:37:18 +0000"
     },
     "done": true
   },

@@ -5857,6 +5857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-08 07:39:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-08 07:24:30 +0000"
@@ -5890,6 +5896,12 @@
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-06-08 07:21:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-08 07:36:30 +0000"
     },
     "done": true
   },
@@ -5956,6 +5968,12 @@
   "cfm:recipes/decorations/jungle_table": {
     "criteria": {
       "has_log": "2025-06-08 07:21:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-08 07:39:12 +0000"
     },
     "done": true
   },
