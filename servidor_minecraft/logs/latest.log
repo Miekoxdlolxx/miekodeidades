@@ -1901,3 +1901,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [08Jun2025 07:49:37.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
 [08Jun2025 07:49:37.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
 [08Jun2025 07:53:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has made the advancement [Local Brewery]
+[08Jun2025 07:54:16.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[08Jun2025 07:54:50.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[08Jun2025 07:56:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has reached the goal [Senior Summoner]
+[08Jun2025 07:59:02.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jun2025 07:59:19.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[08Jun2025 07:59:23.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 has made the advancement [Who You Gonna Call?]
+[08Jun2025 07:59:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Another Brick in the Wall]
+[08Jun2025 08:00:16.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[08Jun2025 08:00:23.568] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-156, y=-56, z=4}
+[08Jun2025 08:00:23.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-141, y=-56, z=-8}
+[08Jun2025 08:00:54.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jun2025 08:01:17.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[08Jun2025 08:02:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> como que quien soy
+[08Jun2025 08:02:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -10.638947038615697,0.0,-0.3506816715748755
+[08Jun2025 08:03:40.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyleXD4764 moved too quickly! 69.78344847373205,10.392286502207206,-658.4339751201619
+[08Jun2025 08:04:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Tie me to the Mast]

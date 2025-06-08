@@ -9632,9 +9632,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-06-08 07:59:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-06-08 07:59:52 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
     "criteria": {
       "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-06-08 07:59:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-06-08 07:59:50 +0000"
     },
     "done": true
   },
