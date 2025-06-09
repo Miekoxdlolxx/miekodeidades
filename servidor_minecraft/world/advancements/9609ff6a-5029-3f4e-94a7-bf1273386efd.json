@@ -6961,5 +6961,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "ortholance": "2025-06-09 06:12:59 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-06-09 06:09:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
