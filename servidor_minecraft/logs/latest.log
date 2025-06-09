@@ -3854,3 +3854,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 03:08:15.549] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
 [09Jun2025 03:08:16.610] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
 [09Jun2025 03:08:16.611] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[09Jun2025 03:08:24.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Jun2025 03:08:27.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[09Jun2025 03:08:28.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[09Jun2025 03:08:28.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[09Jun2025 03:08:35.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:08:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Into Darkness]
+[09Jun2025 03:10:17.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:12:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mapache
+[09Jun2025 03:12:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> snowy JSJS
+[09Jun2025 03:12:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> tu eres del team de mapache no?
+[09Jun2025 03:12:46.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to SnowyCW1]
+[09Jun2025 03:12:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JSJS
+[09Jun2025 03:12:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero si eres team de mapache o no
+[09Jun2025 03:13:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJAJAJAJ
+[09Jun2025 03:13:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SNOWYY
+[09Jun2025 03:13:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero si eres team de mapache o no
+[09Jun2025 03:13:41.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> dile que me meta a su team
+[09Jun2025 03:13:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mi team no me aprecia
+[09Jun2025 03:13:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz no me aprecia...
+[09Jun2025 03:14:17.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> yo no necesito eso gg :D
+[09Jun2025 03:14:22.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> checa mi mochila
+[09Jun2025 03:14:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> compara
+[09Jun2025 03:14:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me faltan manzanas...
+[09Jun2025 03:16:58.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Jun2025 03:16:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mire
+[09Jun2025 03:17:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> le regalo esto
+[09Jun2025 03:17:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> gracias :3
+[09Jun2025 03:17:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 has reached the goal [Fighting Nightmares]
+[09Jun2025 03:17:30.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -3.854799770386606,3.0784000015258783,8.762183193475948
+[09Jun2025 03:17:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> Aaa
+[09Jun2025 03:17:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> afk
+[09Jun2025 03:18:02.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

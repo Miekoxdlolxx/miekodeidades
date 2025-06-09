@@ -44,7 +44,9 @@
     "9609ff6a-5029-3f4e-94a7-bf1273386efd": {},
     "daa3d711-01ae-3d77-a311-82dff883c535": {}
   },
-  "skins": {},
+  "skins": {
+    "0193b222-149f-3158-ab88-a7547b435b77": {}
+  },
   "player_scaling_settings": {},
   "scaling_settings": {
     "projectile_dmg": {},

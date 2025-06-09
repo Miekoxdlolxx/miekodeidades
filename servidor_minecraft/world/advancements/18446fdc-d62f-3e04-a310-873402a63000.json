@@ -5552,6 +5552,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-09 03:14:28 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-06-09 02:52:22 +0000"

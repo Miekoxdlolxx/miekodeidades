@@ -9023,69 +9023,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-06-09 01:55:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-06-09 01:37:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "axe": "2025-06-09 02:32:39 +0000"
-    },
-    "done": true
-  },
-  "rottencreatures:kill_all_rot": {
-    "criteria": {
-      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-06-09 02:21:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-06-09 02:15:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-06-09 02:21:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-09 01:55:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-06-09 02:00:56 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-06-09 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "rottencreatures:root": {
-    "criteria": {
-      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
     },
     "done": true
   },
@@ -9101,9 +9041,51 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-09 01:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-09 01:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-09 01:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-09 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-09 02:00:56 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
+    },
+    "done": false
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-09 02:15:49 +0000"
     },
     "done": true
   },
@@ -9113,9 +9095,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "alexscaves:alexscaves/uranium": {
     "criteria": {
-      "has_iron_block": "2025-06-09 01:55:50 +0000"
+      "uranium": "2025-06-09 02:21:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-06-09 02:32:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-06-09 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-06-09 03:08:36 +0000"
     },
     "done": true
   },
