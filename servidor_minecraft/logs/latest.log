@@ -5130,3 +5130,306 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 04:41:27.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9323ms or 186 ticks behind
 [09Jun2025 04:41:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
 [09Jun2025 04:41:53.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11572ms or 231 ticks behind
+[09Jun2025 04:42:04.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:04.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> MANO COMO CORRE TAN RAPIDO
+[09Jun2025 04:42:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> XD
+[09Jun2025 04:42:15.667] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> aver vamos
+[09Jun2025 04:42:18.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to SnowyCW1]
+[09Jun2025 04:42:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [The Desert Swimmers]
+[09Jun2025 04:42:20.068] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:21.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12379ms or 247 ticks behind
+[09Jun2025 04:42:22.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:42:38.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> algas?
+[09Jun2025 04:42:41.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
+[09Jun2025 04:42:43.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no
+[09Jun2025 04:42:48.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> pa que quiere
+[09Jun2025 04:42:50.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Mariachi?]
+[09Jun2025 04:42:54.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has completed the challenge [Mariachi!]
+[09Jun2025 04:43:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> aver deje voy con el dragon
+[09Jun2025 04:43:02.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6096ms or 121 ticks behind
+[09Jun2025 04:43:10.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 10.877957317152323,0.0,-4.5642806456480685
+[09Jun2025 04:43:10.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 12.662612512534452,0.0,-5.421705291027138
+[09Jun2025 04:43:17.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> a mimir
+[09Jun2025 04:43:18.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.572091088222805
+[09Jun2025 04:43:18.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.572091088222805
+[09Jun2025 04:43:18.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.57949119271325
+[09Jun2025 04:43:18.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.577627943728658
+[09Jun2025 04:43:18.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.583384662613753
+[09Jun2025 04:43:18.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.588462088670894
+[09Jun2025 04:43:18.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.592940378453022
+[09Jun2025 04:43:18.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.596890230041026
+[09Jun2025 04:43:18.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.600373999141993
+[09Jun2025 04:43:18.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:18.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.61708294123446,0.0,23.603446683488983
+[09Jun2025 04:43:19.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.54218191245445,0.0,23.547992471689213
+[09Jun2025 04:43:19.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.40405241952976,0.0,23.439991320627087
+[09Jun2025 04:43:19.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.21271774146044,0.0,23.282650238453243
+[09Jun2025 04:43:19.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.975181049610455,0.0,23.08098916138715
+[09Jun2025 04:43:19.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.7656736873987,0.0,22.90312409141461
+[09Jun2025 04:43:19.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.580888193927876,0.0,22.74624709969885
+[09Jun2025 04:43:19.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.41790738868667,0.0,22.607881593005914
+[09Jun2025 04:43:19.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.27415831846383,0.0,22.485843216102694
+[09Jun2025 04:43:20.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.1473716385276,0.0,22.378205367674127
+[09Jun2025 04:43:20.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.035545786823604,0.0,22.283268785359724
+[09Jun2025 04:43:20.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.93691538562098,0.0,22.199534719758958
+[09Jun2025 04:43:20.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.84992337176027,0.0,22.125681273898408
+[09Jun2025 04:43:20.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.77319641553504,0.0,22.060542534649358
+[09Jun2025 04:43:20.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.70552324014443,0.0,22.00309016663232
+[09Jun2025 04:43:20.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.64583549944973,0.0,21.952417178041287
+[09Jun2025 04:43:20.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.5931909121573,0.0,21.907723602103943
+[09Jun2025 04:43:20.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.61281808969716,0.0,21.93404132484011
+[09Jun2025 04:43:20.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.69618896381917,0.0,22.022991013005594
+[09Jun2025 04:43:20.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.83578177832669,0.0,22.167182094680356
+[09Jun2025 04:43:20.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.02496234425416,0.0,22.360096085430996
+[09Jun2025 04:43:20.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.25787930693377,0.0,22.595983681985672
+[09Jun2025 04:43:20.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.52937177154945,0.0,22.869773998859273
+[09Jun2025 04:43:20.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.83469213874332,0.0,23.177190577376678
+[09Jun2025 04:43:20.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.10398470260816,0.0,23.448331999628863
+[09Jun2025 04:43:20.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.341500743937104,0.0,23.68747873405573
+[09Jun2025 04:43:20.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.550989892389225,0.0,23.89840615382036
+[09Jun2025 04:43:20.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.73575932132371,0.0,24.084444138052277
+[09Jun2025 04:43:20.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.898725957644274,0.0,24.248529640144625
+[09Jun2025 04:43:20.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.042462530878765,0.0,24.393253052990076
+[09Jun2025 04:43:20.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.16923818847181,0.0,24.520899103120428
+[09Jun2025 04:43:21.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.281054318468705,0.0,24.63348291933471
+[09Jun2025 04:43:21.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.37967614512581,0.0,24.732781845235877
+[09Jun2025 04:43:21.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.46666059623749,0.0,24.820363497880862
+[09Jun2025 04:43:21.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.54338088211807,0.0,24.897610515513406
+[09Jun2025 04:43:21.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.61104817426485,0.0,24.965742385065823
+[09Jun2025 04:43:21.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.67073072593803,0.0,25.025834694010882
+[09Jun2025 04:43:21.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.797865663974335,0.0,25.13483464050205
+[09Jun2025 04:43:21.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.001994632707465,0.0,25.245892751852807
+[09Jun2025 04:43:21.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.26672932333349,0.0,25.304945678187323
+[09Jun2025 04:43:21.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.50022532046523,0.0,25.35703035921415
+[09Jun2025 04:43:21.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.70616878993542,0.0,25.402969047880106
+[09Jun2025 04:43:21.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.88781093000807,0.0,25.443486971283164
+[09Jun2025 04:43:21.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -37.24055088103705,0.0,25.61044839148144
+[09Jun2025 04:43:21.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -37.7462753542909,0.0,25.885833678555173
+[09Jun2025 04:43:21.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -38.39112117919285,0.0,26.250247683909947
+[09Jun2025 04:43:21.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -39.16280205783369,0.0,26.686155357773714
+[09Jun2025 04:43:21.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -40.05161478887794,0.0,27.175245003682903
+[09Jun2025 04:43:21.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -41.046413949960424,0.0,27.70573664544554
+[09Jun2025 04:43:21.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -42.161188217868585,0.0,28.187280547977934
+[09Jun2025 04:43:22.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -43.38178052999683,0.0,28.62565254450965
+[09Jun2025 04:43:22.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -44.49786743907862,0.0,28.927893182427397
+[09Jun2025 04:43:22.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -45.52178058267327,0.0,29.110065962047884
+[09Jun2025 04:43:22.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.42487197532364,0.0,29.270742353673086
+[09Jun2025 04:43:22.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.221398583641076,0.0,29.412458931086803
+[09Jun2025 04:43:22.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.92393505217706,0.0,29.53745295236604
+[09Jun2025 04:43:22.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.43806789021937,0.0,29.598292067639704
+[09Jun2025 04:43:22.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.78602872616557,0.0,29.602546555816843
+[09Jun2025 04:43:22.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.9874258562636,0.0,29.556893402894275
+[09Jun2025 04:43:22.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -49.058296959400195,0.0,29.46999973801303
+[09Jun2025 04:43:22.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -49.04117905660951,0.0,29.26719347339167
+[09Jun2025 04:43:22.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.93081478357908,0.0,28.973503096963213
+[09Jun2025 04:43:22.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.72916688995883,0.0,28.607798891276616
+[09Jun2025 04:43:22.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.43509472925825,0.0,28.277167754011316
+[09Jun2025 04:43:22.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -48.1757230835201,0.0,27.985551090942863
+[09Jun2025 04:43:22.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.94695729197929,0.0,27.728345194116628
+[09Jun2025 04:43:23.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.753371389190306,0.0,27.263876955857995
+[09Jun2025 04:43:23.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.59081414828097,0.0,26.61660333245527
+[09Jun2025 04:43:23.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.45562418714917,0.0,25.80809535935623
+[09Jun2025 04:43:23.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.344572166780836,0.0,24.857378689824145
+[09Jun2025 04:43:23.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.254809810166535,0.0,23.781233950038768
+[09Jun2025 04:43:23.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.18175159861312,0.0,22.594399285060717
+[09Jun2025 04:43:23.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.123426443004064,0.0,21.309936106062196
+[09Jun2025 04:43:23.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.07809584273764,0.0,19.939364577698143
+[09Jun2025 04:43:23.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.04422644028318,0.0,18.492845485193357
+[09Jun2025 04:43:23.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.031870569384864,0.0,16.97990823820419
+[09Jun2025 04:43:23.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -47.017717181943226,0.0,15.407766290881227
+[09Jun2025 04:43:23.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.96886469554511,0.0,13.786181678362482
+[09Jun2025 04:43:23.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.85239307327038,0.0,12.129798979017323
+[09Jun2025 04:43:23.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.65300867624501,0.0,10.451649951149193
+[09Jun2025 04:43:23.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.38427550406914,0.0,8.979278374941714
+[09Jun2025 04:43:23.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -46.05448659243757,0.0,7.689621708042978
+[09Jun2025 04:43:23.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -45.670887004303495,0.0,6.561528620021818
+[09Jun2025 04:43:23.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -45.23982639949372,0.0,5.575934608570606
+[09Jun2025 04:43:23.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -44.76690517797624,0.0,4.716024782653221
+[09Jun2025 04:43:23.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -44.25746622739416,0.0,3.9703396231752777
+[09Jun2025 04:43:23.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -43.71641485388727,0.0,3.329150794698762
+[09Jun2025 04:43:23.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -43.14757942118331,0.0,2.780663887899209
+[09Jun2025 04:43:23.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -42.55423844826737,0.0,2.3139400760192075
+[09Jun2025 04:43:23.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -41.9394357546671,0.0,1.9201300661688947
+[09Jun2025 04:43:24.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -41.30650854887426,0.0,1.5943501961655784
+[09Jun2025 04:43:24.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -40.65999525082043,0.0,1.3369167267519515
+[09Jun2025 04:43:24.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -40.006286847517,0.0,1.1512923517020681
+[09Jun2025 04:43:24.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -39.35503359534732,0.0,1.0433270354105844
+[09Jun2025 04:43:24.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -38.78062822693346,0.0,0.9481016264408026
+[09Jun2025 04:43:24.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -38.27400269199234,0.0,0.8641128157296407
+[09Jun2025 04:43:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -37.82715897017442,0.0,0.7900346846827233
+[09Jun2025 04:43:24.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -37.43304280753091,0.0,0.7246977730992512
+[09Jun2025 04:43:24.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.93256857149072,0.0,0.4912270094791893
+[09Jun2025 04:43:24.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -36.33828651471458,0.0,0.10946218836306798
+[09Jun2025 04:43:24.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -35.660240193704794,0.0,-0.402200992744838
+[09Jun2025 04:43:24.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.90428013745759,0.0,-1.0248021609868374
+[09Jun2025 04:43:24.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -34.07418033017666,0.0,-1.7400910268079315
+[09Jun2025 04:43:24.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -33.17534609552422,0.0,-2.5337763591278417
+[09Jun2025 04:43:24.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -32.21563856004968,0.0,-3.3963514922988907
+[09Jun2025 04:43:24.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -31.202240773250196,0.0,-4.319687429819169
+[09Jun2025 04:43:24.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -30.141488184781792,0.0,-5.296614396776022
+[09Jun2025 04:43:24.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -29.038968661241597,0.0,-6.3208086516960975
+[09Jun2025 04:43:24.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -28.066546441479204,0.0,-7.224147984536103
+[09Jun2025 04:43:24.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -27.208870043648858,0.0,-8.02089327610065
+[09Jun2025 04:43:25.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -26.452399460762535,0.0,-8.72362262326078
+[09Jun2025 04:43:25.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -25.785192406656734,0.0,-9.343429907456084
+[09Jun2025 04:43:25.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -25.19671578493535,0.0,-9.890099932115845
+[09Jun2025 04:43:25.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -24.677679404577248,0.0,-10.372262893865809
+[09Jun2025 04:43:25.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -24.219889317101206,0.0,-10.797530626129628
+[09Jun2025 04:43:25.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -23.816118459947575,0.0,-11.172616765986277
+[09Jun2025 04:43:25.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -23.459992563937703,0.0,-11.503442741340223
+[09Jun2025 04:43:25.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -23.145889523657388,0.0,-11.795231251601763
+[09Jun2025 04:43:25.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -22.868850642129928,0.0,-12.052588717652725
+[09Jun2025 04:43:25.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -22.624502348622627,0.0,-12.279578002709968
+[09Jun2025 04:43:25.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -22.408987153749422,0.0,-12.479782552130018
+[09Jun2025 04:43:25.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -22.218902751871155,0.0,-12.656362964718937
+[09Jun2025 04:43:25.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -22.051248309414405,0.0,-12.812106888622111
+[09Jun2025 04:43:25.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -21.90337709116784,0.0,-12.949473029504588
+[09Jun2025 04:43:25.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -21.77295467667409,0.0,-13.070629965763146
+[09Jun2025 04:43:25.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8178ms or 163 ticks behind
+[09Jun2025 04:43:25.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -21.6579221070906,0.0,-13.177490383543045
+[09Jun2025 04:43:25.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -21.406178285698388,0.0,-13.449793788797251
+[09Jun2025 04:43:25.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -21.035930740446474,0.0,-13.869749300267358
+[09Jun2025 04:43:25.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -20.56539123014045,0.0,-14.423337756599722
+[09Jun2025 04:43:25.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -20.010432638241127,0.0,-15.097893767283495
+[09Jun2025 04:43:26.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -19.387052509897785,0.0,-15.883528120722985
+[09Jun2025 04:43:26.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -18.8372312366987,0.0,-16.576457620456495
+[09Jun2025 04:43:26.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -18.352288873737052,0.0,-17.187621439221402
+[09Jun2025 04:43:26.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -17.92456970960484,0.0,-17.726667927372546
+[09Jun2025 04:43:26.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -17.547321406840183,0.0,-18.202106929921683
+[09Jun2025 04:43:26.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -17.214588403801827,0.0,-18.621444130169948
+[09Jun2025 04:43:26.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.92111789512228,0.0,-18.991299540788532
+[09Jun2025 04:43:26.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.66227690646656,0.0,-19.317512012954467
+[09Jun2025 04:43:26.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.43397915447258,0.0,-19.60523141340491
+[09Jun2025 04:43:26.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.125097646940958,0.0,-20.06570536275285
+[09Jun2025 04:43:26.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -15.74756631887476,0.0,-20.679792309517325
+[09Jun2025 04:43:26.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -15.309485849096745,0.0,-21.429365920002965
+[09Jun2025 04:43:26.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -14.818001036328951,0.0,-22.29843876789164
+[09Jun2025 04:43:26.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -14.27941359304441,0.0,-23.272909943168997
+[09Jun2025 04:43:26.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -13.701400323703638,0.0,-24.34139974872778
+[09Jun2025 04:43:26.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -13.191592620145002,0.0,-25.283807757230534
+[09Jun2025 04:43:26.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -12.74194222560618,0.0,-26.11501162073
+[09Jun2025 04:43:26.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -12.345350577623321,0.0,-26.84813342833604
+[09Jun2025 04:43:26.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.995556744102487,0.0,-27.494746862645115
+[09Jun2025 04:43:26.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.68703858293702,0.0,-28.065059911705248
+[09Jun2025 04:43:26.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.414925564788973,0.0,-28.56807602097615
+[09Jun2025 04:43:27.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.1749218827822,0.0,-29.01173622935312
+[09Jun2025 04:43:27.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -10.96323863525231,0.0,-29.403044533141838
+[09Jun2025 04:43:27.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -10.776534010930845,0.0,-29.748178457083668
+[09Jun2025 04:43:27.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -10.520654266641941,0.0,-30.033415064317524
+[09Jun2025 04:43:27.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -10.20336481452432,0.0,-30.267820358478275
+[09Jun2025 04:43:27.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -9.831742207931256,0.0,-30.458324237441957
+[09Jun2025 04:43:27.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -9.412197759090304,0.0,-30.610107068202524
+[09Jun2025 04:43:27.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -8.950386245387108,0.0,-30.72773793444685
+[09Jun2025 04:43:27.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -8.543068490301266,0.0,-30.831488358474417
+[09Jun2025 04:43:27.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -8.18381423031542,0.0,-30.922996232467085
+[09Jun2025 04:43:27.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -7.866951973007872,0.0,-31.00370617732824
+[09Jun2025 04:43:27.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -7.587479462062674,0.0,-31.074892348696267
+[09Jun2025 04:43:27.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -7.340984707409007,0.0,-31.137678551842328
+[09Jun2025 04:43:27.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -7.123576333804522,0.0,-31.193055983017075
+[09Jun2025 04:43:27.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -6.9318221482853914,0.0,-31.24189887731336
+[09Jun2025 04:43:27.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -6.7626949566574694,0.0,-31.284978310082806
+[09Jun2025 04:43:27.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -6.6135247736415295,0.0,-31.322974369785697
+[09Jun2025 04:43:27.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -6.3897296259424365,0.0,-31.343059232131964
+[09Jun2025 04:43:28.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -6.100115259393078,0.0,-31.34734641840896
+[09Jun2025 04:43:28.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -5.752448341817399,0.0,-31.33770005439328
+[09Jun2025 04:43:28.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -5.355661754500488,0.0,-31.305525046472212
+[09Jun2025 04:43:28.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -4.920813853642358,0.0,-31.238660937260647
+[09Jun2025 04:43:28.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -4.331443960209526,0.0,-31.298678870126423
+[09Jun2025 04:43:28.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -3.590562139351732,0.0,-31.439137917841435
+[09Jun2025 04:43:28.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -2.7505587623431893,0.0,-31.70262597128658
+[09Jun2025 04:43:28.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -1.820513851319447,0.0,-32.07105947229593
+[09Jun2025 04:43:28.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -0.811052307294176,0.0,-32.532054858056654
+[09Jun2025 04:43:28.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.07929277453649775,0.0,-32.938652788297986
+[09Jun2025 04:43:28.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.8645771367109774,0.0,-33.29727216277115
+[09Jun2025 04:43:28.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 1.557197944148811,0.0,-33.61357445105659
+[09Jun2025 04:43:28.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 2.1680894963092214,0.0,-33.892553069324094
+[09Jun2025 04:43:28.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 2.706895845314648,0.0,-34.13861221063598
+[09Jun2025 04:43:28.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.1821230451373594,0.0,-34.35563637327323
+[09Jun2025 04:43:35.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> adolfmir
+[09Jun2025 04:43:48.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7897ms or 157 ticks behind
+[09Jun2025 04:43:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nmms me robo 5 pesos we
+[09Jun2025 04:44:08.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
+[09Jun2025 04:44:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> ozis esta bien
+[09Jun2025 04:44:29.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> huh?
+[09Jun2025 04:44:29.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6262ms or 125 ticks behind
+[09Jun2025 04:44:50.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6028ms or 120 ticks behind
+[09Jun2025 04:44:58.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to KyleXD4764]
+[09Jun2025 04:45:10.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5114ms or 102 ticks behind
+[09Jun2025 04:45:30.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[09Jun2025 04:45:52.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7149ms or 142 ticks behind
+[09Jun2025 04:45:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> esta?
+[09Jun2025 04:45:59.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 was kicked for floating too long!
+[09Jun2025 04:45:59.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Flying is not enabled on this server
+[09Jun2025 04:45:59.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[09Jun2025 04:45:59.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[09Jun2025 04:46:13.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
+[09Jun2025 04:46:33.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5747ms or 114 ticks behind
+[09Jun2025 04:46:54.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[09Jun2025 04:47:14.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5108ms or 102 ticks behind
+[09Jun2025 04:47:22.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> chale
+[09Jun2025 04:47:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> XDDD
+[09Jun2025 04:47:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> ntp
+[09Jun2025 04:47:34.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4850ms or 97 ticks behind
+[09Jun2025 04:47:53.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4653ms or 93 ticks behind
+[09Jun2025 04:47:57.978] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36c9cb73[id=<null>,name=Mapachito_44,properties={},legacy=false] (/127.132.206.149:43677) lost connection: Disconnected
+[09Jun2025 04:48:04.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> chale
+[09Jun2025 04:48:10.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> XDDDD ntp todo es bait
+[09Jun2025 04:48:15.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[09Jun2025 04:48:31.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.571] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:31.930] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:32.067] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:48:34.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4184ms or 83 ticks behind
+[09Jun2025 04:48:53.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[09Jun2025 04:49:03.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7237eb93[id=<null>,name=Mapachito_44,properties={},legacy=false] (/127.132.206.149:57395) lost connection: Disconnected
+[09Jun2025 04:49:07.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 90.61401263384232,1.6473686910408176,154.6477949530081
+[09Jun2025 04:49:12.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[09Jun2025 04:49:27.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.138.109.154:57419] logged in with entity id 175168 at (3515.70458984375, 89.57916712760925, 6540.33642578125)
+[09Jun2025 04:49:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[09Jun2025 04:49:27.774] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[09Jun2025 04:49:28.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Disconnected
+[09Jun2025 04:49:28.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[09Jun2025 04:49:28.520] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[09Jun2025 04:50:21.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e395e92[id=<null>,name=Mapachito_44,properties={},legacy=false] (/127.138.109.154:55167) lost connection: Disconnected
+[09Jun2025 04:50:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 43 [Totem of Undying] to Mieko_]
+[09Jun2025 04:50:26.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Jun2025 04:51:53.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.167.138.206:38837] logged in with entity id 176386 at (3515.70458984375, 89.57916712760925, 6540.33642578125)
+[09Jun2025 04:51:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[09Jun2025 04:51:53.512] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[09Jun2025 04:51:54.156] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[09Jun2025 04:51:54.156] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[09Jun2025 04:52:05.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jun2025 04:52:08.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 04:52:09.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 04:52:09.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[09Jun2025 04:52:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[09Jun2025 04:52:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> sisi
+[09Jun2025 04:52:23.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3445ms or 68 ticks behind

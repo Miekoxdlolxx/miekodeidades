@@ -93,9 +93,11 @@
       "minecraft:lush_caves": "2025-06-08 02:26:11 +0000",
       "minecraft:deep_cold_ocean": "2025-06-09 02:46:41 +0000",
       "minecraft:frozen_ocean": "2025-06-08 08:02:58 +0000",
+      "minecraft:desert": "2025-06-09 04:41:37 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-09 02:46:39 +0000",
       "minecraft:ocean": "2025-06-07 05:57:54 +0000",
       "minecraft:snowy_beach": "2025-06-08 08:02:17 +0000",
+      "minecraft:warm_ocean": "2025-06-09 04:40:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 07:13:23 +0000",
       "minecraft:frozen_peaks": "2025-06-08 07:16:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:38:50 +0000",
@@ -9747,6 +9749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-09 03:51:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-06-09 03:55:44 +0000"
@@ -9768,24 +9776,6 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-06-09 03:55:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
-    "criteria": {
-      "has_item": "2025-06-09 04:27:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-06-09 04:27:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-09 04:27:16 +0000"
     },
     "done": true
   },
@@ -9819,12 +9809,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-06-09 04:27:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-09 03:55:44 +0000"
@@ -9834,12 +9818,6 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-09 03:55:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-06-09 04:27:16 +0000"
     },
     "done": true
   },
@@ -9858,12 +9836,6 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-06-09 03:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-06-09 03:51:23 +0000"
     },
     "done": true
   },
@@ -9900,6 +9872,42 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-06-09 03:57:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-06-09 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-06-09 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-09 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-06-09 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-06-09 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-09 04:42:19 +0000"
     },
     "done": true
   },
