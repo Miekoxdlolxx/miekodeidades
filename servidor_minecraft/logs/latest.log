@@ -3829,3 +3829,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 02:56:31.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
 [09Jun2025 02:56:49.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
 [09Jun2025 02:57:08.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Jun2025 02:57:57.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[09Jun2025 02:59:50.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.132.206.149:47091] logged in with entity id 80632 at (-5712.068744303771, -1.125, 1716.8934315645406)
+[09Jun2025 02:59:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[09Jun2025 02:59:50.792] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[09Jun2025 02:59:51.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[09Jun2025 02:59:51.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[09Jun2025 03:00:05.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 03:00:06.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 03:00:06.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[09Jun2025 03:00:15.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jun2025 03:00:20.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[09Jun2025 03:00:20.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[09Jun2025 03:00:20.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[09Jun2025 03:02:31.770] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7de257b9[id=<null>,name=Mapachito_44,properties={},legacy=false] (/127.236.153.93:58409) lost connection: Disconnected
+[09Jun2025 03:05:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 is incapacitated!
+[09Jun2025 03:06:04.076] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@729567be[id=<null>,name=Nekkai_,properties={},legacy=false] (/127.245.242.118:52047) lost connection: Disconnected
+[09Jun2025 03:06:45.076] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10f463f[id=<null>,name=Nekkai_,properties={},legacy=false] (/127.245.242.118:39163) lost connection: Disconnected
+[09Jun2025 03:07:20.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31c90a4c[id=<null>,name=Nekkai_,properties={},legacy=false] (/127.245.242.118:41589) lost connection: Disconnected
+[09Jun2025 03:07:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 was slain by Corpse Fly and bled out
+[09Jun2025 03:07:53.271] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46f2daee[id=<null>,name=Nekkai_,properties={},legacy=false] (/127.245.242.118:43769) lost connection: Disconnected
+[09Jun2025 03:08:15.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:36981] logged in with entity id 86070 at (1510.300000011921, 3.0, 5594.300000011921)
+[09Jun2025 03:08:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[09Jun2025 03:08:15.549] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[09Jun2025 03:08:16.610] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[09Jun2025 03:08:16.611] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
