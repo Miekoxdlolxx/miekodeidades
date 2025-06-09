@@ -6244,6 +6244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-09 05:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-09 03:26:43 +0000"
@@ -6394,6 +6400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-09 05:36:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-09 04:40:06 +0000"
@@ -6502,6 +6514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-09 05:36:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2025-06-09 04:13:43 +0000"
@@ -6517,6 +6535,12 @@
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-06-09 04:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-09 05:36:25 +0000"
     },
     "done": true
   },
@@ -6602,6 +6626,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_chiseled_red_sandstone": "2025-06-09 03:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-09 05:36:09 +0000"
     },
     "done": true
   },

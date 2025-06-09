@@ -9912,60 +9912,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/ride_submarine": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2025-06-09 05:15:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/marine_snow": {
-    "criteria": {
-      "marine_snow": "2025-06-09 05:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-06-09 05:07:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-06-09 05:06:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-06-09 05:07:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_mine_guardian": {
-    "criteria": {
-      "killed": "2025-06-09 05:31:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-09 05:04:27 +0000"
@@ -9978,33 +9924,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper_slab": "2025-06-09 05:09:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-09 05:04:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/diving_armor": {
-    "criteria": {
-      "helmet": "2025-06-09 05:06:05 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-06-09 05:07:54 +0000"
     },
     "done": true
   },
@@ -10014,21 +9936,40 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
-      "abyssal_ruins": "2025-06-09 05:08:10 +0000"
+      "discover": "2025-06-09 05:04:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
+      "has_nautilus_shell": "2025-06-09 05:06:05 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_item": {
+  "alexscaves:alexscaves/diving_armor": {
     "criteria": {
-      "has_stone_button": "2025-06-09 05:15:44 +0000"
+      "shirt": "2025-06-09 05:33:49 +0000",
+      "helmet": "2025-06-09 05:06:05 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-09 05:07:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-09 05:07:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-09 05:07:54 +0000"
     },
     "done": true
   },
@@ -10038,15 +9979,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-09 05:07:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-09 05:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-06-09 05:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_weathered_cut_copper_slab": "2025-06-09 05:09:00 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_abyssal_chasm": {
+  "alexscaves:alexscaves/pearl": {
     "criteria": {
-      "discover": "2025-06-09 05:04:46 +0000"
+      "pearl": "2025-06-09 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
     },
     "done": true
   },
@@ -10056,15 +10045,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_helmet": {
+  "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
-      "has_item": "2025-06-09 05:07:54 +0000"
+      "has_stone_button": "2025-06-09 05:15:44 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/pearl": {
+  "alexscaves:alexscaves/ride_submarine": {
     "criteria": {
-      "pearl": "2025-06-09 05:11:32 +0000"
+      "ride_a_boat_with_a_goat": "2025-06-09 05:15:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2025-06-09 05:18:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-06-09 05:31:00 +0000"
     },
     "done": true
   },

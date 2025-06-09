@@ -5844,3 +5844,105 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 05:33:36.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
 [09Jun2025 05:33:36.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
 [09Jun2025 05:33:56.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
+[09Jun2025 05:34:18.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6664ms or 133 ticks behind
+[09Jun2025 05:34:23.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arthur_055[/127.188.213.252:46127] logged in with entity id 211999 at (-612.2814636924024, 64.0, 2364.613612847347)
+[09Jun2025 05:34:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthur_055 joined the game
+[09Jun2025 05:34:23.315] [Server thread/INFO] [Jade/]: Syncing config to Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886)
+[09Jun2025 05:34:25.693] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arthur_055 (18)
+[09Jun2025 05:34:25.693] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arthur_055
+[09Jun2025 05:34:30.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[09Jun2025 05:34:31.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdfcea6-7eb5-3d50-a970-2758faa31886
+[09Jun2025 05:34:31.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Arthur_055 (0bdfcea6-7eb5-3d50-a970-2758faa31886) successfully connected to voice chat
+[09Jun2025 05:34:43.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9760ms or 195 ticks behind
+[09Jun2025 05:34:51.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KyleXD4764 lost connection: Disconnected
+[09Jun2025 05:34:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 left the game
+[09Jun2025 05:34:51.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KyleXD4764
+[09Jun2025 05:34:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> C BIND
+[09Jun2025 05:35:06.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7856ms or 157 ticks behind
+[09Jun2025 05:35:07.318] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/212798, l='ServerLevel[world]', x=3728.50, y=44.00, z=7358.50]
+[09Jun2025 05:35:29.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8665ms or 173 ticks behind
+[09Jun2025 05:35:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 05:35:40.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 05:35:41.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[09Jun2025 05:35:41.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[09Jun2025 05:35:41.081] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[09Jun2025 05:35:51.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[09Jun2025 05:36:09.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[09Jun2025 05:36:27.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[09Jun2025 05:36:46.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3892ms or 77 ticks behind
+[09Jun2025 05:37:04.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[09Jun2025 05:37:24.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5229ms or 104 ticks behind
+[09Jun2025 05:37:29.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arthur_055 moved too quickly! -106.90656610075092,-11.0,77.26581023781864
+[09Jun2025 05:37:40.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> aun no contestan gg...
+[09Jun2025 05:37:43.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[09Jun2025 05:38:03.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4596ms or 91 ticks behind
+[09Jun2025 05:38:05.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[09Jun2025 05:38:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[09Jun2025 05:38:05.489] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[09Jun2025 05:38:23.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5688ms or 113 ticks behind
+[09Jun2025 05:38:28.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Disconnected
+[09Jun2025 05:38:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[09Jun2025 05:38:28.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[09Jun2025 05:38:48.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Jun2025 05:38:49.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.236.98.246:49219] logged in with entity id 216583 at (3840.8574641006667, 20.537142998314295, 7173.300000011921)
+[09Jun2025 05:38:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[09Jun2025 05:38:49.961] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[09Jun2025 05:38:50.345] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[09Jun2025 05:38:50.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[09Jun2025 05:38:59.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 05:39:00.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 05:39:00.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[09Jun2025 05:39:06.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[09Jun2025 05:39:10.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:48625] logged in with entity id 217435 at (3602.0799979635, -50.92494374701229, 7124.977248109483)
+[09Jun2025 05:39:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[09Jun2025 05:39:10.805] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[09Jun2025 05:39:11.533] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[09Jun2025 05:39:11.533] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[09Jun2025 05:39:17.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[09Jun2025 05:39:27.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5648ms or 112 ticks behind
+[09Jun2025 05:39:51.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8859ms or 177 ticks behind
+[09Jun2025 05:40:06.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.169.39.231:40571] logged in with entity id 218984 at (3595.9623860642378, -48.0, 7126.211561911978)
+[09Jun2025 05:40:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[09Jun2025 05:40:06.530] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[09Jun2025 05:40:07.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[09Jun2025 05:40:07.876] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[09Jun2025 05:40:11.796] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=28, z=66}
+[09Jun2025 05:40:11.797] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=22, z=66}
+[09Jun2025 05:40:17.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11438ms or 228 ticks behind
+[09Jun2025 05:40:18.311] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=22, z=73}
+[09Jun2025 05:40:18.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 05:40:18.972] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=69}
+[09Jun2025 05:40:18.973] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=71}
+[09Jun2025 05:40:18.973] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=31, z=70}
+[09Jun2025 05:40:18.973] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=24, z=73}
+[09Jun2025 05:40:18.973] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=21, z=70}
+[09Jun2025 05:40:19.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 05:40:19.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[09Jun2025 05:40:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported titanhumilde7w7 to Mieko_]
+[09Jun2025 05:40:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has reached the goal [Captain Nemo]
+[09Jun2025 05:40:42.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10367ms or 207 ticks behind
+[09Jun2025 05:41:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [The Cyclops]
+[09Jun2025 05:41:07.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9327ms or 186 ticks behind
+[09Jun2025 05:41:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 05:41:30.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7891ms or 157 ticks behind
+[09Jun2025 05:41:54.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9267ms or 185 ticks behind
+[09Jun2025 05:42:22.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12906ms or 258 ticks behind
+[09Jun2025 05:42:22.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 was kicked for floating a vehicle too long!
+[09Jun2025 05:42:22.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Flying is not enabled on this server
+[09Jun2025 05:42:22.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[09Jun2025 05:42:22.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[09Jun2025 05:42:49.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12177ms or 243 ticks behind
+[09Jun2025 05:42:49.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.132.206.149:36735] logged in with entity id 223122 at (3895.7709170801368, 104.9927031993866, 7448.189967765675)
+[09Jun2025 05:42:49.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[09Jun2025 05:42:49.881] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[09Jun2025 05:42:50.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[09Jun2025 05:42:50.186] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[09Jun2025 05:42:59.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 05:43:00.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0193b222-149f-3158-ab88-a7547b435b77
+[09Jun2025 05:43:00.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
+[09Jun2025 05:43:01.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.01617380204697838,-10.320410121066978,0.0167531965435046
+[09Jun2025 05:43:01.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.021746293472006073,-10.909669617277693,0.02252531146223191
+[09Jun2025 05:43:01.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.026115126814147516,-11.376549069190922,0.027050649625380174
+[09Jun2025 05:43:18.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13877ms or 277 ticks behind
+[09Jun2025 05:43:47.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13960ms or 279 ticks behind
+[09Jun2025 05:44:14.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12496ms or 249 ticks behind
