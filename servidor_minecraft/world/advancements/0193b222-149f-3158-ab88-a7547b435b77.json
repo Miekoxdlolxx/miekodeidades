@@ -90,7 +90,9 @@
       "minecraft:cold_ocean": "2025-06-08 07:04:03 +0000",
       "minecraft:forest": "2025-06-06 22:38:56 +0000",
       "minecraft:lush_caves": "2025-06-08 02:26:11 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-09 02:46:41 +0000",
       "minecraft:frozen_ocean": "2025-06-08 08:02:58 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-09 02:46:39 +0000",
       "minecraft:ocean": "2025-06-07 05:57:54 +0000",
       "minecraft:snowy_beach": "2025-06-08 08:02:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 07:13:23 +0000",
@@ -9720,6 +9722,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-06-09 02:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-09 02:34:17 +0000"
@@ -9732,9 +9740,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "bestiary": "2025-06-09 02:27:48 +0000"
+      "has_copper_backpack": "2025-06-09 02:55:23 +0000"
     },
     "done": true
   },

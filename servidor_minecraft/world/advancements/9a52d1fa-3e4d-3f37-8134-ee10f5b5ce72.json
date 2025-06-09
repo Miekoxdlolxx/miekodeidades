@@ -9077,6 +9077,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-06-09 02:35:39 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:root": {
     "criteria": {
       "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"

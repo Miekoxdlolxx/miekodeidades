@@ -6383,7 +6383,49 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-08 08:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-08 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-08 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-08 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-08 08:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-08 08:46:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-08 08:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-08 08:46:42 +0000"
     },
@@ -6401,33 +6443,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 08:35:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2025-06-08 08:46:42 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-06-08 08:52:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 08:35:21 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
     },
     "done": true
   },
@@ -6437,51 +6455,33 @@
     },
     "done": true
   },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-08 08:46:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-08 08:35:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-06-08 08:52:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_salmon": "2025-06-08 08:35:21 +0000"
+      "has_carrot": "2025-06-08 08:52:33 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
     },
     "done": true
   },
   "chococraft:recipes/food/chocobo_drumstick_cooked": {
     "criteria": {
       "has_raw_drumstick": "2025-06-08 08:55:43 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-06-08 08:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-08 08:52:33 +0000"
     },
     "done": true
   },
