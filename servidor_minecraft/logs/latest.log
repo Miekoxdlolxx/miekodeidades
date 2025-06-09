@@ -377,3 +377,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 00:45:03.830] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'must-modified.gl.at.ply.gg:1434'
 [09Jun2025 00:45:03.831] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1434
 [09Jun2025 00:45:08.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[09Jun2025 00:57:54.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:36079] logged in with entity id 90 at (-617.1755680504649, 64.0, 2359.3176718036375)
+[09Jun2025 00:57:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[09Jun2025 00:57:54.556] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[09Jun2025 00:57:55.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[09Jun2025 00:57:55.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[09Jun2025 00:57:55.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCockroach['Yupi de mapache'/113, l='ServerLevel[world]', x=-606.35, y=57.00, z=2354.71]
+[09Jun2025 00:58:01.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[09Jun2025 00:59:29.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/605, l='ServerLevel[world]', x=-832.13, y=68.76, z=2143.73]
+[09Jun2025 01:03:10.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.121.151.4:39371] logged in with entity id 2571 at (-363.69999998807907, 8.887062247611212, 1284.1165082255873)
+[09Jun2025 01:03:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
+[09Jun2025 01:03:11.043] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
+[09Jun2025 01:03:12.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
+[09Jun2025 01:03:12.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
+[09Jun2025 01:03:19.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
+[09Jun2025 01:03:30.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pansaelgato85 lost connection: Disconnected
+[09Jun2025 01:03:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 left the game
+[09Jun2025 01:03:30.371] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pansaelgato85
+[09Jun2025 01:03:40.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:46687] logged in with entity id 3154 at (-615.3155249620617, 65.0, 2365.768541398061)
+[09Jun2025 01:03:40.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[09Jun2025 01:03:40.106] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[09Jun2025 01:03:41.519] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[09Jun2025 01:03:41.520] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[09Jun2025 01:03:53.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[09Jun2025 01:03:54.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[09Jun2025 01:03:54.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[09Jun2025 01:04:07.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 01:04:25.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 01:07:07.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pobrecito como les caen rayo
+[09Jun2025 01:07:09.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7716115[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.184.149.136:56977) lost connection: Disconnected
+[09Jun2025 01:07:25.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:38869] logged in with entity id 5762 at (-2932.394887241761, 63.0, 1450.0751164536607)
+[09Jun2025 01:07:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[09Jun2025 01:07:25.633] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[09Jun2025 01:07:26.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -6.788670279001394,0.7663679939575161,7.430038386274646
+[09Jun2025 01:07:27.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[09Jun2025 01:07:27.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[09Jun2025 01:07:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> wrayo
+[09Jun2025 01:07:38.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 01:07:40.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 01:07:40.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[09Jun2025 01:07:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> NO MAME
+[09Jun2025 01:07:50.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SOY SATORU GOJO
+[09Jun2025 01:08:00.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pues se me acercaban y se quemaban
+[09Jun2025 01:08:08.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> gg
+[09Jun2025 01:08:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero yo tengo mas
+[09Jun2025 01:08:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> voy
+[09Jun2025 01:08:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 01:08:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 01:08:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Clash of the Titans]
+[09Jun2025 01:08:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LKSALKSALKSA
+[09Jun2025 01:08:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No controlo los rayos
+[09Jun2025 01:10:12.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -5.280284254405842,0.0,9.20449201328529
+[09Jun2025 01:10:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[09Jun2025 01:11:21.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[09Jun2025 01:12:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> vamos a una mazmorra...
+[09Jun2025 01:13:41.273] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1080, y=3, z=4613}
+[09Jun2025 01:13:41.273] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1079, y=10, z=4616}
