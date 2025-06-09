@@ -39,6 +39,7 @@
       "coniferous_forest": "2025-06-06 22:52:29 +0000",
       "seasonal_orchard": "2025-06-08 08:02:16 +0000",
       "seasonal_forest": "2025-06-06 08:22:29 +0000",
+      "fir_clearing": "2025-06-09 04:57:31 +0000",
       "pumpkin_patch": "2025-06-08 03:15:58 +0000",
       "grassland": "2025-06-06 23:00:11 +0000",
       "glowing_grotto": "2025-06-07 00:29:51 +0000"
@@ -72,7 +73,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-06 23:16:17 +0000",
-      "minecraft:river": "2025-06-06 08:56:51 +0000"
+      "minecraft:river": "2025-06-06 08:56:51 +0000",
+      "minecraft:plains": "2025-06-09 04:58:07 +0000"
     },
     "done": false
   },
@@ -6543,6 +6545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-09 04:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-09 03:05:13 +0000"
@@ -6600,6 +6608,12 @@
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-06-09 04:26:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-09 04:57:09 +0000"
     },
     "done": true
   },

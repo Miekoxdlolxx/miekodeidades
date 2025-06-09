@@ -9170,6 +9170,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-09 04:57:12 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_helmet": {
     "criteria": {
       "has_chocobo_feather": "2025-06-09 03:27:05 +0000"

@@ -7186,6 +7186,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-09 04:53:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
     "criteria": {
       "has_pink_dye": "2025-06-09 04:35:26 +0000"
@@ -7258,9 +7264,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-09 04:54:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-09 04:57:12 +0000"
     },
     "done": true
   },
@@ -7291,6 +7309,12 @@
   "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-09 04:53:54 +0000"
     },
     "done": true
   },
