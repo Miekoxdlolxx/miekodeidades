@@ -433,3 +433,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 01:12:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> vamos a una mazmorra...
 [09Jun2025 01:13:41.273] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1080, y=3, z=4613}
 [09Jun2025 01:13:41.273] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1079, y=10, z=4616}
+[09Jun2025 01:17:59.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 01:18:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> VAMOOS
+[09Jun2025 01:19:19.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> manzanas w
+[09Jun2025 01:21:07.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> au
+[09Jun2025 01:21:51.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@445de630[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.121.151.4:40903) lost connection: Disconnected
+[09Jun2025 01:22:07.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pansaelgato85[/127.121.151.4:48609] logged in with entity id 12756 at (-363.69999998807907, 8.887062247611212, 1284.1165082255873)
+[09Jun2025 01:22:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pansaelgato85 joined the game
+[09Jun2025 01:22:07.461] [Server thread/INFO] [Jade/]: Syncing config to pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11)
+[09Jun2025 01:22:08.388] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pansaelgato85 (18)
+[09Jun2025 01:22:08.388] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pansaelgato85
+[09Jun2025 01:22:15.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
+[09Jun2025 01:22:16.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3a2441d6-0e3a-3926-b0cd-1e080fcb4c11
+[09Jun2025 01:22:16.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pansaelgato85 (3a2441d6-0e3a-3926-b0cd-1e080fcb4c11) successfully connected to voice chat

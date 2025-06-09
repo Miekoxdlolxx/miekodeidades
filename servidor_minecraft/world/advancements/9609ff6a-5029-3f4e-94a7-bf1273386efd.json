@@ -55,12 +55,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-08 04:54:27 +0000",
+      "minecraft:birch_forest": "2025-06-09 01:13:20 +0000",
       "minecraft:beach": "2025-06-08 04:14:46 +0000",
       "minecraft:river": "2025-06-06 23:46:55 +0000",
       "minecraft:lukewarm_ocean": "2025-06-08 04:10:48 +0000",
       "minecraft:stony_shore": "2025-06-08 05:12:23 +0000",
       "minecraft:cold_ocean": "2025-06-08 05:29:54 +0000",
       "minecraft:forest": "2025-06-07 05:37:47 +0000",
+      "minecraft:lush_caves": "2025-06-09 01:21:50 +0000",
       "minecraft:ocean": "2025-06-08 04:54:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 04:54:26 +0000",
       "minecraft:frozen_peaks": "2025-06-07 05:45:33 +0000",
@@ -101,8 +103,10 @@
       "minecraft:phantom": "2025-06-08 04:08:06 +0000",
       "minecraft:witch": "2025-06-08 04:48:10 +0000",
       "minecraft:wither_skeleton": "2025-06-07 05:13:38 +0000",
+      "minecraft:cave_spider": "2025-06-09 01:18:45 +0000",
       "minecraft:enderman": "2025-06-07 05:14:01 +0000",
       "minecraft:stray": "2025-06-07 05:31:22 +0000",
+      "minecraft:silverfish": "2025-06-09 01:21:20 +0000",
       "minecraft:zombie": "2025-06-06 23:51:33 +0000"
     },
     "done": false
@@ -5553,6 +5557,30 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-06-08 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-09 01:15:47 +0000"
     },
     "done": true
   },

@@ -8281,6 +8281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-09 01:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-09 01:24:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-06-09 01:08:40 +0000"
