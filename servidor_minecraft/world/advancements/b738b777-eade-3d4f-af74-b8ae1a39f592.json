@@ -39,6 +39,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-09 04:07:33 +0000",
       "minecraft:ocean": "2025-06-07 01:43:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-07 23:30:59 +0000",
+      "minecraft:warm_ocean": "2025-06-09 04:13:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-07 23:08:41 +0000",
       "minecraft:frozen_peaks": "2025-06-07 05:33:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 01:28:01 +0000",
@@ -7131,6 +7132,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-09 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-09 04:14:36 +0000"
     },
     "done": true
   },
