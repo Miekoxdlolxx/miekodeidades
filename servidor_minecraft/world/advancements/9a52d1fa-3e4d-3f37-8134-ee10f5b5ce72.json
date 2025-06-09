@@ -45,6 +45,7 @@
       "minecraft:ocean": "2025-06-07 01:35:37 +0000",
       "minecraft:jungle": "2025-06-07 23:40:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-07 23:32:22 +0000",
+      "minecraft:warm_ocean": "2025-06-09 03:27:39 +0000",
       "minecraft:frozen_peaks": "2025-06-07 05:28:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:55:08 +0000",
       "minecraft:meadow": "2025-06-07 05:20:19 +0000",
@@ -2785,6 +2786,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-09 03:28:36 +0000",
       "minecraft:skeleton": "2025-06-06 22:09:50 +0000",
       "minecraft:spider": "2025-06-06 22:08:52 +0000",
       "minecraft:creeper": "2025-06-06 22:10:50 +0000",
@@ -9122,6 +9124,60 @@
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2025-06-09 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-09 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-09 03:27:05 +0000"
     },
     "done": true
   },

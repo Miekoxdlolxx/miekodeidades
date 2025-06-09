@@ -2867,6 +2867,7 @@
       "cooked_beef": "2025-06-06 23:05:22 +0000",
       "beef": "2025-06-07 00:18:34 +0000",
       "baked_potato": "2025-06-08 07:06:04 +0000",
+      "potato": "2025-06-09 03:17:32 +0000",
       "bread": "2025-06-07 00:27:44 +0000",
       "rotten_flesh": "2025-06-08 03:22:45 +0000",
       "cooked_chicken": "2025-06-08 08:57:41 +0000"
@@ -4260,6 +4261,7 @@
       "minecraft:creeper": "2025-06-08 03:30:10 +0000",
       "minecraft:phantom": "2025-06-08 06:10:30 +0000",
       "minecraft:witch": "2025-06-06 23:40:26 +0000",
+      "minecraft:enderman": "2025-06-09 03:32:50 +0000",
       "minecraft:zombie": "2025-06-07 00:28:26 +0000",
       "minecraft:drowned": "2025-06-08 08:55:55 +0000"
     },
@@ -6488,6 +6490,18 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-09 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-06-09 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-09 03:27:48 +0000"
     },
     "done": true
   },

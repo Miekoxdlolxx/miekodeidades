@@ -3886,3 +3886,140 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 03:17:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> Aaa
 [09Jun2025 03:17:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> afk
 [09Jun2025 03:18:02.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jun2025 03:18:45.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jun2025 03:19:03.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[09Jun2025 03:19:36.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Jun2025 03:19:54.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
+[09Jun2025 03:20:12.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[09Jun2025 03:20:22.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -0.966964099597817,1.0,9.973003566785337
+[09Jun2025 03:20:30.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[09Jun2025 03:20:33.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! -6.349202710801137,0.0,8.434234417170956
+[09Jun2025 03:20:40.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.169.39.231:59597] logged in with entity id 95260 at (1511.0713117316227, 3.0, 5597.725290281245)
+[09Jun2025 03:20:40.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[09Jun2025 03:20:40.691] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[09Jun2025 03:20:41.473] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[09Jun2025 03:20:41.473] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[09Jun2025 03:20:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria no vas a estar con tu prima...
+[09Jun2025 03:20:48.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 03:20:49.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 03:20:49.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[09Jun2025 03:20:49.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
+[09Jun2025 03:20:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [The day of the Dead]
+[09Jun2025 03:21:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 03:21:07.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[09Jun2025 03:21:25.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[09Jun2025 03:21:44.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
+[09Jun2025 03:22:03.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
+[09Jun2025 03:22:23.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[09Jun2025 03:22:43.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4924ms or 98 ticks behind
+[09Jun2025 03:23:06.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el que
+[09Jun2025 03:23:07.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8628ms or 172 ticks behind
+[09Jun2025 03:23:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nop
+[09Jun2025 03:23:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [No Step on Snake]
+[09Jun2025 03:23:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> Nekkai_ save susar armas y Plomo? :3
+[09Jun2025 03:23:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> XDD
+[09Jun2025 03:23:30.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8723ms or 174 ticks behind
+[09Jun2025 03:23:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> gg vengo de left
+[09Jun2025 03:23:45.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:23:48.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> ya fue
+[09Jun2025 03:23:50.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[09Jun2025 03:23:53.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:24:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> gg
+[09Jun2025 03:24:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria me robo el yunque
+[09Jun2025 03:24:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [The Desert Swimmers]
+[09Jun2025 03:24:11.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[09Jun2025 03:24:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :>
+[09Jun2025 03:24:29.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
+[09Jun2025 03:24:34.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 moved wrongly!
+[09Jun2025 03:24:50.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[09Jun2025 03:25:12.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6922ms or 138 ticks behind
+[09Jun2025 03:25:22.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:25:34.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6775ms or 135 ticks behind
+[09Jun2025 03:25:51.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:25:55.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[09Jun2025 03:25:59.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:26:24.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13912ms or 278 ticks behind
+[09Jun2025 03:26:38.654] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=69}
+[09Jun2025 03:26:38.655] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=71}
+[09Jun2025 03:26:38.655] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=31, z=70}
+[09Jun2025 03:26:38.655] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=24, z=73}
+[09Jun2025 03:26:38.656] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=21, z=70}
+[09Jun2025 03:26:44.886] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=22, z=73}
+[09Jun2025 03:26:46.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:26:47.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8852ms or 177 ticks behind
+[09Jun2025 03:27:02.656] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=28, z=66}
+[09Jun2025 03:27:02.656] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=22, z=66}
+[09Jun2025 03:27:09.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6252ms or 125 ticks behind
+[09Jun2025 03:27:32.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8737ms or 174 ticks behind
+[09Jun2025 03:27:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:27:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:27:48.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has made the advancement [Stay dead]
+[09Jun2025 03:28:05.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17378ms or 347 ticks behind
+[09Jun2025 03:28:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KyleXD4764 has reached the goal [Big Boy]
+[09Jun2025 03:28:28.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7752ms or 155 ticks behind
+[09Jun2025 03:28:48.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5805ms or 116 ticks behind
+[09Jun2025 03:29:06.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[09Jun2025 03:29:25.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jun2025 03:29:40.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> wmira lo que me encontre :D
+[09Jun2025 03:29:42.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[09Jun2025 03:29:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Jamón de la infinidad
+[09Jun2025 03:30:00.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[09Jun2025 03:30:04.230] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1896, y=-19, z=7741}
+[09Jun2025 03:30:06.353] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1913, y=-23, z=7739}
+[09Jun2025 03:30:22.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7134ms or 142 ticks behind
+[09Jun2025 03:30:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to SnowyCW1]
+[09Jun2025 03:30:43.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:30:46.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9194ms or 183 ticks behind
+[09Jun2025 03:30:53.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 03:31:08.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6389ms or 127 ticks behind
+[09Jun2025 03:31:27.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[09Jun2025 03:31:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 is incapacitated!
+[09Jun2025 03:31:54.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11938ms or 238 ticks behind
+[09Jun2025 03:32:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Cover Me with Diamonds]
+[09Jun2025 03:32:06.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> thx :sob:
+[09Jun2025 03:32:12.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[09Jun2025 03:32:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> afks
+[09Jun2025 03:32:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 was turned to stone by Gorgon
+[09Jun2025 03:32:31.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[09Jun2025 03:32:31.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[09Jun2025 03:32:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[09Jun2025 03:32:31.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[09Jun2025 03:32:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mande
+[09Jun2025 03:32:45.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No se sus coords
+[09Jun2025 03:33:16.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 2089.500000, 52.000000, 7912.500000]
+[09Jun2025 03:33:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya no necesito comida
+[09Jun2025 03:33:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> con esto me sirve
+[09Jun2025 03:33:58.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> oka
+[09Jun2025 03:34:12.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> tienes manzanas que quieras hacer oro?
+[09Jun2025 03:34:18.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:49321] logged in with entity id 109515 at (2091.8669801753917, 52.04373329313594, 7911.457211801589)
+[09Jun2025 03:34:18.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[09Jun2025 03:34:18.236] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[09Jun2025 03:34:18.309] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[09Jun2025 03:34:18.309] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[09Jun2025 03:34:19.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Jun2025 03:34:23.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[09Jun2025 03:34:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> no tengop
+[09Jun2025 03:34:38.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Jun2025 03:35:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Apoco si
+[09Jun2025 03:35:09.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jun2025 03:35:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Esooo
+[09Jun2025 03:35:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Hazte respetar
+[09Jun2025 03:35:53.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[09Jun2025 03:36:10.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[09Jun2025 03:36:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Se le quema el arroz gg
+[09Jun2025 03:36:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ahora falta que se le quemaba el agua
+[09Jun2025 03:36:28.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[09Jun2025 03:36:46.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[09Jun2025 03:36:57.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 03:37:02.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nada
+[09Jun2025 03:37:03.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[09Jun2025 03:37:05.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Estoy escuchando
+[09Jun2025 03:37:07.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Chisme
+[09Jun2025 03:37:22.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4108ms or 82 ticks behind
+[09Jun2025 03:37:41.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[09Jun2025 03:37:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJA
+[09Jun2025 03:37:58.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[09Jun2025 03:38:15.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[09Jun2025 03:38:32.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[09Jun2025 03:38:50.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[09Jun2025 03:39:07.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
