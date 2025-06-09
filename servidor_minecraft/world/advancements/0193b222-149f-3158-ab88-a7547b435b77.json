@@ -9623,12 +9623,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-08 08:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-08 07:37:18 +0000"
@@ -9638,6 +9632,30 @@
   "rottencreatures:recipes/food/rotten_flesh_from_smoking": {
     "criteria": {
       "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
+    "criteria": {
+      "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-08 07:37:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-06-08 07:42:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-06-08 07:59:50 +0000"
     },
     "done": true
   },
@@ -9653,24 +9671,6 @@
     },
     "done": true
   },
-  "rottencreatures:recipes/food/rotten_flesh_from_campfire_cooking": {
-    "criteria": {
-      "has_frozen_rotten_flesh": "2025-06-08 07:37:18 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2025-06-08 08:04:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-08 08:04:42 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-06-08 07:59:52 +0000"
@@ -9683,9 +9683,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonbone": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_dragon_bone_block": "2025-06-08 07:59:50 +0000"
+      "has_prismarine_shard": "2025-06-08 08:04:34 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-06-08 08:04:34 +0000"
     },
     "done": true
   },
@@ -9701,21 +9707,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-08 08:04:42 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:wrong_santa": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "wrong_santa_0": "2025-06-08 07:42:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-06-08 07:37:18 +0000"
+      "has_prismarine_crystals": "2025-06-08 08:04:42 +0000"
     },
     "done": true
   },

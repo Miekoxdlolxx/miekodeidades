@@ -2788,6 +2788,7 @@
       "minecraft:skeleton": "2025-06-06 22:09:50 +0000",
       "minecraft:spider": "2025-06-06 22:08:52 +0000",
       "minecraft:creeper": "2025-06-06 22:10:50 +0000",
+      "minecraft:witch": "2025-06-09 02:06:20 +0000",
       "minecraft:wither_skeleton": "2025-06-07 06:58:17 +0000",
       "minecraft:cave_spider": "2025-06-06 22:10:33 +0000",
       "minecraft:enderman": "2025-06-06 22:11:07 +0000",
@@ -9034,6 +9035,30 @@
     },
     "done": true
   },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-09 02:21:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-09 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-09 02:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-09 01:55:50 +0000"
@@ -9043,6 +9068,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-09 02:00:56 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-06-09 02:06:30 +0000"
     },
     "done": true
   },
@@ -9061,6 +9092,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-09 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-06-09 02:18:06 +0000"
     },
     "done": true
   },

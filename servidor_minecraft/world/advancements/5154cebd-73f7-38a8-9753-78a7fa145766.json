@@ -8311,6 +8311,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-09 02:18:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
@@ -8320,6 +8326,12 @@
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-09 02:15:44 +0000"
     },
     "done": true
   },
@@ -8437,6 +8449,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-06-09 02:17:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
@@ -8452,6 +8470,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-09 01:59:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-06-09 02:17:28 +0000"
     },
     "done": true
   },
@@ -8476,6 +8500,12 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-09 02:19:52 +0000"
     },
     "done": true
   },
