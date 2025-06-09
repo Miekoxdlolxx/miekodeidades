@@ -3350,6 +3350,7 @@
       "minecraft:wither_skeleton": "2025-06-06 22:20:41 +0000",
       "minecraft:cave_spider": "2025-06-06 22:23:24 +0000",
       "minecraft:stray": "2025-06-06 23:31:44 +0000",
+      "minecraft:enderman": "2025-06-09 05:42:30 +0000",
       "minecraft:zombie": "2025-06-06 22:18:58 +0000",
       "minecraft:drowned": "2025-06-07 22:05:58 +0000"
     },
@@ -7048,6 +7049,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-08 21:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-09 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-09 05:44:41 +0000"
     },
     "done": true
   },
