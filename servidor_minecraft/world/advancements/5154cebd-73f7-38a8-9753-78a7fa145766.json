@@ -1228,7 +1228,8 @@
       "bread": "2025-06-06 21:26:15 +0000",
       "golden_apple": "2025-06-06 22:09:43 +0000",
       "golden_carrot": "2025-06-07 05:07:36 +0000",
-      "enchanted_golden_apple": "2025-06-07 05:07:42 +0000"
+      "enchanted_golden_apple": "2025-06-07 05:07:42 +0000",
+      "cod": "2025-06-09 05:13:09 +0000"
     },
     "done": false
   },
@@ -8794,6 +8795,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-09 05:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-06-09 04:23:31 +0000"
@@ -8851,6 +8858,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:15:08 +0000"
     },
     "done": true
   },
@@ -9112,6 +9125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
@@ -9238,6 +9257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-09 04:13:20 +0000"
@@ -9250,9 +9275,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
-      "shirt": "2025-06-09 05:08:27 +0000"
+      "shirt": "2025-06-09 05:08:27 +0000",
+      "helmet": "2025-06-09 05:11:26 +0000",
+      "boots": "2025-06-09 05:14:01 +0000"
     },
     "done": false
   },
@@ -9316,6 +9349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-06-09 04:23:31 +0000"
@@ -9367,6 +9406,12 @@
   "cfm:recipes/decorations/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-09 05:15:08 +0000"
     },
     "done": true
   },
@@ -9454,6 +9499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-06-09 05:14:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-06-09 04:13:20 +0000"
@@ -9532,6 +9583,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-09 05:15:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-09 04:23:31 +0000"
@@ -9553,6 +9616,12 @@
   "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {
       "stalked_by_deep_one": "2025-06-09 05:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:15:08 +0000"
     },
     "done": true
   },
@@ -9583,6 +9652,12 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-06-09 05:15:08 +0000"
     },
     "done": true
   },

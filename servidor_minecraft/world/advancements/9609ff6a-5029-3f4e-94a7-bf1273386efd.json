@@ -123,6 +123,7 @@
       "minecraft:stray": "2025-06-07 05:31:22 +0000",
       "minecraft:silverfish": "2025-06-09 01:21:20 +0000",
       "minecraft:zombie": "2025-06-06 23:51:33 +0000",
+      "minecraft:drowned": "2025-06-09 05:12:48 +0000",
       "minecraft:zombie_villager": "2025-06-09 02:20:35 +0000"
     },
     "done": false
@@ -6183,6 +6184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-06-09 05:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-09 03:28:12 +0000"
@@ -6711,6 +6718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-06-09 05:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-06-09 04:13:43 +0000"
@@ -6774,6 +6787,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-09 05:10:25 +0000"
     },
     "done": true
   },
