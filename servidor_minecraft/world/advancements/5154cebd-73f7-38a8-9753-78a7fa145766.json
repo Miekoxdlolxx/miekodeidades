@@ -49,8 +49,10 @@
       "coniferous_forest": "2025-06-06 21:56:40 +0000",
       "spider_nest": "2025-06-06 22:16:56 +0000",
       "dryland": "2025-06-09 03:20:17 +0000",
+      "wasteland": "2025-06-09 04:01:48 +0000",
       "lush_desert": "2025-06-09 03:41:08 +0000",
       "redwood_forest": "2025-06-07 22:41:37 +0000",
+      "wasteland_steppe": "2025-06-09 04:00:57 +0000",
       "seasonal_orchard": "2025-06-06 23:19:37 +0000",
       "dune_beach": "2025-06-08 03:25:42 +0000",
       "seasonal_forest": "2025-06-06 01:45:57 +0000",
@@ -94,6 +96,7 @@
       "minecraft:sunflower_plains": "2025-06-07 06:46:18 +0000",
       "minecraft:birch_forest": "2025-06-07 04:27:07 +0000",
       "minecraft:bamboo_jungle": "2025-06-07 23:46:50 +0000",
+      "minecraft:wooded_badlands": "2025-06-09 04:00:24 +0000",
       "minecraft:badlands": "2025-06-09 03:20:42 +0000",
       "minecraft:beach": "2025-06-06 23:07:11 +0000",
       "minecraft:dark_forest": "2025-06-06 22:49:11 +0000",
@@ -8790,6 +8793,84 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-09 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_warn_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-06-09 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_axe": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
@@ -8802,9 +8883,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/myrmex_resin_jungle": {
     "criteria": {
       "has_item": "2025-06-09 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-09 03:55:54 +0000"
     },
     "done": true
   },
@@ -8814,15 +8925,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_shovel": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-09 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-06-09 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
     },
     "done": true
   },
@@ -8838,9 +9021,105 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_sword": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-09 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-09 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
     },
     "done": true
   },
@@ -8850,9 +9129,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+    "criteria": {
+      "has_flower": "2025-06-09 04:01:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_hoe": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
     },
     "done": true
   },

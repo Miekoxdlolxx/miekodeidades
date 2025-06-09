@@ -46,7 +46,9 @@
       "coniferous_forest": "2025-06-07 00:03:41 +0000",
       "spider_nest": "2025-06-07 01:56:13 +0000",
       "dryland": "2025-06-09 03:21:19 +0000",
+      "wasteland": "2025-06-09 04:01:55 +0000",
       "lush_desert": "2025-06-09 03:41:11 +0000",
+      "wasteland_steppe": "2025-06-09 04:01:07 +0000",
       "dune_beach": "2025-06-08 06:18:52 +0000",
       "seasonal_forest": "2025-06-06 23:40:21 +0000",
       "rocky_rainforest": "2025-06-08 05:19:11 +0000",
@@ -62,6 +64,7 @@
       "minecraft:deep_ocean": "2025-06-08 04:54:27 +0000",
       "minecraft:eroded_badlands": "2025-06-09 03:21:05 +0000",
       "minecraft:birch_forest": "2025-06-09 01:13:20 +0000",
+      "minecraft:wooded_badlands": "2025-06-09 04:00:46 +0000",
       "minecraft:badlands": "2025-06-09 03:42:04 +0000",
       "minecraft:beach": "2025-06-08 04:14:46 +0000",
       "minecraft:river": "2025-06-06 23:46:55 +0000",
@@ -6012,6 +6015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-06-09 03:28:12 +0000"
@@ -6042,6 +6051,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_warn_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-06-09 04:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-09 03:28:12 +0000"
@@ -6054,9 +6069,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-06-09 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
     },
     "done": true
   },
@@ -6066,9 +6093,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-09 04:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-09 03:28:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-09 04:08:16 +0000"
     },
     "done": true
   },
@@ -6162,6 +6201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_shovel": {
     "criteria": {
       "has_item": "2025-06-09 03:40:10 +0000"
@@ -6171,6 +6216,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-06-09 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
     },
     "done": true
   },
@@ -6219,6 +6270,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-09 03:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-09 03:55:58 +0000"
     },
     "done": true
   },
@@ -6276,6 +6333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-09 03:28:14 +0000"
@@ -6303,6 +6366,18 @@
   "iceandfire:recipes/combat/myrmex_jungle_leggings": {
     "criteria": {
       "has_item": "2025-06-09 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2025-06-09 04:08:33 +0000"
     },
     "done": true
   },
@@ -6339,6 +6414,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-09 03:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:47:12 +0000"
     },
     "done": true
   },

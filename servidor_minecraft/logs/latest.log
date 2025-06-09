@@ -4636,3 +4636,260 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 03:49:31.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77) successfully connected to voice chat
 [09Jun2025 03:49:33.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
 [09Jun2025 03:49:39.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> XDDD
+[09Jun2025 03:49:56.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7616ms or 152 ticks behind
+[09Jun2025 03:50:18.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Imagina que se te quema la sopa snowy
+[09Jun2025 03:50:19.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> GG
+[09Jun2025 03:50:20.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9128ms or 182 ticks behind
+[09Jun2025 03:50:42.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6434ms or 128 ticks behind
+[09Jun2025 03:51:03.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6419ms or 128 ticks behind
+[09Jun2025 03:51:27.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[09Jun2025 03:51:49.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7527ms or 150 ticks behind
+[09Jun2025 03:52:11.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6811ms or 136 ticks behind
+[09Jun2025 03:52:34.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8166ms or 163 ticks behind
+[09Jun2025 03:52:55.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
+[09Jun2025 03:53:19.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9146ms or 182 ticks behind
+[09Jun2025 03:53:41.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6850ms or 137 ticks behind
+[09Jun2025 03:53:45.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 10.74857191414685,0.0,2.4917867114418186
+[09Jun2025 03:53:45.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 12.457690372796606,0.0,2.8138610339492516
+[09Jun2025 03:53:45.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 14.19595723700877,0.0,3.1296639489257814
+[09Jun2025 03:53:45.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 15.95993299492693,0.0,3.439935482459987
+[09Jun2025 03:53:45.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 10.480733030321062,0.0,1.8838162487299996
+[09Jun2025 03:53:45.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.585207038158842,0.0,-2.8763578872387825
+[09Jun2025 03:53:45.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.585207038158842,0.0,-2.8763578872387825
+[09Jun2025 03:53:45.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.585207038158842,0.0,-2.8763578872387825
+[09Jun2025 03:53:45.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -16.585207038158842,0.0,-2.8763578872387825
+[09Jun2025 03:54:02.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6269ms or 125 ticks behind
+[09Jun2025 03:54:25.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7681ms or 153 ticks behind
+[09Jun2025 03:54:47.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7419ms or 148 ticks behind
+[09Jun2025 03:55:10.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -11.361590287105173,0.0,-3.3213669262556778
+[09Jun2025 03:55:11.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8407ms or 168 ticks behind
+[09Jun2025 03:55:16.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved wrongly!
+[09Jun2025 03:55:32.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6608ms or 132 ticks behind
+[09Jun2025 03:55:37.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved wrongly!
+[09Jun2025 03:55:54.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6690ms or 133 ticks behind
+[09Jun2025 03:56:14.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5450ms or 109 ticks behind
+[09Jun2025 03:56:34.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[09Jun2025 03:56:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> afk un ratote
+[09Jun2025 03:56:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> xdd
+[09Jun2025 03:56:56.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6327ms or 126 ticks behind
+[09Jun2025 03:56:59.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:56:59.986] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.053] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.053] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.119] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.119] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.817] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.888] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:00.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:00.957] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.584] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.730] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.731] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:01.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:01.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.097] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.097] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.238] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.238] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.305] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.305] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:02.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:02.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.595] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.595] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:03.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:03.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:04.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:04.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:04.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128102, l='ServerLevel[world]', x=-130.81, y=3.36, z=1649.41]
+[09Jun2025 03:57:04.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/128103, l='ServerLevel[world]', x=-134.21, y=2.40, z=1652.08]
+[09Jun2025 03:57:19.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8006ms or 160 ticks behind
+[09Jun2025 03:57:40.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[09Jun2025 03:57:47.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 2.5950867898509387,-10.00543849943493,-0.32234276381495874
+[09Jun2025 03:57:58.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 0zisVt_[/127.190.182.36:49357] logged in with entity id 128622 at (59.5, 81.0, 1328.5)
+[09Jun2025 03:57:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ joined the game
+[09Jun2025 03:57:58.353] [Server thread/INFO] [Jade/]: Syncing config to 0zisVt_ (839f4b09-b848-3d6c-a785-0542424f9d36)
+[09Jun2025 03:57:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Ice and Fire]
+[09Jun2025 03:57:59.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 0zisVt_ (18)
+[09Jun2025 03:57:59.117] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 0zisVt_
+[09Jun2025 03:58:02.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7013ms or 140 ticks behind
+[09Jun2025 03:58:06.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 839f4b09-b848-3d6c-a785-0542424f9d36
+[09Jun2025 03:58:07.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 839f4b09-b848-3d6c-a785-0542424f9d36
+[09Jun2025 03:58:07.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0zisVt_ (839f4b09-b848-3d6c-a785-0542424f9d36) successfully connected to voice chat
+[09Jun2025 03:58:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> quien es ese
+[09Jun2025 03:58:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:58:25.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[09Jun2025 03:58:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to SnowyCW1]
+[09Jun2025 03:58:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 is incapacitated!
+[09Jun2025 03:58:49.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9328ms or 186 ticks behind
+[09Jun2025 03:58:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> ola
+[09Jun2025 03:58:57.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Alex's Mobs]
+[09Jun2025 03:58:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 03:59:14.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9361ms or 187 ticks behind
+[09Jun2025 03:59:15.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has been revived!
+[09Jun2025 03:59:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tambien me rompi las patas...
+[09Jun2025 03:59:38.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9245ms or 184 ticks behind
+[09Jun2025 03:59:39.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -0.37206255882665573,0.0,-11.816176651692558
+[09Jun2025 03:59:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to SnowyCW1]
+[09Jun2025 04:00:02.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9490ms or 189 ticks behind
+[09Jun2025 04:00:14.365] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 04:00:31.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13311ms or 266 ticks behind
+[09Jun2025 04:00:53.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.2635634942043907,0.0,9.985763877264162
+[09Jun2025 04:00:53.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.54157601427778,0.0,11.549068980263428
+[09Jun2025 04:00:53.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.7404945165517347,0.0,13.161103959545244
+[09Jun2025 04:00:53.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.8652336327513694,0.0,14.81519839395537
+[09Jun2025 04:00:53.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.910112626152113,0.0,16.5027629627009
+[09Jun2025 04:00:53.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 3.866136010548871,0.0,18.213780352931735
+[09Jun2025 04:00:53.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.8265414257029988,0.0,11.460095233502443
+[09Jun2025 04:00:53.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.591716788564554,0.0,13.190851777087573
+[09Jun2025 04:00:53.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 0.25565959275081696,0.0,14.917130804679346
+[09Jun2025 04:00:53.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -0.18304583385543083,0.0,16.63017314686681
+[09Jun2025 04:00:53.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -0.7212678851774399,0.0,18.32448848444983
+[09Jun2025 04:00:53.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -1.3554057373821706,0.0,19.995255210766118
+[09Jun2025 04:00:55.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! -5.239170294772521,0.0,10.611821214032261
+[09Jun2025 04:00:55.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Mapachito_44) moved too quickly! 5.252514130985219,0.0,-10.61182364700062
+[09Jun2025 04:01:00.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14409ms or 288 ticks behind
+[09Jun2025 04:01:25.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9994ms or 199 ticks behind
+[09Jun2025 04:01:48.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7933ms or 158 ticks behind
+[09Jun2025 04:01:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Stone Age]
+[09Jun2025 04:02:11.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8096ms or 161 ticks behind
+[09Jun2025 04:02:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Denle la bienvenida a 0zisVt_
+[09Jun2025 04:02:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 30 diamantes de bienvenida
+[09Jun2025 04:02:35.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8745ms or 174 ticks behind
+[09Jun2025 04:02:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> opa
+[09Jun2025 04:02:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Dragonslayer]
+[09Jun2025 04:02:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Getting an Upgrade]
+[09Jun2025 04:02:58.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8744ms or 174 ticks behind
+[09Jun2025 04:03:22.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8333ms or 166 ticks behind
+[09Jun2025 04:03:48.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11691ms or 233 ticks behind
+[09Jun2025 04:03:58.941] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=22, z=73}
+[09Jun2025 04:03:58.960] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=69}
+[09Jun2025 04:03:58.961] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=71}
+[09Jun2025 04:03:58.961] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=31, z=70}
+[09Jun2025 04:03:58.961] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=24, z=73}
+[09Jun2025 04:03:58.962] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=21, z=70}
+[09Jun2025 04:04:00.625] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=28, z=66}
+[09Jun2025 04:04:00.626] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=22, z=66}
+[09Jun2025 04:04:16.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12270ms or 245 ticks behind
+[09Jun2025 04:04:36.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved wrongly!
+[09Jun2025 04:04:44.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13802ms or 276 ticks behind
+[09Jun2025 04:05:01.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved wrongly!
+[09Jun2025 04:05:12.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12296ms or 245 ticks behind
+[09Jun2025 04:05:38.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11308ms or 226 ticks behind
+[09Jun2025 04:06:03.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10514ms or 210 ticks behind
+[09Jun2025 04:06:17.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> donde estan mis pai's ?
+[09Jun2025 04:06:30.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11413ms or 228 ticks behind
+[09Jun2025 04:06:33.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.31.231.168:38839] logged in with entity id 137763 at (-51.20085463580134, 7.0, 1109.431976882203)
+[09Jun2025 04:06:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[09Jun2025 04:06:33.143] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[09Jun2025 04:06:35.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[09Jun2025 04:06:35.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[09Jun2025 04:06:52.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b738b777-eade-3d4f-af74-b8ae1a39f592
+[09Jun2025 04:06:53.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b738b777-eade-3d4f-af74-b8ae1a39f592
+[09Jun2025 04:06:53.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) successfully connected to voice chat
+[09Jun2025 04:06:53.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 839f4b09-b848-3d6c-a785-0542424f9d36 timed out
+[09Jun2025 04:06:53.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 0zisVt_
+[09Jun2025 04:06:53.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 0zisVt_
+[09Jun2025 04:06:53.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 839f4b09-b848-3d6c-a785-0542424f9d36
+[09Jun2025 04:06:54.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 839f4b09-b848-3d6c-a785-0542424f9d36
+[09Jun2025 04:06:54.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0zisVt_ (839f4b09-b848-3d6c-a785-0542424f9d36) successfully connected to voice chat
+[09Jun2025 04:06:56.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11331ms or 226 ticks behind
+[09Jun2025 04:07:24.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13143ms or 262 ticks behind
+[09Jun2025 04:07:31.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[09Jun2025 04:07:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[09Jun2025 04:07:50.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11027ms or 220 ticks behind
+[09Jun2025 04:08:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 0zisVt_]
+[09Jun2025 04:08:16.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[09Jun2025 04:08:16.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10525ms or 210 ticks behind
+[09Jun2025 04:08:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[09Jun2025 04:08:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Aun no dicen nada Mieko :c
+[09Jun2025 04:08:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has completed the challenge [Find: Ruin pillager]
+[09Jun2025 04:08:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Suit Up]
+[09Jun2025 04:08:42.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11190ms or 223 ticks behind
+[09Jun2025 04:08:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> del 4v4
+[09Jun2025 04:08:50.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> damn estos son gucci
+[09Jun2025 04:09:03.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Isn't It Iron Pick]
+[09Jun2025 04:09:10.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13286ms or 265 ticks behind
+[09Jun2025 04:09:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> comida
+[09Jun2025 04:09:13.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has completed the challenge [Find: Warn temple]
+[09Jun2025 04:09:14.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has completed the challenge [Find: Warn temple]
+[09Jun2025 04:09:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no
+[09Jun2025 04:09:41.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16267ms or 325 ticks behind
+[09Jun2025 04:09:44.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> si
+[09Jun2025 04:09:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KLSALKSALK
+[09Jun2025 04:09:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0zisVt_ has made the advancement [Sneak 100]
+[09Jun2025 04:10:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJ
+[09Jun2025 04:10:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> WARDEN DE BIENVENIDA
+[09Jun2025 04:10:11.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14363ms or 287 ticks behind
+[09Jun2025 04:10:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <0zisVt_> recuerdos de vietnam
