@@ -33,6 +33,7 @@
     "criteria": {
       "shrubland": "2025-06-07 00:03:27 +0000",
       "rocky_shrubland": "2025-06-06 23:41:05 +0000",
+      "scrubland": "2025-06-09 02:29:28 +0000",
       "highland": "2025-06-08 05:19:40 +0000",
       "clover_patch": "2025-06-07 05:47:19 +0000",
       "old_growth_woodland": "2025-06-08 06:25:19 +0000",
@@ -68,6 +69,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-08 04:54:26 +0000",
       "minecraft:frozen_peaks": "2025-06-07 05:45:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-09 01:41:20 +0000",
+      "minecraft:savanna": "2025-06-09 02:30:20 +0000",
       "minecraft:plains": "2025-06-07 04:50:33 +0000"
     },
     "done": false
@@ -5564,6 +5566,48 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-09 01:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-09 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-09 01:15:47 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-09 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-06-09 01:36:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-09 01:39:13 +0000"
@@ -5660,18 +5704,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-06-09 02:16:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:13 +0000"
@@ -5720,18 +5752,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-06-09 01:15:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-09 01:39:13 +0000"
@@ -5768,12 +5788,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-06-09 01:15:46 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_top": "2025-06-09 01:39:13 +0000"
@@ -5789,12 +5803,6 @@
   "cfm:recipes/decorations/magenta_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:13 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-06-09 01:36:23 +0000"
     },
     "done": true
   },
@@ -5864,30 +5872,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-06-09 01:36:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-06-09 01:15:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-09 01:15:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:13 +0000"
@@ -5906,12 +5890,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:13 +0000"
@@ -5924,21 +5902,57 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/toxic_paste": {
-    "criteria": {
-      "toxic_paste": "2025-06-09 02:21:23 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:13 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_flower": "2025-06-09 01:09:18 +0000"
+      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-09 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-09 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-09 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-09 02:30:57 +0000"
     },
     "done": true
   },

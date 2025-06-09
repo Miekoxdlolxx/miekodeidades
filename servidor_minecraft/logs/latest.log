@@ -2513,3 +2513,117 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 02:26:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la de los aldeanos gigi
 [09Jun2025 02:26:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 was turned into gorgonzola by a gorgon and bled out
 [09Jun2025 02:26:11.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> ai carbon
+[09Jun2025 02:27:00.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[09Jun2025 02:27:16.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> `PTRM
+[09Jun2025 02:27:24.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Jun2025 02:27:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> GG pues
+[09Jun2025 02:27:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 02:27:30.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pasa
+[09Jun2025 02:27:31.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[09Jun2025 02:27:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pasa
+[09Jun2025 02:27:34.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> cristal
+[09Jun2025 02:27:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :D
+[09Jun2025 02:27:39.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> espejo
+[09Jun2025 02:27:40.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> digo
+[09Jun2025 02:27:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Clash of the Titans]
+[09Jun2025 02:27:50.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.184.149.136:38651] logged in with entity id 56820 at (876.3184163686029, -43.0, 6029.023099523834)
+[09Jun2025 02:27:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[09Jun2025 02:27:50.638] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[09Jun2025 02:27:52.179] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[09Jun2025 02:27:52.180] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[09Jun2025 02:27:53.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No alargues tu muerte...
+[09Jun2025 02:27:55.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Jun2025 02:28:01.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> dejate ir
+[09Jun2025 02:28:02.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 02:28:03.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 02:28:03.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[09Jun2025 02:28:11.020] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[09Jun2025 02:28:11.021] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[09Jun2025 02:28:11.033] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[09Jun2025 02:28:14.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[09Jun2025 02:28:21.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[09Jun2025 02:28:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> fue un gusto
+[09Jun2025 02:28:28.348] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[09Jun2025 02:28:28.385] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[09Jun2025 02:28:28.386] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[09Jun2025 02:28:28.386] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[09Jun2025 02:28:28.386] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[09Jun2025 02:28:28.386] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[09Jun2025 02:28:33.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[09Jun2025 02:28:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oe pendejo
+[09Jun2025 02:28:35.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5104ms or 102 ticks behind
+[09Jun2025 02:28:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ was slain by 01_NutriaKing
+[09Jun2025 02:28:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mi totem
+[09Jun2025 02:28:39.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 02:28:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 02:28:56.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6141ms or 122 ticks behind
+[09Jun2025 02:29:05.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> we
+[09Jun2025 02:29:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me debes un totem
+[09Jun2025 02:29:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported titanhumilde7w7 to 01_NutriaKing]
+[09Jun2025 02:29:17.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6240ms or 124 ticks behind
+[09Jun2025 02:29:19.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[09Jun2025 02:29:22.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[09Jun2025 02:29:25.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> me debes totem eh
+[09Jun2025 02:29:26.394] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[09Jun2025 02:29:26.394] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[09Jun2025 02:29:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A LA MRD
+[09Jun2025 02:29:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> GOGOGO
+[09Jun2025 02:29:37.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5562ms or 111 ticks behind
+[09Jun2025 02:29:56.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[09Jun2025 02:30:15.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[09Jun2025 02:30:33.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[09Jun2025 02:30:46.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has completed the challenge [Praise the Sun]
+[09Jun2025 02:30:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> ay carbon
+[09Jun2025 02:30:59.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jun2025 02:31:37.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> por que se nota que nutria queria las cosas op
+[09Jun2025 02:31:50.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jun2025 02:31:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero igual
+[09Jun2025 02:31:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> le sigo ganando
+[09Jun2025 02:31:53.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> gg
+[09Jun2025 02:31:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KASKLSAKL
+[09Jun2025 02:32:25.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jun2025 02:32:25.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5017, y=1, z=2212} BlockPos{x=-5016, y=-1, z=2212}
+[09Jun2025 02:32:26.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5017, y=1, z=2212} BlockPos{x=-5016, y=-1, z=2212}
+[09Jun2025 02:32:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[09Jun2025 02:32:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was slain by Nekkai_ using [Mata Gays <3]
+[09Jun2025 02:32:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Draconic Evolution]
+[09Jun2025 02:32:45.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
+[09Jun2025 02:32:48.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jun2025 02:33:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> okey, ya tengo repa
+[09Jun2025 02:33:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> toca deforestar
+[09Jun2025 02:33:36.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Jun2025 02:33:55.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jun2025 02:34:13.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
+[09Jun2025 02:34:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has reached the goal [Horror Under the Mantle]
+[09Jun2025 02:34:25.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Dark Metallurgy]
+[09Jun2025 02:34:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> gg robando todo titan
+[09Jun2025 02:34:31.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[09Jun2025 02:34:33.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has reached the goal [Fighting Nightmares]
+[09Jun2025 02:34:57.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
+[09Jun2025 02:35:14.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[09Jun2025 02:35:26.883] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40337594[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.121.151.4:43219) lost connection: Disconnected
+[09Jun2025 02:35:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> deja de acusarme de todo
+[09Jun2025 02:35:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que te voy a meter un rayo
+[09Jun2025 02:35:34.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
+[09Jun2025 02:35:34.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que te dejara peor
+[09Jun2025 02:35:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [The day of the Dead]
+[09Jun2025 02:35:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has reached the goal [Big Boy]
+[09Jun2025 02:35:53.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
+[09Jun2025 02:36:08.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@110c03cc[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.121.151.4:51853) lost connection: Disconnected
+[09Jun2025 02:36:09.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has reached the goal [Flowers of the Savanna]
+[09Jun2025 02:36:10.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[09Jun2025 02:36:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Desde cuando aca tan cariñoso...
+[09Jun2025 02:36:27.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[09Jun2025 02:36:38.217] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fea616[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.121.151.4:43871) lost connection: Disconnected
+[09Jun2025 02:36:45.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[09Jun2025 02:36:48.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [It Belongs in a Museum]
+[09Jun2025 02:36:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Yo deberia estar en un museo..
+[09Jun2025 02:37:02.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[09Jun2025 02:37:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ns
+[09Jun2025 02:37:09.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d0686cc[id=<null>,name=pansaelgato85,properties={},legacy=false] (/127.121.151.4:58531) lost connection: Disconnected

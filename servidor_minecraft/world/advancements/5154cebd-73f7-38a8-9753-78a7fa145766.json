@@ -33,6 +33,7 @@
     "criteria": {
       "shrubland": "2025-06-06 22:36:18 +0000",
       "rocky_shrubland": "2025-06-06 22:36:12 +0000",
+      "scrubland": "2025-06-09 02:26:56 +0000",
       "highland": "2025-06-07 06:20:46 +0000",
       "jade_cliffs": "2025-06-07 05:55:25 +0000",
       "clover_patch": "2025-06-06 23:09:27 +0000",
@@ -106,6 +107,7 @@
       "minecraft:frozen_peaks": "2025-06-07 05:31:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 22:48:13 +0000",
       "minecraft:meadow": "2025-06-07 03:49:27 +0000",
+      "minecraft:savanna": "2025-06-09 02:29:50 +0000",
       "minecraft:plains": "2025-06-07 01:04:29 +0000"
     },
     "done": false
@@ -8413,6 +8415,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-06-09 02:34:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
       "has_magnet_upgrade": "2025-06-09 01:39:58 +0000"
@@ -8488,6 +8496,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-06-09 01:27:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-09 02:30:46 +0000"
     },
     "done": true
   },
