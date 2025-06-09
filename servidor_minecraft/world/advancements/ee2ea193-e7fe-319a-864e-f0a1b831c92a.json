@@ -33,6 +33,7 @@
     "criteria": {
       "shrubland": "2025-06-06 22:50:55 +0000",
       "rocky_shrubland": "2025-06-06 22:49:45 +0000",
+      "highland": "2025-06-09 04:59:47 +0000",
       "clover_patch": "2025-06-06 23:16:37 +0000",
       "mystic_grove": "2025-06-06 23:15:01 +0000",
       "orchard": "2025-06-08 03:16:18 +0000",
@@ -72,8 +73,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-06-09 05:09:35 +0000",
+      "minecraft:windswept_hills": "2025-06-09 05:09:07 +0000",
       "minecraft:beach": "2025-06-06 23:16:17 +0000",
       "minecraft:river": "2025-06-06 08:56:51 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-09 04:59:24 +0000",
       "minecraft:plains": "2025-06-09 04:58:07 +0000"
     },
     "done": false
@@ -6539,6 +6543,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-06-09 05:08:22 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-06-09 03:27:48 +0000"
@@ -6596,6 +6606,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-09 04:28:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-09 05:01:03 +0000"
     },
     "done": true
   },

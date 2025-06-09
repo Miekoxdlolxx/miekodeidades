@@ -7186,6 +7186,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-09 05:08:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-06-09 04:53:54 +0000"
@@ -7288,6 +7294,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-09 05:08:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-06-09 04:14:36 +0000"
@@ -7297,6 +7309,12 @@
   "cfm:recipes/decorations/dye_pink_picket_gate": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-09 05:08:56 +0000"
     },
     "done": true
   },
@@ -7315,6 +7333,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-06-09 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-09 05:01:02 +0000"
     },
     "done": true
   },

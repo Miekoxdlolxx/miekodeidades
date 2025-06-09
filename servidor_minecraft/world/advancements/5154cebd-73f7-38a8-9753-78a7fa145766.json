@@ -8818,9 +8818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-09 05:02:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_log": "2025-06-09 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-09 05:04:11 +0000"
     },
     "done": true
   },
@@ -8839,6 +8851,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-06-09 05:07:50 +0000"
     },
     "done": true
   },
@@ -8938,9 +8956,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-09 05:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-09 05:04:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_axe": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-06-09 05:09:02 +0000"
     },
     "done": true
   },
@@ -9016,6 +9052,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-06-09 05:07:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-06-09 04:23:31 +0000"
@@ -9061,6 +9103,12 @@
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-06-09 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-09 05:02:44 +0000"
     },
     "done": true
   },
@@ -9202,6 +9250,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-06-09 05:08:27 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
@@ -9289,6 +9343,12 @@
   "cfm:recipes/decorations/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-09 05:08:06 +0000"
     },
     "done": true
   },
@@ -9418,6 +9478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-09 05:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
@@ -9448,6 +9514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-09 05:04:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2025-06-09 04:13:02 +0000"
@@ -9475,6 +9547,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-09 05:08:10 +0000"
     },
     "done": true
   },
