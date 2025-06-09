@@ -9924,6 +9924,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2025-06-09 05:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-06-09 05:11:48 +0000"
@@ -9951,6 +9957,12 @@
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-06-09 05:07:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-06-09 05:31:00 +0000"
     },
     "done": true
   },

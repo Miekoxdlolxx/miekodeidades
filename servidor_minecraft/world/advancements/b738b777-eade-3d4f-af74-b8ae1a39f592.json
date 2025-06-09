@@ -7138,6 +7138,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-06-09 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-09 05:28:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_pink_picket_fence": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
@@ -7153,6 +7165,12 @@
   "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:27:21 +0000"
     },
     "done": true
   },
@@ -7192,6 +7210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2025-06-09 05:27:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-06-09 04:53:54 +0000"
@@ -7216,6 +7240,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-06-09 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:27:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/pink_toilet": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
@@ -7231,6 +7267,12 @@
   "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2025-06-09 05:27:28 +0000"
     },
     "done": true
   },
@@ -7258,6 +7300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-06-09 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-06-09 05:28:23 +0000",
+      "pants": "2025-06-09 05:28:24 +0000",
+      "helmet": "2025-06-09 05:28:19 +0000",
+      "boots": "2025-06-09 05:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-09 04:35:26 +0000"
@@ -7267,6 +7324,12 @@
   "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:27:21 +0000"
     },
     "done": true
   },
@@ -7288,9 +7351,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-09 05:26:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-09 05:27:28 +0000"
     },
     "done": true
   },
@@ -7324,6 +7399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:27:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-09 04:35:26 +0000"
@@ -7339,6 +7420,12 @@
   "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {
       "stalked_by_deep_one": "2025-06-09 05:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-06-09 05:27:21 +0000"
     },
     "done": true
   },
