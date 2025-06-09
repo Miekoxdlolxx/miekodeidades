@@ -6010,3 +6010,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [09Jun2025 05:54:00.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 14.079778276601246,0.0,3.1609829168482975
 [09Jun2025 05:54:16.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9448ms or 188 ticks behind
 [09Jun2025 05:54:39.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8549ms or 170 ticks behind
+[09Jun2025 05:55:05.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11257ms or 225 ticks behind
+[09Jun2025 05:55:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> entonce una isla de las champivacas
+[09Jun2025 05:55:16.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 7.683003888592793,0.0,7.457277278406764
+[09Jun2025 05:55:29.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9136ms or 182 ticks behind
+[09Jun2025 05:55:51.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6888ms or 137 ticks behind
+[09Jun2025 05:56:15.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
+[09Jun2025 05:56:38.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8270ms or 165 ticks behind
+[09Jun2025 05:56:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Mother of Dragons]
+[09Jun2025 05:56:43.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 5.342991181873913,0.0,-9.214976256993396
+[09Jun2025 05:56:43.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 6.283955958535444,0.0,-10.454412866669372
+[09Jun2025 05:56:43.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 7.264351618010551,0.0,-11.670336791517911
+[09Jun2025 05:56:43.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 8.282000275935388,0.0,-12.862424485792872
+[09Jun2025 05:56:43.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 9.333725361514553,0.0,-14.031913424887534
+[09Jun2025 05:56:43.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 10.417376382133625,0.0,-15.178987009327102
+[09Jun2025 05:56:43.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 11.531341187572252,0.0,-16.303322865755035
+[09Jun2025 05:56:43.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 12.675886011080365,0.0,-17.402000721463992
+[09Jun2025 05:56:43.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 13.849851342237343,0.0,-18.47424471040722
+[09Jun2025 05:56:43.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 15.050513224288807,0.0,-19.521972850832753
+[09Jun2025 05:56:43.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 16.276476173072297,0.0,-20.545179628275946
+[09Jun2025 05:56:43.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 17.527300328529236,0.0,-21.542338423741967
+[09Jun2025 05:56:43.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 18.801950280329947,0.0,-22.513041507168964
+[09Jun2025 05:56:43.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 15.656122712802244,0.0,-15.503824429893939
+[09Jun2025 05:56:43.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 16.97610616536258,0.0,-16.419205571693965
+[09Jun2025 05:56:43.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 18.31689353249658,0.0,-17.30738520836894
+[09Jun2025 05:56:43.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 05:56:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> de fuego o q
+[09Jun2025 05:57:00.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6848ms or 136 ticks behind
+[09Jun2025 05:57:05.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 05:57:19.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
+[09Jun2025 05:57:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya encontre algas
+[09Jun2025 05:57:40.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[09Jun2025 05:57:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> quieren?
+[09Jun2025 05:57:58.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[09Jun2025 05:58:19.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
+[09Jun2025 05:58:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> miko ya puedes quitar la vision
+[09Jun2025 05:58:42.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7995ms or 159 ticks behind
+[09Jun2025 05:59:04.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6534ms or 130 ticks behind
+[09Jun2025 05:59:24.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[09Jun2025 05:59:43.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4672ms or 93 ticks behind
+[09Jun2025 05:59:53.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 was kicked for floating too long!
+[09Jun2025 05:59:53.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Flying is not enabled on this server
+[09Jun2025 05:59:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[09Jun2025 05:59:53.616] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[09Jun2025 05:59:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ya tengo algas
+[09Jun2025 06:00:03.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[09Jun2025 06:00:13.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.169.39.231:54743] logged in with entity id 242104 at (3848.8035333516727, 64.71723995407618, 7035.018585320286)
+[09Jun2025 06:00:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[09Jun2025 06:00:13.223] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[09Jun2025 06:00:13.713] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[09Jun2025 06:00:13.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[09Jun2025 06:00:20.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 06:00:21.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9609ff6a-5029-3f4e-94a7-bf1273386efd
+[09Jun2025 06:00:21.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd) successfully connected to voice chat
+[09Jun2025 06:00:23.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4936ms or 98 ticks behind
+[09Jun2025 06:00:47.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9693ms or 193 ticks behind
+[09Jun2025 06:01:09.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
+[09Jun2025 06:01:12.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jun2025 06:01:33.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9175ms or 183 ticks behind
+[09Jun2025 06:01:41.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! 8.684847189340871,0.0,5.832654271333013
+[09Jun2025 06:01:57.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8573ms or 171 ticks behind
+[09Jun2025 06:02:18.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6555ms or 131 ticks behind
+[09Jun2025 06:02:22.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved too quickly! -9.655807639945124,0.0,5.090723826042449
+[09Jun2025 06:02:40.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved wrongly! 0.9958608218457812
+[09Jun2025 06:02:40.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved wrongly! 1.8884383989588969
+[09Jun2025 06:02:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved wrongly! 2.0
+[09Jun2025 06:02:40.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved wrongly! 2.0
+[09Jun2025 06:02:40.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Mapachito_44) moved wrongly! 1.1854496725500212
+[09Jun2025 06:02:40.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
+[09Jun2025 06:03:00.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[09Jun2025 06:03:19.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Jun2025 06:03:37.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[09Jun2025 06:04:01.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jun2025 06:04:10.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Gravedigger]
+[09Jun2025 06:04:18.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[09Jun2025 06:04:37.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[09Jun2025 06:04:55.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[09Jun2025 06:05:15.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4887ms or 97 ticks behind

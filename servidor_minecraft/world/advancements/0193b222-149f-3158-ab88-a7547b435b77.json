@@ -66,6 +66,8 @@
       "snowy_fir_clearing": "2025-06-08 07:04:19 +0000",
       "snowy_coniferous_forest": "2025-06-09 02:24:12 +0000",
       "glowing_grotto": "2025-06-08 02:20:16 +0000",
+      "origin_valley": "2025-06-09 05:55:05 +0000",
+      "tropics": "2025-06-09 05:54:30 +0000",
       "crag": "2025-06-06 23:03:19 +0000"
     },
     "done": false
@@ -73,6 +75,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-08 04:42:24 +0000",
+      "minecraft:mushroom_fields": "2025-06-09 05:54:29 +0000",
       "minecraft:taiga": "2025-06-06 22:38:34 +0000",
       "minecraft:deep_ocean": "2025-06-08 07:03:41 +0000",
       "minecraft:frozen_river": "2025-06-08 08:02:18 +0000",
@@ -10066,6 +10069,30 @@
   "alexscaves:alexscaves/defeat_mine_guardian": {
     "criteria": {
       "killed": "2025-06-09 05:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-09 05:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-09 05:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-09 05:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-09 05:58:07 +0000"
     },
     "done": true
   },
