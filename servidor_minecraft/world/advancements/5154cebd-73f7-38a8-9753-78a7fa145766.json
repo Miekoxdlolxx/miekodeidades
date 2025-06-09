@@ -8317,6 +8317,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-09 01:43:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-09 01:43:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
@@ -8332,6 +8344,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-09 01:43:38 +0000"
     },
     "done": true
   },
