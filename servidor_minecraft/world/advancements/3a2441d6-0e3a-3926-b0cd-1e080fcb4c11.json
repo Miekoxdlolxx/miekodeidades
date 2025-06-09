@@ -3633,6 +3633,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-06 22:19:44 +0000",
       "minecraft:spider": "2025-06-06 22:14:40 +0000",
+      "minecraft:creeper": "2025-06-09 01:25:39 +0000",
       "minecraft:wither_skeleton": "2025-06-07 05:14:09 +0000",
       "minecraft:enderman": "2025-06-07 05:14:28 +0000",
       "minecraft:stray": "2025-06-07 05:31:02 +0000",
@@ -6979,6 +6980,18 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-08 06:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-09 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-09 01:28:05 +0000"
     },
     "done": true
   },

@@ -8281,9 +8281,129 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-09 01:24:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-09 01:27:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-06-09 01:39:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-09 01:27:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
     },
     "done": true
   },
@@ -8293,9 +8413,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-09 01:27:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-06-09 01:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-06-09 01:39:08 +0000"
     },
     "done": true
   },
