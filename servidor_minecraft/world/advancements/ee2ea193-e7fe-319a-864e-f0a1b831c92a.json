@@ -4262,6 +4262,7 @@
       "minecraft:phantom": "2025-06-08 06:10:30 +0000",
       "minecraft:witch": "2025-06-06 23:40:26 +0000",
       "minecraft:enderman": "2025-06-09 03:32:50 +0000",
+      "minecraft:stray": "2025-06-09 04:19:25 +0000",
       "minecraft:zombie": "2025-06-07 00:28:26 +0000",
       "minecraft:drowned": "2025-06-08 08:55:55 +0000"
     },
@@ -6499,6 +6500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-09 04:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-06-09 04:18:35 +0000"
@@ -6520,6 +6527,18 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-09 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-09 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-09 04:26:26 +0000"
     },
     "done": true
   },

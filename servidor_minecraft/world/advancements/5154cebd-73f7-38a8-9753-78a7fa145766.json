@@ -64,6 +64,7 @@
       "grassland": "2025-06-06 22:44:34 +0000",
       "prairie": "2025-06-07 06:36:26 +0000",
       "glowing_grotto": "2025-06-08 00:06:28 +0000",
+      "tropics": "2025-06-09 04:20:18 +0000",
       "rainforest": "2025-06-07 23:44:08 +0000",
       "ominous_woods": "2025-06-07 22:50:20 +0000"
     },
@@ -8793,6 +8794,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
@@ -8820,6 +8827,12 @@
   "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
       "has_item": "2025-06-09 04:13:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -8859,6 +8872,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:ocean_warn_temple/find_normal": {
     "criteria": {
       "requirement": "2025-06-09 04:09:14 +0000"
@@ -8895,6 +8914,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-06-09 04:08:02 +0000"
@@ -8916,6 +8941,12 @@
   "iceandfire:recipes/tools/myrmex_jungle_axe": {
     "criteria": {
       "has_item": "2025-06-09 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -8943,9 +8974,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -8964,6 +9007,18 @@
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-06-09 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -9075,6 +9130,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
@@ -9084,6 +9145,12 @@
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -9165,6 +9232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_picket_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
@@ -9174,6 +9247,12 @@
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -9261,6 +9340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:55:57 +0000"
@@ -9270,6 +9355,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_the_recipe": "2025-06-09 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -9288,6 +9379,18 @@
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-06-09 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
@@ -9336,6 +9439,18 @@
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-06-09 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-09 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 04:23:31 +0000"
     },
     "done": true
   },
